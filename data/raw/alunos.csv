@@ -1,0 +1,2001 @@
+id_aluno,nome,cpf,turma
+1,Camila Clara Fernandes Costa,03153888214,R+ Clínica 2026
+2,Marcelo Vinícius Assunção Rodrigues,40433335378,R+ Clínica 2026
+3,amanda magalhães nunes,21119787118,Extensivo 2026
+4,caio antônio nunes teixeira,65306011998,Extensivo 2025
+5,Rafaela Fernanda Moura Machado,88002300921,R+ Clínica 2026
+6,luiza lima batista,03657744901,Extensivo 2025
+7,Bruno Lima,95201491138,R+ Clínica 2026
+8,Patrícia  Vitória Dias Alves ,26322399832,Extensivo 2026
+9,Thiago  Gabriel Assuncao Guimaraes da Silva ,42886050503,Extensivo 2025
+10,Matheus  Vinícius Gonçalves de Marques Magalhães ,26003083516,Extensivo 2025
+11,Debora  Martins ,27153123435,R+ Clínica 2026
+12,Matheus Antônio F. Santos,68293844011,Intensivo 2026
+13,Fábio José Andrade da Assunção de Barbosa,37882603365,Extensivo 2026
+14,andré moreira g. alves,99144920714,Intensivo 2026
+15,Pedro Martins Ramos Rocha,64899718452,R+ Clínica 2026
+16,Ana Moreira Marques,91408499382,Intensivo 2026
+17,Gabriela Carvalho Marques Araujo,66980690877,Intensivo 2026
+18,rodrigo eduardo rocha nascimento carvalho,34838935995,Intensivo 2026
+19,marcelo alves de freitas,40561299685,Extensivo 2026
+20,Patrícia Clara Assunção Martins,64186965661,Intensivo 2026
+21,Vinicius Luiz Roha,38595143436,Intensivo 2026
+22,Felipe  Paulo Nunes Lopes Costa ,02730086936,Extensivo 2025
+23,Luiza  A. Ribeiro Soares ,39500168069,R+ Clínica 2026
+24,Patrícia L. Dias Pereira,83976205334,R+ Clínica 2026
+25,carolina eduarda nascimento barbosa de santana,26629250871,Extensivo 2025
+26,Gabriel Cardoso de Oliveira,91406884113,Intensivo 2026
+27,Carolina Luisa Lima,55235617801,Extensivo 2025
+28,Gabrie lP. Cavalcanti de Teixeira,85277895671,Intensivo 2026
+29,Marcelo Luiz Santos,49029502614,Extensivo 2026
+30,Larissa Aparecida Barbosa Machado,16781277882,Intensivo 2026
+31,Larissa M. Lima Santana,13486298527,Extensivo 2025
+32,Fernanda Araújo da Costa,82856053977,Extensivo 2026
+33,Natália Helena Guimarães de Gomes Teixeira,17706736882,Extensivo 2026
+34,Rafael  Rocha Gomes ,22355216580,R+ Clínica 2026
+35,Larissa Fernanda Silva Machado,82192596729,Extensivo 2026
+36,Larissa Rodrigues Fernandes,99848022065,Extensivo 2026
+37,Bruno Vinícius Souza Santana,48424959888,Extensivo 2026
+38,Daniel Paulo Nunes de Moura,07152386726,Extensivo 2025
+39,Patricia Beatriz Barbosa Soares de Araujo,19177987698,Intensivo 2026
+40,Matheus Freitas Ribeiro Mendes,25893708588,Extensivo 2026
+41,pedro henrique martins de araujo,05669579070,Extensivo 2026
+42,Daniel Luiz Nunes Rocha,28679632589,R+ Clínica 2026
+43,Carolina Aparecida Rocha,94633891576,Intensivo 2026
+44,Larissa Fernanda Assunção,57256292619,Intensivo 2026
+45,Rodrigo Eduardo Goncalves,51381865590,Extensivo 2025
+46,Thiago Gabriel Teixeira,09574430314,Extensivo 2026
+47,Rafaela  Araújo Guimarães ,17972038529,Intensivo 2026
+48,Amanda Silva Magalhaes,41547155351,Intensivo 2026
+49,Vinícius Henrique Andrade Santana,81367500934,Intensivo 2026
+50,Gabriel  José Oliveira Lopes Santana ,52769819827,Extensivo 2026
+51,Mariana Eduarda Monteiro Ramos,88856225866,Extensivo 2025
+52,Rodrigo Felipe L. de Guimarães,44227585448,R+ Clínica 2026
+53,Thiago Marques Soares,94282491156,R+ Clínica 2026
+54,Débora C. Silva Roch de Rodrigues,13215513055,R+ Clínica 2026
+55,Rafael Paulo Machado,21444889686,Extensivo 2025
+56,Rodrigo Paulo Guimarães Carvalho,74620258265,R+ Clínica 2026
+57,fernanda monteiro de souza,12312392054,Extensivo 2026
+58,Fernanda C. Santos Batista,87508276861,Extensivo 2025
+59,Fábio Henrique Teixeira de Pereira Moreira,84726290592,Extensivo 2026
+60,Amanda Clara Soares,83160827147,Intensivo 2026
+61,Rafaela Beatriz Carvaloh,99205222969,Intensivo 2026
+62,Matheus Antônio Dias Fernandes Rodrigues,91438823245,R+ Clínica 2026
+63,Carolina Fernanda Souza de Andrade,44617773256,R+ Clínica 2026
+64,Gabriela Ferreira Vieira,97912799780,Intensivo 2026
+65,Leticia Batista de Pereira Cavalcanti,87137529888,Intensivo 2026
+66,Debora Monteiro,25608320044,Extensivo 2025
+67,Rafael Gabriel Carvalho,89753585273,Extensivo 2025
+68,Maria Carolina Silva,03044361959,R+ Clínica 2026
+69,Debora Ferreira Marques,39102929510,Extensivo 2026
+70,Vinícius Assunção Lima,30930967163,Extensivo 2025
+71,Thiagoo V. Lopes Monteiro,76720191131,Extensivo 2025
+72,Bruno Andrade da Silva de Pereira,58733930459,Intensivo 2026
+73,Rafaela Luísa Assunção Santos de Alves,48124211450,Extensivo 2025
+74,Gabriela  Guimaraes Lopes ,52294620953,R+ Clínica 2026
+75,Rafaela Freitas Monteiro,03995297061,Intensivo 2026
+76,Larissa Assuncao,58585642330,R+ Clínica 2026
+77,Mariana Ferreira Magalhaes Carvalho,61592738774,Extensivo 2026
+78,andré vinícius moreira barbosa,90632248195,R+ Clínica 2026
+79,Bruna Eduarda Ribeiro Brandão de Moura,40301095617,Extensivo 2025
+80,Débora  Silva Barbosa ,79554623447,Extensivo 2026
+81,daniel  carvalho de goncalves ,18103068341,Extensivo 2025
+82,rafaela eduarda ribeiro,80808157132,Extensivo 2026
+83,juliana cristina pereira de ramos silva,67130735150,R+ Clínica 2026
+84,Rafaela Vitoria Costa Barbosa,30096258815,Extensivo 2025
+85,gustavo  jose pereira de oliveira ,33962746616,Intensivo 2026
+86,Rafaela  Brandão C. Moreira ,46661459081,Extensivo 2026
+87,João  Vinícius Soaares ,49388194910,R+ Clínica 2026
+88,CamilaC  lara Alves de Ramos ,94976987301,Intensivo 2026
+89,Rafael Luiz Araújo de Ramos,16612374027,Extensivo 2025
+90,Rodrigo Santos,62389949921,Extensivo 2025
+91,Fernanda Vitoria Moreira,62037087812,Extensivo 2026
+92,Gustavo E. Martins Araújo,41813599819,Extensivo 2025
+93,camila vitória freitas lima,89480186484,Intensivo 2026
+94,Marcelo Paulo Nascimento de Fernandes,39785708240,Extensivo 2026
+95,Leonardo Eduardo Moura,36914961142,Extensivo 2025
+96,Ana Clara Mendes Marques Araújo,27697040965,Intensivo 2026
+97,Ana Luísa Cavalcanti Barbosa,07832748833,R+ Clínica 2026
+98,Juliana Cristina Barbosa Assunção,62409649656,Intensivo 2026
+99,Lucas Eduardo Freitas da Silva Machado,70285162205,Intensivo 2026
+100,Beatriz Luísa Costa,89348688319,Extensivo 2026
+101,Isabela Eduarda Costa,87991609101,R+ Clínica 2026
+102,Fábio H. Guimarães Carvalho,92361337630,R+ Clínica 2026
+103,Vinicius Henrique Lima Conceicao Mendes,02544724109,Extensivo 2026
+104,Bruno Vinícius Guimarães de Magalhães,66177182419,Extensivo 2026
+105,Pedro Gabriel Vieira,78214174688,Extensivo 2026
+106,Beatriz Ferreira,64869893956,Extensivo 2025
+107,Letícia Pereira,15594501199,Intensivo 2026
+108,Lucas Freitas de Brando Ramos,05117160379,Extensivo 2025
+109,pedro paulo vieira soares magalhães,45590670080,R+ Clínica 2026
+110,maria vitoria silva de nascimento guimaraes,64896676075,Extensivo 2025
+111,Débora Aparecida de Souza,80974533819,Extensivo 2026
+112,Natalia Mendes Batista,66226540196,R+ Clínica 2026
+113,Beatriz Helena Conceicao Alves Mendes,21224276727,R+ Clínica 2026
+114,natalia beatriz costa santana,11584886030,Extensivo 2026
+115,Caio Luiz Cavalcanti Almeida,31299570407,Intensivo 2026
+116,Thiago  Paulo Marques Ramos ,12038437563,Extensivo 2025
+117,marcelo josé rocha ribeiro freitas,25482421893,R+ Clínica 2026
+118,fábio henrique soares araújo,64454752311,Extensivo 2026
+119,Vitória Beatriz Nascimento de Mendes,79177633412,Extensivo 2025
+120,Isabela Eduarda Santos de Araújo de Marques,75080196370,R+ Clínica 2026
+121,Rodrigo Gabriel Guimraaes Alves,49353400118,Extensivo 2026
+122,Lucas Felipe Fernandes Ramos,52444544640,Intensivo 2026
+123,Beatriz Vitória Monteiro de Soares,81053912887,R+ Clínica 2026
+124,Lucas Paulo Moreira Marques,82904579297,Extensivo 2026
+125,bruno  jose machado rocha dos santos ,98642423863,Extensivo 2025
+126,Joao Costa Oliveira,18706293208,Extensivo 2026
+127,vinicius augusto moreira da conceicao,23200186716,Extensivo 2025
+128,Luíza Cristina Andrade Mendes Rodrigues,76108143516,Extensivo 2026
+129,Leonardo Santos Pereira,53198074668,Intensivo 2026
+130,Eduardo Lima Fernandes,10030762045,R+ Clínica 2026
+131,isabela  cristina fernandes da assunção ,06666411036,R+ Clínica 2026
+132,André Nascimento de Alves,07851699479,Extensivo 2025
+133,Matheus Eduardo Santana Ferreira,26899962619,Extensivo 2025
+134,Caio Vinícius Costa de Andrade Soares,17879150519,Extensivo 2025
+135,Henrique Paulo osta Rocha,12657898286,Extensivo 2026
+136,Henrique Monteiro Vieira,17558517757,R+ Clínica 2026
+137,Juliana Aparecida Oliveira de Fernandes,18824199612,Extensivo 2025
+138,Debora Barbosa,89170454221,R+ Clínica 2026
+139,Henrique Vieira Rocha de Moreira,09225709070,Extensivo 2026
+140,Henrique  Souza de Goncalves ,23247282829,R+ Clínica 2026
+141,Leticia Vitoria Rodrigues de Ribeiro,82247312611,Extensivo 2025
+142,rodrigo  paulo conceição de mendes ,58011950932,Extensivo 2025
+143,larissa  aparecida moreira de martins de ramos ,05370923080,Extensivo 2025
+144,Amanda Cristina F. Andrade Machado,18948543239,Extensivo 2025
+145,Rafaela Luísa Guimarães de Mendes da Rocha,47161982793,R+ Clínica 2026
+146,Debora Vieiar Nascimento,63217435784,Intensivo 2026
+147,Patricia Silva de Machado,60673983474,Intensivo 2026
+148,Eduardo Soares,46280550777,R+ Clínica 2026
+149,felipe jose moura santana,23920908595,Extensivo 2026
+150,Debora Silvva Barbosa,31117861970,Intensivo 2026
+151,Larissa Cristina Ribeiro,02206953514,Extensivo 2026
+152,bruna aparecida gonçalves lima,95002601591,R+ Clínica 2026
+153,Isabela Helena Martins Nascimento,94795074057,Extensivo 2026
+154,Rafael Vinícius Martins Fernandes Souza,95031006419,Intensivo 2026
+155,carolina carolina costa,91045203610,R+ Clínica 2026
+156,Isabela Soares Teieira,59928553529,R+ Clínica 2026
+157,Natáia Helena Batista de Ribeiro Marques,06968018697,Extensivo 2025
+158,Pedro Augusto Batista Souza,23394495380,Extensivo 2026
+159,Amanda  Fernanda Ramos da Rocha ,25017365412,Extensivo 2025
+160,Leticia Alves Moreira,02923345171,Extensivo 2026
+161,leticia helena assuncao,60530886854,Intensivo 2026
+162,Larissa  M. Silva ,57598875902,Extensivo 2026
+163,João Batista Monteiro,60336202765,R+ Clínica 2026
+164,Rodrigo Gabriel da Rocha,71152380233,Extensivo 2025
+165,Gustavo Andrade Dias,21581897045,Extensivo 2026
+166,Natalia Fernanda Moura Andrade,19597721648,Extensivo 2026
+167,Mariana Cristina Pereira Silva,93186928987,Intensivo 2026
+168,Eduardo Pereira Monteiro,01822720022,Intensivo 2026
+169,Maria Martins Freitas,32204144794,Intensivo 2026
+170,amanda vitória machado carvalho nascimento,59930202033,Extensivo 2026
+171,vinícius luiz moura guimarães santos,52135302821,Extensivo 2025
+172,Eduardo Henrique Moreira,05937775669,Extensivo 2026
+173,Luíza Eduarda Freitas de Barbosa,16174690269,Intensivo 2026
+174,Pedro Luiz Souza de Lopes,19662291361,Extensivo 2025
+175,Rafael Augusto Costa Araújo Conceição,67063621918,Extensivo 2025
+176,Amanda  Martins Barbosa ,66349339615,Extensivo 2026
+177,Felipe Jose Nunes Martins Carvalho,61142436265,R+ Clínica 2026
+178,Rafael Araújo Martins Ramos,87991962304,Extensivo 2026
+179,Maria Ramos,85324725095,Intensivo 2026
+180,Luíza Aparecida Santana Dias,15876054587,Extensivo 2025
+181,Amanda Vitoria Gomes Santos,45353659714,Extensivo 2025
+182,Leonardo Felipe Almeida,16342125425,Extensivo 2026
+183,Beatriz Guimarães de Cardoso da Conceição,48152692555,Extensivo 2025
+184,Letícia Eduarda Assunção de Oliveira,42359142611,R+ Clínica 2026
+185,Fabio Lopes A. Rocha,14543079613,Extensivo 2025
+186,Matheus Luiz Ferreira Moreira,17852211508,Extensivo 2025
+187,João Eduardo R. Gomes,26874470147,Intensivo 2026
+188,henrique henrique pereira de almeida,52377729616,R+ Clínica 2026
+189,debora ferreira araujo,00527810555,Extensivo 2026
+190,letícia e. batista souza,73160943981,Intensivo 2026
+191,Gustavo  Gabriel Brandão ,20313695562,Extensivo 2025
+192,Natália Rocha Ferreira,73525953342,Intensivo 2026
+193,Fabio Antonio Almeida de Martins,99204573543,Intensivo 2026
+194,Letícia  Ferreira de Fernandes ,08708269731,Intensivo 2026
+195,Lcas Antonio Vieira dos Santos,83882176418,R+ Clínica 2026
+196,Eduardo Gabriel Gonçalves,22332228071,R+ Clínica 2026
+197,Lucas Felipe Gomes Mendes Teixeira,22560629543,R+ Clínica 2026
+198,Juliana Cristina Costa Guimarães Andrade,31180467411,Intensivo 2026
+199,daniel paulo almeida dos santos silva,20136260894,Extensivo 2025
+200,pedro augusto ferreira de cardoso martins,70554912165,Extensivo 2026
+201,pedro gabriel alves,55640919669,Intensivo 2026
+202,henrique henrique araújo magalhães,20426201917,Extensivo 2026
+203,bruna  magalhães ,39369678917,Extensivo 2025
+204,Bruna CarolinaSantana L. Almeida,22760759898,Extensivo 2025
+205,Marcelo Alves Moura,39431916574,Intensivo 2026
+206,Bruna Andrade Marqques,31202191510,R+ Clínica 2026
+207,Daniel Alves Silva Gomes,70002687614,R+ Clínica 2026
+208,Maria Teixeira,79741636596,Extensivo 2026
+209,pedro ferreira,53730964916,Intensivo 2026
+210,Bruna Eduarda Ramos de Ferreira,63530597022,R+ Clínica 2026
+211,isabela magalhaes nunes,36431594819,R+ Clínica 2026
+212,Rafael Jose Andrade,34544344174,Extensivo 2026
+213,Carolina Vitória Cavalcanti,34497439466,R+ Clínica 2026
+214,Vinícius Ribeiiro,30958629713,R+ Clínica 2026
+215,Marcelo G. Machado e Lima,70754853436,R+ Clínica 2026
+216,vinícius mendes conceição,03004496416,Extensivo 2026
+217,vinícius luiz santos guimarães,51213756558,Extensivo 2025
+218,Gustavo Augusto Lopes Martins,61993145824,Intensivo 2026
+219,Caio  Antonio Soares ,38850342306,Intensivo 2026
+220,Leonardo Felipe aSntos Mendes Cavalcanti,31043796896,Extensivo 2026
+221,marcelo paullo monteiro,69021774157,R+ Clínica 2026
+222,Felipe Antonio Andrade,23850228944,Extensivo 2025
+223,Débora Eduarda Lima de Araújo,33282930280,Intensivo 2026
+224,daniel gomes martins,03033467701,Extensivo 2026
+225,Lucas Felipe Guimarães,07627995533,Extensivo 2026
+226,Natália  Andrade Ribeiro ,23984723033,R+ Clínica 2026
+227,Matheus  Andrade da Silva ,90172224005,Extensivo 2026
+228,Carolina Fernanda Santana Carvalho de Magalhães,17754619992,R+ Clínica 2026
+229,Thiago José SSantana,27258122509,Extensivo 2026
+230,Gustavo Vieira Magalhães,84482373327,Extensivo 2026
+231,fernanda ribeiro moreira,18780358619,Extensivo 2026
+232,pedro alves de pereira,40392519989,R+ Clínica 2026
+233,Maria Aparecida Andrade Batista,22276433837,Intensivo 2026
+234,Maria Fernandes da Conceicao,54963308323,R+ Clínica 2026
+235,Camila Moreira Lopes Magalhaes,89950470210,R+ Clínica 2026
+236,Patricia Fernanda Almeida Vieira,37749266392,R+ Clínica 2026
+237,Eduardo Augusto Carvalho de Gomes,59206165811,Intensivo 2026
+238,Daniel Gabriel Nascimento Cardoso Andrade,41156302905,R+ Clínica 2026
+239,Matheus Fernandes,72629420606,Extensivo 2026
+240,Matheus  Gabriel Dias Ferreira ,31380049803,Intensivo 2026
+241,vinícius  g. brandão dias ,48158268638,Extensivo 2025
+242,Larissa Andrade de rFeitas,64420062998,Extensivo 2025
+243,Felipe Luiz Araújo,56646419682,Intensivo 2026
+244,Eduardo Henrique Dias Lopes Moura,13204104229,R+ Clínica 2026
+245,Amanda Conceição de Mendes Magalhães,91179726999,R+ Clínica 2026
+246,Camila Silva,31800366650,Intensivo 2026
+247,Felipe Oliveira Machado,63105052473,Intensivo 2026
+248,Amanda Rodrigues Almeida,29900768682,Extensivo 2025
+249,Natália Eduarda Oliveira,83896337611,R+ Clínica 2026
+250,Gustavo Luiz Nascimento,62671368421,Extensivo 2026
+251,Patrícia Carolina Alves Brandão de Barbosa,92188352719,Extensivo 2026
+252,Debora Souza Ramos,06776106549,Intensivo 2026
+253,Joao Guimaaraes,19279761718,Extensivo 2026
+254,Leonardo Rocha,38457202646,R+ Clínica 2026
+255,Beatriz Aparecida Santana Vieira,12573498909,Intensivo 2026
+256,Felipe Ramos Fernandes,07429907467,Intensivo 2026
+257,Natália Guimarães,17996708068,Extensivo 2025
+258,Juliana Oliveira de Vieira de Marques,64183984176,Extensivo 2025
+259,Rafaela Monteiro Gonçalves,36988164918,Extensivo 2026
+260,Amanda Lopes,86052102662,Extensivo 2025
+261,Matheus  Mende Alves ,82484581310,Intensivo 2026
+262,Lucas Paulo Monteiro Dias Marques,99741856380,Intensivo 2026
+263,carolina  santos de cavalcanti ,56619953015,Extensivo 2025
+264,Andre Eduardo Rodrigues dos Santos Moura,46790870148,Extensivo 2025
+265,Debora Vitoria Cavalcanti da Conceicao,51034444209,Extensivo 2026
+266,Carolina Luísa Barbosa Cavalcanti,52406221505,Extensivo 2025
+267,vitória eduarda fernandes de freitas,19053347034,Extensivo 2025
+268,Gustavo Paulo Alves Conceicao Monteiro,39652138315,Extensivo 2026
+269,ana clara fernandes,53129003632,Intensivo 2026
+270,Pedro Felipe Nunes Sants Ribeiro,77264883965,R+ Clínica 2026
+271,Amanda Magalhaes Martins,42525161895,Extensivo 2025
+272,gabbriela nunes nascimento gomes,14774473513,R+ Clínica 2026
+273,Ana Clara Moreira,41715949703,R+ Clínica 2026
+274,Ana Aparecida Fernandes,78803318336,Extensivo 2026
+275,Bruno Dias de Nascimento,60878828135,Intensivo 2026
+276,juliana mendes,62515217416,R+ Clínica 2026
+277,Juliana Carvalho Brandao,80189156703,R+ Clínica 2026
+278,Rafaela Aparecida Alves Ribeiro,96914336229,R+ Clínica 2026
+279,Marcelo Andrade de Machado,99001089825,Extensivo 2025
+280,Leonardo  Felipe Magalhães de Guimarães ,18968442446,R+ Clínica 2026
+281,Camila Helena Lima Batista,97957285725,R+ Clínica 2026
+282,Carolina Freitas,90221797899,Extensivo 2026
+283,Marcelo Freitas Fernandes,71705984435,Extensivo 2026
+284,Beatriz Monteiro,28681123083,R+ Clínica 2026
+285,matheus  gomes ,39781459020,Intensivo 2026
+286,Larissa Marques Gomes,28669335175,Extensivo 2026
+287,Natália Eduarda Teixeira,53260119319,Extensivo 2026
+288,Luíza Monetiro,55136090895,Extensivo 2026
+289,fábio felipe gomes,24373615897,Intensivo 2026
+290,Felipe Henrique Alves Carvalho Martins,96933539010,R+ Clínica 2026
+291,Letícia Eduarda Machado,61547315676,Intensivo 2026
+292,carolina carolina carvalho batista,36902837702,Extensivo 2025
+293,Camila  Luísa Rocha,60534281684,R+ Clínica 2026
+294,Lucas C. Freitas,35846405130,Intensivo 2026
+295,natália batista ribeiro freitas,63628144457,Extensivo 2026
+296,João Eduardo Rocha,09690676419,Extensivo 2026
+297,Caio Antonio Brandao,98745513578,Extensivo 2025
+298,débora luísa ribeiro soares fernandes,88116403433,Extensivo 2026
+299,Rafaela Machado,58333647700,R+ Clínica 2026
+300,Camila Rodrigues Santana,15386028236,Intensivo 2026
+301,Bruna Vitória Conceição,12319057792,Extensivo 2026
+302,Pedro Henrique Freitas CConceição,19324538150,Extensivo 2025
+303,bruna luísa vieira de mendes,70987264956,Intensivo 2026
+304,Matheus Augusto Ramos Conceição,04326118950,Extensivo 2026
+305,Rafael Felipe Gonçalves Santana,28672020019,R+ Clínica 2026
+306,thiago felipe monteiro mendes,36890057709,R+ Clínica 2026
+307,Thiao Rodrigues Guimaraes,00739713097,Intensivo 2026
+308,gabriela beatriz souza gomes,16722104544,Extensivo 2025
+309,gabriela assunção oliveira,17074436032,Intensivo 2026
+310,Felipe Felipe Machado,25216025243,R+ Clínica 2026
+311,André Eduardo Brandão Nunes,47726903296,R+ Clínica 2026
+312,Daniel Antônio Gonçalves de Ramos,48024559855,Extensivo 2026
+313,Débora Luísa Mendes Magalhães,91268649846,R+ Clínica 2026
+314,Bruna Conceição de Barbosa,76008844714,Extensivo 2026
+315,Mariana Carolina Conceicao,19190749972,Extensivo 2026
+316,Fábio Eduardo da Rocha,36923534814,Extensivo 2025
+317,Maria aCrolina Martins Araujo,46220212357,Intensivo 2026
+318,Pedro  Eduardo Freitas de Nunes ,00886346723,Extensivo 2026
+319,Fernanda Santos,91141600901,Extensivo 2025
+320,Fabio Jose Teixeira de Gomes,79897906038,R+ Clínica 2026
+321,Vinícius Machado,86746300079,R+ Clínica 2026
+322,Thiago Paulo Machado da Assuncao Oliveira,11815198544,R+ Clínica 2026
+323,Vinicius Augusto Fernandes Soares,40153534646,Extensivo 2026
+324,Eduardo Machado Guimaraes,49466720110,Intensivo 2026
+325,lucas almeida lima,81822387914,Extensivo 2026
+326,marcelo ramos almeida,81745273553,Extensivo 2025
+327,rafaela clara guimarães moreira,29182851891,Extensivo 2025
+328,João  Eduardo Gonçalves de Dias Magalhães ,61007923044,Extensivo 2025
+329,Thiago  de Nascimento ,23296151250,R+ Clínica 2026
+330,João Paulo Menes Batista,44604227613,R+ Clínica 2026
+331,Natalia Vitoria Araujo de Fernandes,34724358611,Extensivo 2025
+332,maria santana de cardoso moreira,72670866685,Extensivo 2025
+333,Amanda Moreira Costa Souza,68784947711,Intensivo 2026
+334,Bruno  Eduardo Guimarães ,18489742223,R+ Clínica 2026
+335,Beatriz Fernanda Assuncao de Vieira,68212156439,R+ Clínica 2026
+336,Gustavo  Oliveira Silva ,64411197318,Extensivo 2026
+337,Vinicius Felipe Nascimnto Alves,48821884916,Extensivo 2026
+338,Daniel Jose Rocha Mendes Ribeiro,02125434162,Intensivo 2026
+339,Daniel Carvalho Assuncao,86037218670,Extensivo 2026
+340,André Eduardo Mendes Gonçalves,90114003497,Extensivo 2026
+341,Maria  Cristina Alves ,78601625990,R+ Clínica 2026
+342,Marcelo Lopes,85501137523,R+ Clínica 2026
+343,Fábio AAntônio Andrade Conceição,07279037146,Extensivo 2026
+344,Natália Clara Batista Machado,23996477198,Intensivo 2026
+345,Gabriel  Lima de Magalhães Guuimarães ,48085578010,Intensivo 2026
+346,rafaela fernanda pereira ramos oliveira,22169069658,R+ Clínica 2026
+347,Fernanda Eduarda Oliveira Silva Freitas,51691395281,R+ Clínica 2026
+348,Gabriel  A. de Freitas Pereira ,03350842403,Extensivo 2026
+349,Caio Luiz Carvalho,48130041659,Extensivo 2026
+350,Daniel Gabriel Teixeira,51675864623,Intensivo 2026
+351,Mariana  Santos de Vieira ,50147642758,Extensivo 2025
+352,Amanda Cristina Rodrigues Silva de Barbosa,12817751273,R+ Clínica 2026
+353,rafael paulo nunes,26097236022,R+ Clínica 2026
+354,Larissa Rodrigues de Dias,77205171067,Intensivo 2026
+355,Bruno Cardoso P. Ramos,37031754368,Extensivo 2026
+356,Vitoria Luisa Fernandes Lima,72602925486,Extensivo 2025
+357,Bruna  Araújo Alves de Ribeiro ,66420763217,Extensivo 2026
+358,Fábio Lima,86762592338,Extensivo 2025
+359,Vinícius  Costa Cardoso de Mendes ,48869320545,Intensivo 2026
+360,natalia silva dias,92739615937,Extensivo 2025
+361,Beatriz Carolina Silva,56707897775,R+ Clínica 2026
+362,maria moura marques,03842273692,Extensivo 2025
+363,Felipe Augusto Rocha da Conceicao Santana,11757691781,Extensivo 2025
+364,Patrícia Machado de Pereira Alves,86983052116,Extensivo 2026
+365,bruno  santos monteiro ,26980142624,Extensivo 2025
+366,Rafaela Costa Soares,31637050074,Intensivo 2026
+367,Ana Beatriz Almeida da Costa Ferreira,17294763850,Intensivo 2026
+368,Natalia Ferreira,40259985149,Intensivo 2026
+369,Felipe Fernandes Guimaraes Ribeiro,12916350429,Extensivo 2025
+370,André Luiz A. Moreira Ramos,28453974979,R+ Clínica 2026
+371,bruno l. rocha ramos,56020801992,Extensivo 2026
+372,Luíza Eduarda Lopes Vieira,39044890983,Intensivo 2026
+373,vinicius monteiro lopes cardoso,51025550159,Intensivo 2026
+374,Henrique Henrique Ribeiro,03698884319,Intensivo 2026
+375,Gustavo Gabriel Cardoso Freitas,96208059853,Extensivo 2026
+376,Caio Costa,29075965959,Intensivo 2026
+377,beatriz carolina nunes nascimento,49542106249,R+ Clínica 2026
+378,Leticia  Beatriz Assuncao Ribeiro Brandao ,22671317583,Extensivo 2025
+379,thiago vinícius freitas cardoso,64612096127,Intensivo 2026
+380,Eduardo José Teixeira de Andrade,24032115335,R+ Clínica 2026
+381,Fabi Vinicius Alves,14308779702,R+ Clínica 2026
+382,Letícia Eduarda Ramos,22188345891,Intensivo 2026
+383,Débora Fernandes Guimarães Costa,69333299856,R+ Clínica 2026
+384,Caio Paulo Teixeira O. Andrade,64085858853,Intensivo 2026
+385,gustavo luiz fernandes moreira guimarães,08467292544,Intensivo 2026
+386,Carolina Cristina Batista Magalhaes,82225018295,Extensivo 2025
+387,Matheus Luiz Santana Batista,42012234194,Intensivo 2026
+388,Mariana Beatriz Costa Freitas,70266045049,R+ Clínica 2026
+389,andre paulo pereira de lopes de almeida,91019335328,Intensivo 2026
+390,Leonardo  Vinicius Lopes ,93600608297,Extensivo 2025
+391,Rodrigo Augusto Souza Moreira,07626438550,Extensivo 2026
+392,andre jose moreira cardoso fernandes,23133610994,R+ Clínica 2026
+393,Vitória Teixeira Oliveira,16544137217,Extensivo 2025
+394,Maria Carolina Nunes Lima,63494290456,Extensivo 2026
+395,gabriela  aparecida nunes lopes ferreira ,79993242062,R+ Clínica 2026
+396,Rafael Paulo Monteiro Lima,45653869427,Extensivo 2026
+397,Patrícia Mendes Andrade,36268904742,Intensivo 2026
+398,Bruna  Luísa Freitas Soares ,53855742116,R+ Clínica 2026
+399,lucas carvalho mendes de vieira,78146047621,R+ Clínica 2026
+400,Gabriela Machado Pereira,37066187546,R+ Clínica 2026
+401,maria gomes soares,36815418518,Extensivo 2026
+402,Isabela Helena Cardoso Nascimento,84507860463,R+ Clínica 2026
+403,letícia monteiro,33746983370,Extensivo 2025
+404,Fernanda Aparecida Pereira Teixeira,18222667944,Extensivo 2026
+405,Rafaela Martins,65385906763,Extensivo 2025
+406,Maria Fernanda Teixeira Guimarães,76055049272,Extensivo 2026
+407,Larissa Oliveira Freitas,70663201672,Extensivo 2026
+408,Eduardo Antônio Gonçalves,89198271852,Extensivo 2025
+409,Larissa  Alves Lima Rocha ,08649426904,Intensivo 2026
+410,Camila V. Soares Marques,90145996770,Extensivo 2025
+411,Rodrigo Assuncao,30549824338,R+ Clínica 2026
+412,fernanda martins ribeiro,17816780666,R+ Clínica 2026
+413,João Magalhães de Pereira,01649281550,Intensivo 2026
+414,Patricia Monteiro de Carvalho Ribeiro,40703088078,Extensivo 2026
+415,Gustavo Moura Araújo Nascimento,44850072878,R+ Clínica 2026
+416,Carolina Brandao Martins,11680691916,Extensivo 2026
+417,leonardo gabriel souza cardoso,03917026384,R+ Clínica 2026
+418,pedro gabriel lopes de ramos,87012042472,R+ Clínica 2026
+419,Bruno Felipe Pereira,23753028439,Extensivo 2025
+420,Luiza Helena Martins Oliveira,02436524035,R+ Clínica 2026
+421,Thiago Pereira Andrade,87540364898,Intensivo 2026
+422,Bruna Luísa Souza,38546623283,Extensivo 2025
+423,Henrique Paulo M. de Magalhães,12594972250,R+ Clínica 2026
+424,Letícia Eduarda Freitas Rodrigues,66617996263,R+ Clínica 2026
+425,Luíza Barbosa Dias,29983358716,Extensivo 2025
+426,Isabela Almeida Rodrigues de Cardoso,34820849301,R+ Clínica 2026
+427,fábio silva,12260001434,Extensivo 2026
+428,Daniel Paulo Nascimento Cardoso,14304913461,Extensivo 2026
+429,Amanda Carvalho Nunes de Ribeiro,20998656482,Intensivo 2026
+430,Fabio Machado,20823530967,Extensivo 2025
+431,larissa cristina batista,89629805698,Intensivo 2026
+432,Gabriela Clara Machado Lima Nunes,18695724094,Intensivo 2026
+433,Luíza Freitas Alves de Teixeira,37956100707,Extensivo 2025
+434,beatriz teixeira de vieira,92025999139,Intensivo 2026
+435,Juliana Fernanda Machado,24447489064,Extensivo 2025
+436,Rafaela Rodrigues Moura,23510765179,Extensivo 2026
+437,Fábio Paulo Freitas Conceição,17328951485,Extensivo 2025
+438,Patricia  Aparecida Brandao ,58055811507,R+ Clínica 2026
+439,Daniel Eduardo Lopes de Oliveira Pereira,60770040913,Extensivo 2026
+440,Patricia Helena Araujo,03982218053,Extensivo 2025
+441,Henrique Jose Guimaraes,38588640738,Extensivo 2026
+442,Marcelo Gomes de Martins de Vieira,69333562310,Intensivo 2026
+443,Maria  Luísa Rocha ,80670898770,Intensivo 2026
+444,Vitória Vitória Oliveira B. Fernandes,43113266111,R+ Clínica 2026
+445,Vinícius Eduardo Martins,63211960467,Intensivo 2026
+446,rodrigo luiz costa batista,45447082311,Extensivo 2025
+447,Larissa Cristina Ramos Ribeiro da Costa,94676626213,R+ Clínica 2026
+448,Vinícius Eduardo Cavalcanti,02618402597,Extensivo 2025
+449,Luíza Riibeiro,63066360570,Intensivo 2026
+450,bruna beatriz nunes,40989103910,Extensivo 2026
+451,Caio Jose Alves,25209452317,R+ Clínica 2026
+452,Caio José Lima de Oliveira,60098602715,Extensivo 2025
+453,Caio Vinicius Brandao Monteiro Assuncao,05489445308,Extensivo 2026
+454,Larissa Fernanda Mendes,96558344516,Extensivo 2025
+455,gustavo henrique silva ramos,05660361602,R+ Clínica 2026
+456,joao cavalcanti martins,26602351568,R+ Clínica 2026
+457,déboraa ndrade,16715605837,Extensivo 2026
+458,Fernanda Marques,95479406445,Intensivo 2026
+459,henrique gabriel f. da assunção,19189866406,Intensivo 2026
+460,Pedro Nunes de Moura de Marques,74876805770,Intensivo 2026
+461,Carolina  Luísa Moreira Almeida ,43019220925,Extensivo 2025
+462,Debora Silva Dias,97323964410,Intensivo 2026
+463,Thiago Andrade de Gonçalves,76992427783,Intensivo 2026
+464,Maria Mendes,23209140146,Intensivo 2026
+465,Rodrigo Moreira Martins,34719982930,Extensivo 2025
+466,Fernanda Clara Araújo Gomes,60756999113,Intensivo 2026
+467,Patrícia Freitas Lima,62277773321,Extensivo 2025
+468,Carolina Beatriz Gomes Brandão,70703850316,Extensivo 2026
+469,Ana Cardoso Cavalcanti,24107402794,Extensivo 2026
+470,Gustavo Guimarães Magalhães Ferreira,62590620023,Extensivo 2025
+471,Natália Fernanda Assunção da Conceição,46149745987,Intensivo 2026
+472,Bruno José Lopes de Freitas de Araújo,98491498690,R+ Clínica 2026
+473,Leonardo Costa Monteiro,64322394611,Intensivo 2026
+474,Beatriz Vitória Costa,81159485364,Extensivo 2026
+475,Marai Brandão Rocha,22398474262,R+ Clínica 2026
+476,Juliana Araújo,88822378867,Extensivo 2026
+477,Fabio Antonio Carvalho de Marques Ramos,13495647979,R+ Clínica 2026
+478,Vinícius Luiz Costa de Alves,63830972386,Extensivo 2026
+479,vitória  eduarda caavlcanti ,62016555748,Extensivo 2025
+480,Lucas Moura Gomes,65557512417,Extensivo 2025
+481,Natalia Cristina Andrade Conceicao,82405166544,R+ Clínica 2026
+482,Amanda Conceicao,18997402373,Extensivo 2025
+483,Leonardo Gabriel Gomes Matrins,17036309484,Intensivo 2026
+484,Fabio Eduardo Silva Barbosa,08983094183,R+ Clínica 2026
+485,Mariana Vitória Santana,97245284143,R+ Clínica 2026
+486,Felipe Almedia Conceição Assunção,74809573954,Extensivo 2026
+487,camila beatriz mendes de teixeira de brandão,02944203135,Intensivo 2026
+488,Andre  Eduardo Souza ,34203197717,R+ Clínica 2026
+489,Daniel Luiz Teixeira,14186482310,Intensivo 2026
+490,Isabela Luisa Guimaraes,84196233276,Extensivo 2026
+491,Daniel Moreira,42767483147,Intensivo 2026
+492,carolina luisa dias,15181788214,Intensivo 2026
+493,Vitória Silva da Conceição,06232723781,Extensivo 2025
+494,LuizaC lara Guimaraes Machado,06548708467,Extensivo 2025
+495,mariana helena magalhães,67553981888,Extensivo 2026
+496,Rodrigo  Lopes Freitas ,91579089415,Extensivo 2025
+497,Rafaela Beatriz Batista de Nunes Moura,80207612349,Extensivo 2025
+498,Fernanda Araújo Lopes Guimarães,51881298856,Extensivo 2026
+499,Henrique Vinícius Lima Magalhães,69010792317,Intensivo 2026
+500,Larissa Carolina Cavalcanti de Moreira,86497035016,Extensivo 2025
+501,Gustavo Henrique Mendes,33557077331,Intensivo 2026
+502,Felipe Gabriel Mendes Barbosa,57052187979,Intensivo 2026
+503,Felipe  Soares ,58831141497,Extensivo 2026
+504,Isabela Cristina Rocha,50368715628,Extensivo 2026
+505,Leonardo Moreira Lima,97802344556,R+ Clínica 2026
+506,Andre Rocha de Souza,66401632935,Extensivo 2025
+507,Ana Cardoso,59757292713,Extensivo 2026
+508,Daniel Fernandes Santos,02915854273,Intensivo 2026
+509,Luiza Oliveira,18548396680,Extensivo 2025
+510,Natália Beatriz Batista Barbosa,15958417429,Extensivo 2026
+511,Maria  Cristina Cardoso Santana ,16981413444,Extensivo 2025
+512,Rafaela Beatriz Santos Ramos,74029286413,Intensivo 2026
+513,Leonardo de Batista,09962183616,Extensivo 2025
+514,Larissa  Eduarda Marques Souza ,25634202202,Intensivo 2026
+515,Mariana Beatriz Teixeira Andrdae,67590177911,R+ Clínica 2026
+516,Henrique Henrique Almeida Guimaraes,33517465644,Intensivo 2026
+517,Rafael Vinicius Viira Andrade,19956955902,Intensivo 2026
+518,marcelo gomes de martins de vieira,03850255143,R+ Clínica 2026
+519,Caio Cardoso de Almeida,83904733144,R+ Clínica 2026
+520,Andre Martins Santos Guimaraes,32511497858,Extensivo 2025
+521,vitoria almeida,04095437736,Extensivo 2025
+522,Bruna V. Machado,31439151114,Intensivo 2026
+523,leonardo cavalcanti souza,07818710946,R+ Clínica 2026
+524,Débora Carolina Freitas Assunção,02693315402,Intensivo 2026
+525,Henrique Araújo d Conceição,50522411442,Extensivo 2026
+526,Vinicius Augusto Cardoso de Guimaraes,20166338252,Intensivo 2026
+527,eduardo santos conceicao,92220562061,Extensivo 2026
+528,Rodrigo Paulo Soares Moura,33252861362,Intensivo 2026
+529,Mariana Eduarda Lopes,45234286474,Extensivo 2025
+530,Isabela Vitoria Gomes,63420953627,Extensivo 2025
+531,Rafaela Brandão Alves Ramos,29735615246,Extensivo 2025
+532,Gustavo Silva de Marques,25380966431,R+ Clínica 2026
+533,Carolina Fernanda Moreira Brandão,47466535358,Extensivo 2025
+534,Letícia Beatriz Vieira Barbosa,43679241587,Extensivo 2026
+535,Caio Felipe Magalhães,38354346845,Extensivo 2025
+536,Juliana Fernanda Souza,82497939958,Extensivo 2026
+537,isabela fernanda moreira magalhães assunção,83710307397,Intensivo 2026
+538,bruno brandão,01489678008,Intensivo 2026
+539,matheus jose oliveira fernandes,39476254229,Intensivo 2026
+540,Camila Moreira,39172994033,Extensivo 2025
+541,Patricia  Guimaraes ,12664971976,Extensivo 2025
+542,leonardo jose de almeida moreira,61259016389,R+ Clínica 2026
+543,Marcelo Soares Pereira,67348140938,R+ Clínica 2026
+544,Felipe  A. Fernandes Teixeira ,48116049981,Extensivo 2026
+545,henrique feelipe gonçalves,28866168011,Extensivo 2026
+546,Henrique Marques,48548420335,Intensivo 2026
+547,Maria C. Magalhães de Souza,91386015761,Extensivo 2026
+548,matheus nascimento dos santos,02470288104,Extensivo 2026
+549,Beatriz Clara Machado,52719367845,Extensivo 2025
+550,felipe  felipe lima ,81074916119,R+ Clínica 2026
+551,fernanda ramos santana,01315350659,Extensivo 2025
+552,vinicius batista,55252741092,R+ Clínica 2026
+553,Luíza Eduarda Santos Moreira Brrandão,85669489993,Extensivo 2026
+554,Caio M. Araújo Brandão,63558422771,Extensivo 2025
+555,Debora Pereira Almeida Machado,07001441380,Extensivo 2025
+556,matheus martins dos santos,71006689064,Extensivo 2026
+557,Ana Clara Teixiera Nascimento,22328222822,R+ Clínica 2026
+558,Letícia Beatriz V. Lima,94004108417,Extensivo 2026
+559,fernanda beatriz mendes,35053572288,Intensivo 2026
+560,João Luiz Lopes Fernandes,78097830268,Extensivo 2026
+561,Daniel Cardoso Carvalho,53419528134,R+ Clínica 2026
+562,Larissa Vieira da Costa Moura,21889306315,Extensivo 2025
+563,Matheus Brandao Freitas Moura,91213974316,Extensivo 2026
+564,Juliana Beatriz Conceicao Ferreira,94084290619,Extensivo 2025
+565,Vinicius Felipe Cardoso Oliveira,06106567333,Extensivo 2025
+566,Isabela Eduarda Carvalho Batista,13681498052,R+ Clínica 2026
+567,Vinícius Lopes Rodrigues,96444772520,R+ Clínica 2026
+568,debora clara nascimento,34800417294,Extensivo 2026
+569,bruno jose marques da costa dias,57490627926,Extensivo 2026
+570,Leticia Araujo de Teixeira,29594523145,Intensivo 2026
+571,rafaela aparecida almeida mendes,29917217412,Intensivo 2026
+572,gabriela lopes fernandes,21539266973,Extensivo 2025
+573,Leonardo Vinícius Rodrigues de Fernandes,31392804845,Extensivo 2026
+574,Marcelo Araujo Souza,35937971950,Extensivo 2026
+575,vitoria b. santos teixeira,56471855934,Extensivo 2026
+576,Daniel Gabriel Costa da Silva da Rocha,53231677861,R+ Clínica 2026
+577,Thiago Felipe Batista de Freitas,19453911717,Extensivo 2025
+578,Debora Monteiro de Lima,61209281557,Extensivo 2026
+579,Carolina Carolina Silva Cavalcanti,67870676325,Intensivo 2026
+580,Patrícia  Eduarda Monteiro Moura ,26848563711,Extensivo 2026
+581,leticia cristina moura de marques,75398923163,Intensivo 2026
+582,Marcelo José Ferreira Guimarães,27841783756,R+ Clínica 2026
+583,Fábio Araújo,82011406572,Extensivo 2025
+584,Thiago Augusto Barbosa Gomes Lima,12724553367,R+ Clínica 2026
+585,Rafaela Eduarda Costa,64878496272,R+ Clínica 2026
+586,letícia luísa cardoso santos fernandes,25069296586,R+ Clínica 2026
+587,Bruna Luisa Vieira,27672935019,Extensivo 2025
+588,camila helena nascimento de freitas,14650223427,Extensivo 2025
+589,Vitória Helena Nunes,04579725148,R+ Clínica 2026
+590,maria helena cavalcanti,98214782303,Extensivo 2025
+591,Larissa Conceição Teixeira,45167670673,Extensivo 2025
+592,André Mendes,86301122050,R+ Clínica 2026
+593,Bruna Nunes Alves,83336796008,Intensivo 2026
+594,Matheus  Gabriel Mendes de Lima ,36054946932,Extensivo 2026
+595,Mariana Beatriz Nascimento de Souza de Magalhães,32495193500,Extensivo 2026
+596,Andre Moura de Martins Santana,08038890474,Extensivo 2026
+597,Luza Oliveira Alves,85135381418,Intensivo 2026
+598,maria vitoria teixeira araujo ferreira,16856471717,R+ Clínica 2026
+599,Mahteus Luiz Almeida,69883716141,R+ Clínica 2026
+600,Isabela  Luísa Mendes Andrade Gonçalves ,97675983332,Extensivo 2025
+601,Ana Mouar,83534581965,Extensivo 2025
+602,Vitoria Nascimento Marques de Mendes,99824266221,Extensivo 2025
+603,Felipe  Eduardo Martins ,58466879390,Intensivo 2026
+604,Joao Conceicao Cavalho,76698345115,Extensivo 2026
+605,Henrique Felipe Souza Araújo,08730897240,Extensivo 2025
+606,Patrícia Helena Santos Ferreira Nunes,77118425217,Extensivo 2025
+607,matheus batista ferreira nascmiento,42344730587,Extensivo 2025
+608,Gabriel Augusto Santana Teixeira Santos,65965667664,Extensivo 2026
+609,henrique vinícius fernandes guimarães de alves,00952242635,Intensivo 2026
+610,Matheus Jose Oliveira Martins,43907054753,Extensivo 2025
+611,Patrcia Aparecida Alves,50101626020,Extensivo 2026
+612,Andre Vinicius Moura de Teixeira,59783354878,Intensivo 2026
+613,Bruno Souza de Cardoso,14638664382,Extensivo 2026
+614,Vitoria Helena Goncalves,26652824628,R+ Clínica 2026
+615,Gabriela Cristina Moura de Soares,00020860194,Extensivo 2025
+616,Juliana Fernanda Conceição Fernandes Cavalcanti,27163033566,Intensivo 2026
+617,André Paulo Cavalcanti,01000908949,Intensivo 2026
+618,Lucas Luiz F. de Ribeiro,02835415819,Intensivo 2026
+619,Maria Ferreira de Mendes,66136628028,Extensivo 2026
+620,Bruno Vinícius Guimarães Martins,94747053141,Extensivo 2026
+621,Mariana Vieira,30967397918,R+ Clínica 2026
+622,Andre Vinicius Almeida,42693765041,Extensivo 2025
+623,Rafael Paulo Teixeira de Barbosa,28836368865,Extensivo 2026
+624,Larissa Beatriz S. Nunes,22666788009,Intensivo 2026
+625,Henrique Paulo Ribeiro Rocha Andrade,98907499305,Extensivo 2026
+626,Eduardo Moura Monteiro Guimarães,76408385850,R+ Clínica 2026
+627,Fabio L. Pereira Alves,65789391229,R+ Clínica 2026
+628,thiago machado monteiro santana,48600500972,R+ Clínica 2026
+629,vitória beatriz almeida,87570302953,Extensivo 2026
+630,gabriel gabriel carvalho,18607429056,R+ Clínica 2026
+631,Camila Luisa Ferreira Silva,80620073092,R+ Clínica 2026
+632,Henrique Ferreira Barbosa,49753740577,Extensivo 2026
+633,Rodrigo Henrique Silva,95674068723,R+ Clínica 2026
+634,Bruna Eduarda Monteiro,14668865883,R+ Clínica 2026
+635,Gustavo Costa Souza Alves,86267366408,R+ Clínica 2026
+636,larissa helena andrade,94326983444,Intensivo 2026
+637,Bruna  Ramos Moreira da Costa ,04505092824,Extensivo 2025
+638,thiago moreira,42939077357,Intensivo 2026
+639,Ana Clara Soares,50380162528,R+ Clínica 2026
+640,Bruno Carvalho Freitas,28143531297,R+ Clínica 2026
+641,Vinícius Augusto Soares de Alves Oliveira,53111235920,R+ Clínica 2026
+642,Pedro Henrique Santos Freitas Rodrigues,66251085713,Intensivo 2026
+643,luiza beatriz carvalho magalhaes,60919351107,R+ Clínica 2026
+644,Fabio  Antonio Nascimento Magalhaes de Brandao ,62728167323,Extensivo 2025
+645,Caio Soares Nunes Oliveira,62641260814,Extensivo 2026
+646,Debora Oliveira de Lima Rodrigues,69319630329,R+ Clínica 2026
+647,Vitoria Helena Nunes Lima,99822673112,Intensivo 2026
+648,João  Gomes de Ferreira Gonçalves ,85142025973,Extensivo 2025
+649,Leonardo Lima de Teixeira,42755767229,Extensivo 2026
+650,Rafaela Cavalcanti da Conceição Dias,18343695341,Extensivo 2026
+651,Letícia Assunção Ribeiro,71150629107,Intensivo 2026
+652,Andre Vinicius Magalhaes de Ramos Santos,81629108763,Intensivo 2026
+653,bruna vitória mendes carvalho freitas,37671052938,Extensivo 2025
+654,Maria Teixeira Vieira,91530445000,Intensivo 2026
+655,Gabriel Paulo  Moreira,90345029548,Extensivo 2025
+656,Felipe Marques,40934675451,Intensivo 2026
+657,Gabriela  Freitas Ramos ,38272105193,Intensivo 2026
+658,Rafaela Cristina Alves de Soares,25320831678,Extensivo 2026
+659,Fábio Gabriel Ferreira Lopes,17369078924,Extensivo 2025
+660,beatriz vitoria almeida,14107071653,R+ Clínica 2026
+661,Mariana Luísa Monteiroo Cardoso,37085119149,R+ Clínica 2026
+662,Andre Augusto Silva de Moreira,65561927687,Extensivo 2026
+663,Bruno Pereira Rodrigues Nunes,62639561286,Extensivo 2025
+664,Lucas Santos Silva de Almeida,13887402233,R+ Clínica 2026
+665,Letícia Vitória Silva de Moura Barbosa,63304117611,R+ Clínica 2026
+666,Larissa Eduarda Fernandes,31968636477,Extensivo 2026
+667,Fábio Paulo Teixeira Magalhães Carvalho,70368830074,Intensivo 2026
+668,Fernanda Clara Santana de Gomes,59229127056,R+ Clínica 2026
+669,Fernanda eTixeira de Pereira,11872282407,Extensivo 2026
+670,Carolina Martins de Nunes,07578984927,R+ Clínica 2026
+671,Luiza Vitoria Lopes Barbosa,71148656528,Extensivo 2026
+672,Daniel Ramos de Ferreira,73563163162,Extensivo 2025
+673,Ana Almeida Alves,61694963728,Extensivo 2026
+674,Débora Aparecida P. Monteiro de Lopes,68201307176,Extensivo 2025
+675,Henrique Felipe Costa de Rodrigues,36131798584,Extensivo 2026
+676,Vitória Magalhães Guimarães,58583563989,Extensivo 2026
+677,Marcelo Guimarães Mendes,22551741982,R+ Clínica 2026
+678,André Felipe Soares Cardoso,76212360108,Extensivo 2025
+679,Letícia  Carvalho ,38453156370,Intensivo 2026
+680,Fábio Felipe M. Soares,96459872460,Intensivo 2026
+681,Ana Beatriz Fernandes Almeida Soares,16681133937,Intensivo 2026
+682,Caio Cavalcanti,73402422294,Extensivo 2026
+683,Fábio Brandão Rocha,06323654051,Extensivo 2026
+684,Rafael Gabriel Mendes de Batista Goncalves,42024350964,Extensivo 2025
+685,Marcelo Cavalcanti,86156409994,Extensivo 2026
+686,carolina vitória lima freitas,05424519068,Intensivo 2026
+687,Leonard Guimaraes Lopes,99202376646,Extensivo 2025
+688,Larissa Andrade,86194118389,Extensivo 2026
+689,Juliana Aparecida Conceicao Goncalves,24066283466,Intensivo 2026
+690,Fábio Eduardo Ramos Costa Rodrigues,75186694058,Extensivo 2025
+691,Larissa Monteiro,82692855027,R+ Clínica 2026
+692,Henrique Gabriel Alves Santaa,89594703936,Extensivo 2025
+693,Henrique Ramos dos Santos,47188300969,R+ Clínica 2026
+694,Larissa Eduarda Santos Vieira,96686679819,R+ Clínica 2026
+695,isabela clara souza,06901497101,Extensivo 2026
+696,Rodrigo Rodrigues Dias Santos,71567566570,R+ Clínica 2026
+697,Eduardo Felipe A. Machado,23435969815,Extensivo 2026
+698,Henrique Henrique Rocha,05669375400,Intensivo 2026
+699,Rafaela Freitas Guimarães,86178925701,R+ Clínica 2026
+700,Eduardo Felipe Conceição Andrade Alves,57626481693,R+ Clínica 2026
+701,mariana clara lopes cardoso,58530101247,Extensivo 2025
+702,Larissa Freeitas Mendes,77586703605,Extensivo 2025
+703,Thiago Conceição,44394689603,Intensivo 2026
+704,Isabela Monteiro Alves,57617073157,R+ Clínica 2026
+705,Natalia Nunes Freitas,62636785018,Extensivo 2025
+706,Leonardo Antonio Carvalho,59443485279,R+ Clínica 2026
+707,Matheus  Marques de Araujo Cardoso ,37676874034,Intensivo 2026
+708,Vinicius Jose M. Conceicao,11573309920,Extensivo 2026
+709,Bruna Carvalho Rocha,82344538596,R+ Clínica 2026
+710,andré vieira de freitas,00047091110,Intensivo 2026
+711,Natália Almeida,61199899615,Extensivo 2026
+712,Rodrigo Conceicao Soares,74661447736,Extensivo 2026
+713,mariana helena rodrigues batista,96668290542,R+ Clínica 2026
+714,Andre  Gabriel Freitas Alves Cardoso ,23302927684,Extensivo 2026
+715,Gustavo Luiz Nascimento Gonçalves,14051318626,Extensivo 2026
+716,Carolina Andrade Santos,91478524714,R+ Clínica 2026
+717,Matheus Vinicius Almeida,10238735178,Extensivo 2025
+718,maria  fernanda nascimento da costa ,35183025835,Intensivo 2026
+719,Felipe Augusto Vieira de Soares,98852178955,R+ Clínica 2026
+720,vinícius mendes cardoso,41286558146,Extensivo 2025
+721,Rodrigo Jose Nunes Rodrigues,48918003811,R+ Clínica 2026
+722,André Felipe Guimarães Nunes,21959730901,Intensivo 2026
+723,leonardo  luzi rocha ,14613315535,Intensivo 2026
+724,camila cristina batista araujo,07781109675,R+ Clínica 2026
+725,João Henrique Gomes de Magalhães,45418299172,Extensivo 2025
+726,amanda luisa santana alves,19106166901,Extensivo 2026
+727,Amanda Guimaraes NNunes,16826822197,R+ Clínica 2026
+728,Vinícius Gabriel Rocha,99620834799,Extensivo 2026
+729,Fábio Nunes Batista,57228703242,Extensivo 2026
+730,Leticia Carolina M. Marques,38712951415,Intensivo 2026
+731,Débora Eduarda Costa Ribeiro,02860604860,Intensivo 2026
+732,Larissa Luísa Monteiro Conceição,74769509004,Extensivo 2026
+733,Carolina Aparecida Andrade de Gomes de Cardoso,30165562368,Extensivo 2025
+734,Isabela Lima de Cavalcanti Conceição,99313606242,Extensivo 2026
+735,Pedro  Paulo Lima Nascimento ,47947199073,Extensivo 2026
+736,Vitoria Batista Gomes Lopes,53829441901,R+ Clínica 2026
+737,letícia beatriz brandão,47283951637,Intensivo 2026
+738,Juliana Conceicao Magalhaes de Guimaraes,08488686516,Intensivo 2026
+739,Beatriz Helena Ferreira,82282801823,Intensivo 2026
+740,Carolina Clara Vieira Mendes,46767809674,R+ Clínica 2026
+741,Patrícia Vitória Soares Andrade Machado,75213531715,R+ Clínica 2026
+742,Fabio Carvalho Costa Silva,48741148662,Extensivo 2025
+743,Beatriz Carolina Magalhães Ribeiro,64534965511,R+ Clínica 2026
+744,Natália Barbosa,78963009325,Intensivo 2026
+745,Leticia C. Monteiro Magalhaes,72242284873,R+ Clínica 2026
+746,vinícius luiz guimarães barbosa,46018040363,R+ Clínica 2026
+747,André Lima Cardoso,86671554476,Extensivo 2026
+748,Marcelo Dias Ferreira Rocha,46272053694,Extensivo 2026
+749,Caio Mendes de Pereira,28502155398,Intensivo 2026
+750,Daniel  Antônio Vieira Moreira Souza ,26264395697,R+ Clínica 2026
+751,Rafael Marques Dias,07519919891,Extensivo 2025
+752,Natália  Alves Ferreira Ribeiro ,49253164958,Intensivo 2026
+753,Pedro Augusto Pereira Assunção Gomes,47765659017,Extensivo 2026
+754,Camila Brandao Nunes,34368771596,Intensivo 2026
+755,Felipe Vieira,90763415335,Extensivo 2025
+756,Maria Beatriz Pereira,54773494341,R+ Clínica 2026
+757,Felipe Lima de Ferreira Dias,64135474146,R+ Clínica 2026
+758,Vitoria Beatriz Andrade,23285558039,R+ Clínica 2026
+759,Pedro Luiz Alves,81660284183,Extensivo 2025
+760,Henrique Moreira Araujo,47040714659,Extensivo 2025
+761,Vitória Clara Lopes,34185595078,Intensivo 2026
+762,eduardo  felipe lopes souza ,96101759030,Extensivo 2026
+763,Gustavo  José Martins Vieira ,86928551632,Extensivo 2026
+764,Pedro Vinicius Cardoso Costa Almeida,96763536723,R+ Clínica 2026
+765,Vitória Aparecida Vieira,07072288334,Extensivo 2026
+766,felipe  andrade de guimaraes moura ,43097427439,Intensivo 2026
+767,Andre Paulo Gomes Magalhaes,67148030027,Intensivo 2026
+768,Marcelo Felipe Santana de Carvalho,08252637954,Extensivo 2026
+769,Debora Nascimento de Ferreira Rocha,22321425246,Extensivo 2026
+770,Felipe Antônio Alves de Marques,59465744605,Intensivo 2026
+771,rafael luiz moura de oliveira vieira,85136738045,Intensivo 2026
+772,Luíza C. Teixeira Ramos,18471462290,Extensivo 2026
+773,Vinicius Luiz Teixeira Oliveira,12728360380,Extensivo 2025
+774,luíza eduarda nunes lopes de gomes,67618376279,R+ Clínica 2026
+775,Rafaela  Gonçalves,21720488886,Extensivo 2026
+776,Amanda Carolina Moreira,03264564916,Extensivo 2025
+777,Henrique Gabriel Ribeiro Carvalho,39064909720,Intensivo 2026
+778,Luiza Carolina Machado Souza de Freitas,01815891346,Intensivo 2026
+779,Camila Helena Gome sRodrigues Costa,93625260272,Extensivo 2026
+780,Fernanda Batista de Ferreira,48029335853,R+ Clínica 2026
+781,Carolina  Cardoso ,57351745426,Intensivo 2026
+782,joão vinícius rocha,14012833159,R+ Clínica 2026
+783,Leonardo Moura,90359717701,Extensivo 2025
+784,Leonardo Lima Carvalho,09412460521,Extensivo 2025
+785,Eduardo Luiz Martins Carvalho Brandão,76841876797,Extensivo 2025
+786,Leticia Almeida Dias,97317303392,R+ Clínica 2026
+787,Bruna Cristina Brandão,57451048498,Extensivo 2026
+788,Lucas Alves Vieira,31815605462,Extensivo 2025
+789,Amanda Teixeira Assunção de Martins,47611107927,Extensivo 2025
+790,Mariana Soares,65728972236,Intensivo 2026
+791,Bruna Fernanda Santana,39098468596,Extensivo 2026
+792,Carolina Beatriz Ribeiro de Teixeira Fernandes,61382687009,Extensivo 2025
+793,rodrigo augusto monteiro da rocha,99626377922,Extensivo 2025
+794,camila c. batista oliveira lopes,62206824332,Intensivo 2026
+795,Luíza Marques de Carvalho,34460606944,Intensivo 2026
+796,Natalia Aparecida Soares,52941285367,Extensivo 2026
+797,Gabriel Vinícius Costa dos S. de Ramos,87531198014,Intensivo 2026
+798,Matheus Nascimento Santana,05376425530,Extensivo 2025
+799,Débora Cristina Ribeiro da Rocha,02039221321,Extensivo 2025
+800,Thiago V. Nunes Vieira,39928798702,Extensivo 2025
+801,bruno cavalcanti santos,49562917966,R+ Clínica 2026
+802,Lucas Eduardo Pereira Vieira de Lopes,70051028794,R+ Clínica 2026
+803,ana freitas monteiro,01754541684,Extensivo 2025
+804,Fábio  Dias ,46627501572,Extensivo 2025
+805,Maria Fernanda Alves,03607854853,Intensivo 2026
+806,Matheus Oliveira R. Barbosa,80601457982,Intensivo 2026
+807,Rafael Vinícius Santana,58197015011,Extensivo 2025
+808,mariana helena mendes cavalcanti,19201828542,Intensivo 2026
+809,Felipe Teixeira Rocha,49379582921,R+ Clínica 2026
+810,Gustavo Araújo,11639714902,Extensivo 2026
+811,Bruna Cristina Nascimento Cavalcanti,42487396246,Intensivo 2026
+812,Beatriz de Martins,77367724453,R+ Clínica 2026
+813,Bruna Rocha Conceição,78729657135,Extensivo 2025
+814,Carolina  Luísa Santos de Moura ,29903480432,R+ Clínica 2026
+815,Patrícia Fernandes,09409165773,Extensivo 2025
+816,Debora Luisa Cavalcanti Teixeira Santos,22549203689,Intensivo 2026
+817,Matheus J. Fernandes Marques,52731172256,R+ Clínica 2026
+818,Daniel Augusto Ribeiro Brandao,01842933509,R+ Clínica 2026
+819,Gabriel Luiz Gonçalves Ribeiro Guimarães,59667715389,Extensivo 2026
+820,Maria Moreira,47365003299,Extensivo 2026
+821,Matheus Paulo Lima,76144278753,R+ Clínica 2026
+822,leonardo cardoso costa,23169792046,Extensivo 2025
+823,Amanda Moreira Araújo,93439690415,Intensivo 2026
+824,Camila Ramos,52878357373,Extensivo 2026
+825,Felipe Nascimento Assuncao de Brandao,30236412274,Extensivo 2025
+826,Gabriel Luiz Goncalves Brandao,33505160263,Intensivo 2026
+827,Rodrigo Paulo Carvalho Moreira,70940422495,Extensivo 2025
+828,Bruna Eduarda Moreira Andrade,38078191355,Extensivo 2026
+829,Gustavo Jose Andrade Monteiro,19715755781,Extensivo 2025
+830,Vitoria Soares,24630616271,R+ Clínica 2026
+831,Debora  Nunes Alves Almeida ,61504205918,Extensivo 2025
+832,Beatriz Nunes Araujo,71433608069,Extensivo 2026
+833,Camila Lima Ferreira,10392788858,Extensivo 2026
+834,Beatriz Eduarda Magalhaes,61638816817,R+ Clínica 2026
+835,Leticia  Eduarda B. Gomes ,96568826702,Extensivo 2026
+836,Leonarrdo Augusto Gomes,81472373506,R+ Clínica 2026
+837,André Eduardo Almeida V. Costa,69789995134,R+ Clínica 2026
+838,Gustavo José Dias,14674906618,Extensivo 2025
+839,gabriela fernanda ribeiro,60595634311,Extensivo 2026
+840,Gabriela Luísa Ribeiro,00258565383,Extensivo 2025
+841,Marcelo Barbosa,16787192601,R+ Clínica 2026
+842,luíza monteiro de batista,25455005439,Extensivo 2026
+843,fábio ramos,83976738827,Intensivo 2026
+844,Bruno de Carvlho,00914352944,Intensivo 2026
+845,Henrique Luiz Oliveira Costa de Vieira,65466289713,R+ Clínica 2026
+846,Bruna Cristina Moura de Ribeiro,60022302394,Extensivo 2026
+847,Gabriela Martins Ferreira,12515890401,Intensivo 2026
+848,Carolina Fernanda Mendes Costa,81239278874,R+ Clínica 2026
+849,Bruna Batista Araújo,36152769588,R+ Clínica 2026
+850,camila rodrigues andrade,48248863183,Extensivo 2025
+851,andér eduardo alves,69141939680,Extensivo 2025
+852,Vinicius Rodrigues,89119925609,Intensivo 2026
+853,Camila Santos de Martins,03414131871,Extensivo 2026
+854,vinicius paulo batista teixeira,13251790444,Extensivo 2025
+855,gabriela clara p. assuncao,67148783120,Intensivo 2026
+856,Caio Gabriel Barbosa,45722757944,Extensivo 2026
+857,Felipe Gomes,74499987019,Intensivo 2026
+858,Vitória Aparecida Cavalcanti Ramos Machado,26410603206,Extensivo 2025
+859,Larissa Fernanda Conceição de Pereira Brandão,63101089655,R+ Clínica 2026
+860,Andre Vieira,64004748637,R+ Clínica 2026
+861,Debora Luisa Carvalho,89484817043,Extensivo 2025
+862,daniel nascimento santos,70177375994,Intensivo 2026
+863,leonardo antônio mendes da conceição,17196004910,Intensivo 2026
+864,Mariana Eduarda Rodrigues Magalhães,96743338449,Extensivo 2025
+865,Larissa Luisa Assuncao Batista,03353004909,Intensivo 2026
+866,Pedro Paulo Lima Araújo,97731739426,Intensivo 2026
+867,Matheus Vieira,38586539277,Extensivo 2025
+868,Gustavo  Soares Vieira ,34931796780,Extensivo 2025
+869,Natália Carolina M. Alves,21162506938,Intensivo 2026
+870,Daniel Jose Conceicao Teixeira,97014557043,Intensivo 2026
+871,Pedro Silva,86692552950,R+ Clínica 2026
+872,Letticia C. Pereira Lopes,01561619753,R+ Clínica 2026
+873,vinícius rocha martins souza,30088238416,Extensivo 2026
+874,Mariana Machado Mendes,86723310454,Extensivo 2026
+875,Gabriel Luiz Santos Almeida,55619221828,Intensivo 2026
+876,Mariana  Fernanda Lopes ,64176130213,Extensivo 2025
+877,Gabriel Souza Costa,68359916756,R+ Clínica 2026
+878,Juliana M. de Santana,25282671276,Intensivo 2026
+879,Ana Fernandes,22529644498,R+ Clínica 2026
+880,Bruno José Brandão Lima Rocha,68111433056,R+ Clínica 2026
+881,Amanda Barbossa,55590627837,Extensivo 2026
+882,gustavo marques,46372162666,Extensivo 2026
+883,Andre  Teixeira ,02955999707,Intensivo 2026
+884,Marcelo Henrique Goncalves Pereira Rodrigues,95519247471,Extensivo 2026
+885,juliana carolina freitas de santana,62567611215,R+ Clínica 2026
+886,Ana Gonçalves Santana de Soares,30829248258,Extensivo 2025
+887,Vitória Magalhães,07883127326,R+ Clínica 2026
+888,Natalia  Vitoria Souza Martins Carvalho ,97084287451,Extensivo 2025
+889,Fábio Antônio Pereira Fernandes de Monteiro,51295551050,R+ Clínica 2026
+890,Rodrigo de Cardoso Soares,26230036037,Intensivo 2026
+891,Camila Aparecida Ferreira Alves Rocha,34243753911,Extensivo 2025
+892,Patricia  Eduarda Andrade ,91663166946,Extensivo 2025
+893,Maria Fernandes Pereira,45441061696,R+ Clínica 2026
+894,Mariana Luisa Andrade Guimaraes,15176429662,Extensivo 2026
+895,Rafael Vinicius Dias Carvalho,69961315205,R+ Clínica 2026
+896,Pedro Antônio Guimarães de Rodrigues,58837743514,Extensivo 2026
+897,natália assunção de dias,39501115235,R+ Clínica 2026
+898,bruna helena souza,88826031734,Extensivo 2026
+899,Daniel Araujo Assuncao,88097186164,Intensivo 2026
+900,Beatriz Ramos Moreira,54592055916,Extensivo 2025
+901,Carolina Teixeira,13798304527,Extensivo 2025
+902,Bruno  Vinícius Rodrigues Araújo Soares ,60895897061,R+ Clínica 2026
+903,fernanda luísa santos,36896008304,Extensivo 2025
+904,Rafaela Eduarda Monteiro Vieira,93074611309,Extensivo 2025
+905,Fernanda Clara Brandão de Fernandes,60338788512,R+ Clínica 2026
+906,Vinícius Alves Almeida,68184397653,Extensivo 2026
+907,Buno Vinicius Silva Pereira,94457444120,Extensivo 2025
+908,Fábio Vinícius Almeida de Pereira,54347591690,R+ Clínica 2026
+909,Rafaela Luisa Araujo Brandao Nunes,90799658567,Intensivo 2026
+910,Vitória Batista Cavalcanti,81678434097,Intensivo 2026
+911,André Guiimarães,76135007818,Intensivo 2026
+912,Amanda Freitas de Ramos,33699952815,Extensivo 2026
+913,Thiago Mendes Moreira,65327355164,Extensivo 2025
+914,mariana batista marques,23477146955,Extensivo 2026
+915,Maria Ribeiro Santos,70200617461,Intensivo 2026
+916,Henrique Martins Vieira Magalhães,61218939162,Extensivo 2025
+917,rafael josé guimarães,07612228300,R+ Clínica 2026
+918,Daniel Augusto Fernandes,04555595042,Extensivo 2025
+919,Lucas Eduardo Santos Santana da ocha,33276399074,Extensivo 2025
+920,Amanda Cristina Rodrigues de Araujo,26902220957,R+ Clínica 2026
+921,Rafaela Nascimento Batista,90670151220,Extensivo 2026
+922,Fernanda Clara Assunção Guimarães,21621833329,Extensivo 2026
+923,Eduardo Eduardo Fernandes Guimarães Monteiro,53071226090,Intensivo 2026
+924,Bruna Beatriz Guimarães,42705498597,Extensivo 2025
+925,juliana cristina nunes de batista,80126980494,Extensivo 2025
+926,Leticia Fernanda Conceicao de Ribeiro,09606472455,Intensivo 2026
+927,Eduardo Gonçalves Santana Marques,84070946517,Extensivo 2025
+928,Luíza  Aparecida Fernandes ,98897284286,Extensivo 2026
+929,Rodrigo Almeida,61641700533,Extensivo 2025
+930,Rafaela Aparecida Ferreira,16647951217,Intensivo 2026
+931,andré paulo costa de ribeiro,35416019911,R+ Clínica 2026
+932,Gabriela Beatriz Ribeir oMoreira,67152077130,Extensivo 2025
+933,Luíza de Nascimento,96724610551,Extensivo 2026
+934,eudardo felipe lima,85020502584,Extensivo 2025
+935,Lucas Carvalho,92010297579,Extensivo 2025
+936,Rafael Antônio Souza Brandão,96597442512,Extensivo 2025
+937,Letícia Machado Moreira,20416415347,R+ Clínica 2026
+938,Eduardo Nuns,79376699786,Extensivo 2026
+939,Carolina Carolina Cardoso Moura Lima,17490584906,Extensivo 2026
+940,Ana eBatriz Conceição Araújo Carvalho,24057445049,Extensivo 2025
+941,Fernanda Cristina Souza Araujo Marques,11110851894,Extensivo 2025
+942,Felipe Assunção de Ramos,21359618340,Extensivo 2025
+943,Thiago Felipe Lima,80022642599,Extensivo 2025
+944,Leticia Guimaraes Ramos,82987819201,R+ Clínica 2026
+945,Mariana Moreira,74604293771,Extensivo 2025
+946,Larissa  Beatriz Gomes de Vieira de Magalhães ,61727580485,Intensivo 2026
+947,Gabriel Paulo Pereira de Mendes,88979887775,R+ Clínica 2026
+948,Gabriela Fernanda Lima Machado Carvalho,01929360519,Extensivo 2025
+949,Natalia Clara Martins Andrade,63890124804,R+ Clínica 2026
+950,Henrique Augusto Machado Rocha,15686223007,Extensivo 2026
+951,Juliana  Cristina Nunes ,53160227433,Intensivo 2026
+952,Amanda Eduarda NNascimento,71862447516,Intensivo 2026
+953,Carolina Vitória Brandão de Mendes,78287806651,R+ Clínica 2026
+954,Eduardo Eduardo Nascimento,86635654118,Extensivo 2026
+955,maria carolina moura rocha de oliveira,88669059426,R+ Clínica 2026
+956,Gabriela Vitória Almeida Soares,05203132928,Extensivo 2025
+957,Eduardo A. Brandao Assuncao,86427786296,R+ Clínica 2026
+958,Vitoria Magalhaes Vieira,03208778344,Extensivo 2025
+959,gabriela luísa ferreira,83345573546,Intensivo 2026
+960,Letícia Fernanda Gomes de Guimarães,00453585927,Intensivo 2026
+961,Ana Veira Machado,28570424012,R+ Clínica 2026
+962,Maria Eduarda Santana Teixeira,97704116728,Extensivo 2026
+963,Daniel Augusto Lopes Rocha Monteiro,38656904418,R+ Clínica 2026
+964,Amanda Aparecida Vieira,29124895568,Extensivo 2025
+965,Thiago Henrique Martins Perera,59942640766,Extensivo 2026
+966,Rafael  Vinícius Guimarães ,03398013887,Extensivo 2026
+967,Thiago Felipe Rodrigues,68905810840,Extensivo 2026
+968,gustavo araújo ramos souza,02772871556,R+ Clínica 2026
+969,Bruno Antônio Silva Alves,57595995510,R+ Clínica 2026
+970,Natália Fernanda Monteiro,91714854158,Intensivo 2026
+971,Vitoria Fernanda Conceicao Carvalho,20788216501,Extensivo 2026
+972,Lucas José Batista Alves Dias,45203027669,R+ Clínica 2026
+973,Leonardo Luiz Alves,40353212404,Extensivo 2026
+974,Vitoria Santana Brandao,34094121830,R+ Clínica 2026
+975,Carolina Fernandes,99004794172,Intensivo 2026
+976,Rafael  Magalhaes de Machado Lima ,13434857123,Intensivo 2026
+977,Eduardo Nascimento Brandão,76861273472,Extensivo 2026
+978,Larissa Machado,38130149418,Extensivo 2026
+979,Luíza Nascimento,81966452371,Extensivo 2026
+980,bruno eduardo batista,33568317213,Extensivo 2025
+981,Pedro Antônio Fernandes,17103891931,Extensivo 2025
+982,Amanda Vitoria Lopes de Machado de Carvalho,03449560761,R+ Clínica 2026
+983,Gustavo Luiz Ramos Moura,25723163166,Extensivo 2026
+984,fernanda cardoso de barbosa de almeida,05703996380,Extensivo 2025
+985,Natália Eduarda Satana Andrade de Souza,69323370037,Extensivo 2026
+986,Luiza Almeida,97140863382,Intensivo 2026
+987,Caio Augusto Lopes Nunes,44888392327,R+ Clínica 2026
+988,Vinícius Henrique Batista,25854551319,Extensivo 2026
+989,Rafael Gabriel Moreira de Carvalho Nunes,23678838753,Extensivo 2025
+990,natália marques,80043647578,R+ Clínica 2026
+991,Vinícius Antônio Rocha Fernandes de Rodrigues,16371206311,Extensivo 2025
+992,larissa santos de batista de martins,84081144185,Extensivo 2025
+993,Isabela  Brandao de Cavalcanti ,68611460316,Extensivo 2026
+994,Thiago Gabriel C. Martins de Cavalcanti,46542683688,R+ Clínica 2026
+995,Eduardo Luiz Mendes,77140344504,R+ Clínica 2026
+996,felipe eduardo rodrigues vieira,11962272348,Extensivo 2025
+997,Patrícia Fernanda Soares,17368385059,R+ Clínica 2026
+998,henrique vinicius costa nunnes,91650811386,R+ Clínica 2026
+999,Matheus Lopes Araújo,84843770096,Intensivo 2026
+1000,Thiago Rocha,51429544926,Extensivo 2025
+1001,Carolina Vitória Carvalho de Mendes,56275280021,Extensivo 2025
+1002,Rodrigo Gabriel Rocha,17344794519,Intensivo 2026
+1003,Gustavo Eduardo Costa,83264897100,Extensivo 2026
+1004,Debora Alves,29457613014,R+ Clínica 2026
+1005,Juliana Ribeiro Machado,35528337238,Extensivo 2025
+1006,Gabriela Dias Ribeiro,81302656497,Extensivo 2025
+1007,Mariana  S. de Freitas ,87089410779,Extensivo 2026
+1008,Leticia  Conceicao Vieira Gimaraes ,19830975442,R+ Clínica 2026
+1009,Eduardo Vinícius Guimarães de Ramos,52377487760,Extensivo 2026
+1010,Carolina Pereira Monteiro Teixeira,12180822687,Extensivo 2026
+1011,Juliana Carolina Costa Mendes Pereira,38395716436,Intensivo 2026
+1012,camila  eduarda teixeira ,70907037800,Extensivo 2025
+1013,Luíza Brandão Monteiro,93207098324,R+ Clínica 2026
+1014,Matheus Felipe Freitas de Souza,62965074465,Extensivo 2025
+1015,Daniel Luiz Cardoso Magalhaes,82817947729,R+ Clínica 2026
+1016,Luzia Cavalcanti Cardoso,02626930392,Extensivo 2025
+1017,Matheus Dias Santos de Ramos,30907406315,Extensivo 2026
+1018,Vitoria Batista Souza Nunes,12583799030,R+ Clínica 2026
+1019,João Souza,69332763344,Intensivo 2026
+1020,Marcelo Luiz Alves de Batista Marques,72372259371,Extensivo 2026
+1021,Natalia Fernandes,00894234033,Extensivo 2025
+1022,Joao Asusncao Araujo,88384561285,Extensivo 2025
+1023,maria beatriz moura,71985176936,Extensivo 2026
+1024,Leonardo Dias Ribeiro,54421578317,Intensivo 2026
+1025,Henrique Magalhães Monteiro Soares,96885934288,Intensivo 2026
+1026,Rodrigo Vinícius Araújo Gomes Fernandes,83315032119,R+ Clínica 2026
+1027,Juliana  Vitoria Santos Santana ,02506668640,Extensivo 2025
+1028,Eduardo Eduardo Nunes,14998632859,R+ Clínica 2026
+1029,Fernanda Dias Andrade,52427622185,R+ Clínica 2026
+1030,Rafael Moura Batista,39639949509,R+ Clínica 2026
+1031,Daniel Almeida Branndao,56531708703,Extensivo 2026
+1032,carolina machado guimarase,73663256793,Intensivo 2026
+1033,João Rocha de Marques,16601910930,R+ Clínica 2026
+1034,Matheus Vinícius Machado Barbosa,26447893718,R+ Clínica 2026
+1035,Bruna Moura Gonçalves,60909371604,R+ Clínica 2026
+1036,Amanda Cardoso de Olivera da Assunção,94473387810,R+ Clínica 2026
+1037,Vitória  Carolina Rodriues Moreira ,37847719818,Intensivo 2026
+1038,Patricia Eduarda Cavalcanti de Fernandes de Carvalho,59380625012,Intensivo 2026
+1039,Fabio Antonio Almeida de Brandao,24343548679,R+ Clínica 2026
+1040,Fabio Nascimento,60387108850,Intensivo 2026
+1041,vitoria ramos machado goncalves,03764747609,Extensivo 2026
+1042,Ana Vitória Freitas,15039655806,Extensivo 2026
+1043,Lucas Soarse de Moura,52866013845,R+ Clínica 2026
+1044,carolina almeida,73801012435,Extensivo 2025
+1045,Larissa Monteiro,61949991376,R+ Clínica 2026
+1046,eduardo gabrel alves,93968718607,Extensivo 2026
+1047,joão josé souza monteiro,28507196182,Intensivo 2026
+1048,Debora Araujo Teixeira,52209400327,Extensivo 2026
+1049,Caio Henrique Gonçalves Alves,48066112642,Extensivo 2026
+1050,Mariana Carolina Santos Santana,65712118670,Extensivo 2026
+1051,Letícia Machado,39933025509,Extensivo 2025
+1052,Fernanda Hleena Santana de Barbosa,96889109621,Extensivo 2025
+1053,Maria  Dias ,21120360851,Extensivo 2025
+1054,Luíza Beatriz Marques Santos Vieira,60819714078,Intensivo 2026
+1055,Marcelo Paulo Monteiro,50609580612,Extensivo 2025
+1056,Debora Eduarda Ribeiro Ramos Conceicao,59074294114,Intensivo 2026
+1057,Camila Cristina Fernandes de Cardoso,76253847656,Extensivo 2026
+1058,Amanda Eduarda Monteiro Alves,72861746825,Extensivo 2026
+1059,Carolina Beatriz Monteiro Silva Goncalves,11662866073,R+ Clínica 2026
+1060,Maria Eduarda Andrade,89670165662,Extensivo 2025
+1061,Gustavo Jose Cavalcanti Soares,72312524283,R+ Clínica 2026
+1062,Matheus Henrique Freitas Guimaraes,89496172195,Extensivo 2026
+1063,Luíza Aparecida Gomes Almeida,13184560549,Intensivo 2026
+1064,Henrique  Luiz Gomes de Barbosa Moreira ,12944314134,Extensivo 2026
+1065,Fernanda Barbosa Martins,43779824012,Extensivo 2026
+1066,Gabriela Fernanda Magalhães,37998181040,Extensivo 2025
+1067,Isabela Carolina Guimaraes Rocha Goncalves,63558774532,Extensivo 2025
+1068,joão machado andrade de ribeiro,72544225325,Extensivo 2026
+1069,Natália Vitória M. Soares,34553882817,Intensivo 2026
+1070,Gabriela  Beatriz C. de Soares ,28874587112,Extensivo 2026
+1071,Débora Fernandaa Pereira Fernandes Souza,15262107471,R+ Clínica 2026
+1072,ana eduadra fernandes martins de ramos,52996457414,Intensivo 2026
+1073,André Gomes Santana,15333497219,Extensivo 2025
+1074,luíza gonçalves,34344997518,R+ Clínica 2026
+1075,Thiago Marques Martins,88178602135,Intensivo 2026
+1076,Rodrigo Luiz Pereira Brandão,49033122253,R+ Clínica 2026
+1077,Leonardo August ode Dias,83687477764,Extensivo 2026
+1078,Camila Beatriz Mendes Barbosa,00762282162,Intensivo 2026
+1079,Fábio Rodrigues Brandão,68278472694,Intensivo 2026
+1080,Ana Freitass de Batista,69206660408,R+ Clínica 2026
+1081,Rodrigo Araujo,43584981178,R+ Clínica 2026
+1082,Carolina Vitoria Dias Mendes Machado,63781704883,Extensivo 2025
+1083,felipe cavalcanti soares,59558594211,Intensivo 2026
+1084,Rafael Vinicius Cardoso da Rocha,65972767618,Extensivo 2025
+1085,Gustavo Antônio Nunes Conceição,41749195358,Extensivo 2026
+1086,Rodrigo Lima,72339907611,R+ Clínica 2026
+1087,João Martins Nunes,04423647932,Extensivo 2026
+1088,Peedro Fernandes de Vieira Assunção,64790499195,Extensivo 2025
+1089,felipe vinícius araújo,96736720926,Extensivo 2026
+1090,Fernanda E. Ferreira Guimarães,58699724519,Extensivo 2025
+1091,Eduardo Jose Barbosa Goncalves,27701154901,Extensivo 2025
+1092,Maria Guimaraes Lima,60968568898,Extensivo 2025
+1093,Matheus Paulo Araújo,79433644740,Intensivo 2026
+1094,Rodrigo Cardoso Vieira,65964587696,R+ Clínica 2026
+1095,Henrique Luiz Freitas de Guimarães,34745024005,Intensivo 2026
+1096,Rafaela Andrade Brandao,48965394520,Intensivo 2026
+1097,caio nascimento marques de dias,80538338546,Intensivo 2026
+1098,Bruno Fernandes Mendes Andrade,04073730481,R+ Clínica 2026
+1099,André Paulo N. Guimarães,02658387986,Intensivo 2026
+1100,Matheus Rodrigues de Lopes Martins,66033273939,Extensivo 2025
+1101,ana  santos batista ,94101027670,Extensivo 2025
+1102,Camila Aparecida Vieira,64849779773,Intensivo 2026
+1103,Cai Paulo Lima Araujo Marques,54789350512,Extensivo 2025
+1104,Isabela Beatriz Conceição,71812923671,Intensivo 2026
+1105,Rafael Eduardo Oliveira Brandao,41337687025,Extensivo 2026
+1106,Rafael de Teixeira,06407078328,R+ Clínica 2026
+1107,Lucas Brandão,03485736514,Extensivo 2026
+1108,Felipe Henrique Cavalcanti Pereira,31788364391,Extensivo 2025
+1109,Leonardo Vinícius Santana,44408895913,Extensivo 2026
+1110,Luíza Aparecida Batista Conceição Santos,52699015293,Extensivo 2026
+1111,Gabriela Luísa Conceição Alves,92356540340,Extensivo 2025
+1112,Eduardo  Souza Conceicao Moura ,27320129563,Extensivo 2026
+1113,Rodrigo Luiz SoaresB randao Oliveira,06820481019,Intensivo 2026
+1114,Natalia Rocha Rodrigues,47385779733,Intensivo 2026
+1115,Fabio Luiz Monteiro Lima,18272382684,Intensivo 2026
+1116,rafael ribeiro pereira,55768815509,Extensivo 2026
+1117,Isabela Helena Costa de Ribeiro de Andrade,54487615014,R+ Clínica 2026
+1118,Camila Clara Santana,08924464053,R+ Clínica 2026
+1119,Fernanda Mendess Almeida,35588108222,Extensivo 2025
+1120,Rafaela Conceicao,77459254112,Intensivo 2026
+1121,Ana Eduarda Marques de Guimarães,79007045599,R+ Clínica 2026
+1122,Eduardo Luiz Andrade,41662395637,Extensivo 2026
+1123,Daniel Gomes Marques,27674906411,Intensivo 2026
+1124,João Luiz Fernandes Ferreira Carvalho,14513417000,R+ Clínica 2026
+1125,Rafael Luiz Ribeiro de Fernandes,55621683335,Extensivo 2025
+1126,Juliana Cristina Lopes Cavalcanti,50491086094,Intensivo 2026
+1127,Vinícius C. de Barbosa,97933686099,Intensivo 2026
+1128,Natália Clara Cavalcanti Costa Rodrigues,88501055853,Extensivo 2026
+1129,Isabela  Carolina Alves S. de Ferreira ,33396379042,Extensivo 2026
+1130,Beatriz Aparecida Ribeiro Santana de Oliveira,18893844718,Extensivo 2026
+1131,Caio Felipe Ribeiro Ramos de Guimarães,20834812412,Extensivo 2025
+1132,Rafael Felipe Costa Santos,47832796683,Extensivo 2025
+1133,Beatriz Costa Nunes,87744992476,Extensivo 2025
+1134,Juliana Vitoria Silva,93995315556,Extensivo 2025
+1135,pedro pereira martins monteiro,90896496636,Extensivo 2026
+1136,Luiza Santana Silva,29232468712,Intensivo 2026
+1137,Rafael Paulo Andrade Ramos,61386748567,Intensivo 2026
+1138,Joao Felie Oliveira,57657868050,R+ Clínica 2026
+1139,Vinicius Henrique Soares Assuncao Moura,44943632790,R+ Clínica 2026
+1140,Camila Helena Marques de Ribeiro,00421867407,Extensivo 2026
+1141,Carolina Eduarda Mendes Moreira Freitas,85056513335,R+ Clínica 2026
+1142,Amanda A. Monteiro Silva,87663279044,Intensivo 2026
+1143,andré  assunção ,89170052269,Extensivo 2026
+1144,Leonardo Paulo Rocha,49659905297,Extensivo 2026
+1145,Andre  Andrade Goncalves ,14358304087,Extensivo 2025
+1146,Bruna  Goncalves Martins Rocha ,22168974513,Extensivo 2025
+1147,thiago antônio machado mendes cavalcanti,92743126616,R+ Clínica 2026
+1148,Felipe Henrique da Silva de Pereira,80624755582,Extensivo 2025
+1149,Camila  Euarda Santos Lima Rocha ,75100568710,Extensivo 2025
+1150,Matheus  Henrique Carvalho Dias Marques ,81679323553,Intensivo 2026
+1151,bruna assunção,48495165730,Extensivo 2025
+1152,Fábio José Vieira Pereira,26468551930,Intensivo 2026
+1153,fábio vinícius conceição nascimento,88051093304,Extensivo 2025
+1154,Rafaela  Vitória Cavalcanti Santana Magalhães ,75437009814,Extensivo 2026
+1155,Caio Cardoso Vieira,02170470182,R+ Clínica 2026
+1156,Ana Eduarda Monteiro Cavalcanti,39717856801,Extensivo 2025
+1157,Camila odrigues de Ferreira Machado,93010559116,Intensivo 2026
+1158,Isabela Fernanda Lopes Nunes,70894406574,R+ Clínica 2026
+1159,Amanda Beatriz Rocha Moreira,76509462087,R+ Clínica 2026
+1160,Marcelo Henrique Cardoso Gonçalves,60261186840,Extensivo 2026
+1161,Caio  V. Guimarães Bradnão ,81700327692,Extensivo 2026
+1162,Pedro Luiz Fernandes Rocha,70149726862,Extensivo 2026
+1163,João Gabriel Ramos Nascimento Teixeira,60773595659,Extensivo 2026
+1164,gustavo moura gonçalves,13563974859,Intensivo 2026
+1165,Larissa Fernanda de Ferreira,86735818271,Extensivo 2025
+1166,Rodrigo Felipe Ramos Brandão,59958438355,Extensivo 2025
+1167,Mariana Vitória Vieira,20193064699,Extensivo 2026
+1168,rafael  assunção ,69933530331,Intensivo 2026
+1169,Beatriz Silva de Nunes,75335526290,Intensivo 2026
+1170,Bruna Helena Cavalcanti Assunção Brandão,28269934541,Extensivo 2025
+1171,Beatriz Teixeira Rocha,31778650369,R+ Clínica 2026
+1172,Rafaela Cristina Araújo,05577791714,Intensivo 2026
+1173,Thiago N. de Ferreira Moura,11575092752,Extensivo 2026
+1174,Camila Cavalcanti,95756294353,Extensivo 2026
+1175,fernanda luísa silva marques,55069439474,Extensivo 2026
+1176,vinicius vieria,97493549241,Extensivo 2026
+1177,Débora Carolina Ribeiro Conceição Siilva,13293575328,R+ Clínica 2026
+1178,eduardo  luiz monteiro ,70347560166,R+ Clínica 2026
+1179,daniel ribeiro magalhães,55462021315,R+ Clínica 2026
+1180,Rafael Eduardo Rocha Rodrigues,71734346620,R+ Clínica 2026
+1181,gabriela  santana de fernandes ,39810795166,Intensivo 2026
+1182,vitoria ramos vieira,17561680925,Extensivo 2025
+1183,Maria Brandão Lopes,54133366500,Intensivo 2026
+1184,João Gabriel Oliveira,56581791587,Intensivo 2026
+1185,marcelo vinícius monteiro,92219114219,R+ Clínica 2026
+1186,Daniel Santana Lopes Alves,56993914296,R+ Clínica 2026
+1187,Felipe Gomes Machado,01740209894,R+ Clínica 2026
+1188,Bruno Ferreira Machado de Cavalcanti,81827291316,Extensivo 2025
+1189,Gabriel Augusto Silva Costa,91532180101,Intensivo 2026
+1190,Fernanad Freitas,82342840202,R+ Clínica 2026
+1191,Ana Cristina Nascimento de Marques,02534238657,Extensivo 2026
+1192,isabela helena gomes,93987667450,Extensivo 2025
+1193,gustavo eduardo conceicao,24003305150,Extensivo 2025
+1194,camila andrade de alves,65416893942,Extensivo 2025
+1195,Gustavo Vinícius Gomes de Brandão Lopes,52381828903,Extensivo 2025
+1196,Gabriela Silva,78680704213,R+ Clínica 2026
+1197,Matheus Nascimento de Ramos,31169921355,Intensivo 2026
+1198,mariana  santos ,70775088479,R+ Clínica 2026
+1199,Felipe Luiz Goncalves Rocha de Ferreira,86621380569,R+ Clínica 2026
+1200,Patricia SSouza Fernandes,25955133045,Extensivo 2026
+1201,joão andrade martins,10967451366,Intensivo 2026
+1202,Camila Clara Oliveira,50417372243,R+ Clínica 2026
+1203,Débora Carolina Ferreira,70323812871,Extensivo 2025
+1204,Beatriz Ribeiro Roodrigues,47521127539,Extensivo 2025
+1205,felipe antonio magalhaes de nascimento,33108862300,Extensivo 2025
+1206,Marcelo Brandao Dias,00381803684,R+ Clínica 2026
+1207,Rafael Jose Alves de Almeida,40817028466,Extensivo 2026
+1208,Gustavo Henrique Alves Marques,14999703240,R+ Clínica 2026
+1209,Gabriela Goncalves Alves,34421065170,Extensivo 2026
+1210,gustavo costa,13135557984,Intensivo 2026
+1211,fábio riebiro,56721761879,Extensivo 2025
+1212,Juliana Barbosa,77513877192,Intensivo 2026
+1213,Larissa  Alves Nascimento ,87304519405,R+ Clínica 2026
+1214,Bruna Fernanda Gonçalves,73418807926,R+ Clínica 2026
+1215,Camila de Soares de Batista,39185362045,R+ Clínica 2026
+1216,Isabela Cavalcanti Soares,71954063865,Extensivo 2025
+1217,natália nascimento martins,78420555573,R+ Clínica 2026
+1218,Lucas Guimarães Cavalcanti de Gomes,96778889282,Extensivo 2026
+1219,daniel gomes,04094711284,Extensivo 2025
+1220,leonardo antônio rodrigues almeida,10486671806,R+ Clínica 2026
+1221,Caio Paulo Ferreira Fernandes,70498671110,Extensivo 2026
+1222,Bruna Rordigues Pereira de Gomes,43073246698,Extensivo 2025
+1223,Debora Machado Goncalves,30438177979,Intensivo 2026
+1224,Maria Gonçalves Vieira Conceição,13018643243,Extensivo 2026
+1225,letícia fernanda fernandes guimarães batista,27591700304,Intensivo 2026
+1226,Marcelo Paulo Magalhães Pereira,74053625172,Intensivo 2026
+1227,Gabriela Nascimento Costa,19020607183,Extensivo 2025
+1228,Joao Marques Magalhaes,22144267375,Intensivo 2026
+1229,henrique henrique moreira santos,59994426148,R+ Clínica 2026
+1230,Juliana Carolina Machado Nascimento Lima,26829508184,R+ Clínica 2026
+1231,Fernanda Clara Brandao Guimaraes,58035288045,Extensivo 2026
+1232,matheus felipe ferreira,81973544225,Intensivo 2026
+1233,João Augusto Gomes da Silva Almeida,96493046400,Extensivo 2026
+1234,henrique augusto assunção andrade,62755377963,R+ Clínica 2026
+1235,Ana Aparecida Cardoso,91210407205,R+ Clínica 2026
+1236,daniel josé magalhães de moura gonçalves,99324707922,Extensivo 2025
+1237,Vitoria Guimaraes,74316032590,Intensivo 2026
+1238,Letícia Helena Freitas,98844278965,Intensivo 2026
+1239,Thiago Vinícius Santana Batista,64549595718,Extensivo 2026
+1240,Rodrigo Antônio Ferreira Monteiro,27183224042,Intensivo 2026
+1241,Thiago José Lopes Magalhães,64040465561,Extensivo 2026
+1242,Camila Beatriz Brandão Machado,22892074559,R+ Clínica 2026
+1243,larissa alves carvalho teixeira,67742393594,Intensivo 2026
+1244,Luiza Luisa Monteiro,32783969291,R+ Clínica 2026
+1245,Fernanda Cristina Fernandes,21434869615,Intensivo 2026
+1246,luiza cristina assuncao,89831873029,R+ Clínica 2026
+1247,Leonardo Eduardo C. Silva de Rodrigues,29734148580,Intensivo 2026
+1248,Letícia Aparecida Ferreira,08268009057,Intensivo 2026
+1249,debora magalhaes araujo moreira,89452395976,Extensivo 2026
+1250,Mariana Luísa Andrade Costa,87517579083,Intensivo 2026
+1251,Gabriel Felipe Soares,60941750274,Extensivo 2026
+1252,Patrícia Helena Guimarães Asunção,55850959104,R+ Clínica 2026
+1253,Pedro Guimarães de Rodrigues de Moreira,72865181442,Extensivo 2026
+1254,Beatriz Nunes,50462176443,R+ Clínica 2026
+1255,Bruno Dias Cavalcanti Machado,67407886948,R+ Clínica 2026
+1256,João Gonçalves Teixeira,10667264198,Extensivo 2025
+1257,Marcelo Antônio Teixeira,53770124973,Extensivo 2026
+1258,Isabela Eduarda Gomes,24378047074,Extensivo 2026
+1259,Natalia Beatriz Teixeira de Carvalho,69269203217,Intensivo 2026
+1260,lucas lima moreira,72123008547,R+ Clínica 2026
+1261,joão augusto andrade moura,60098057843,Extensivo 2025
+1262,Debora  Vitoria Guimaraes ,41365329805,Extensivo 2025
+1263,Ana Santos Carvalho,77070600764,Extensivo 2025
+1264,Camila Cristina B. de Ferreira,91744368731,Extensivo 2025
+1265,Vinícius Antônio Lima,15774054568,Extensivo 2025
+1266,Natália  Luísa Machado Rocha ,27853141918,Extensivo 2025
+1267,Carolina Vitoria Magalhaes,12233998271,R+ Clínica 2026
+1268,Matheus Pereira Teixeira,32044845657,Extensivo 2025
+1269,Rafaela Fretas,66045689399,Extensivo 2026
+1270,Larissa Nunes Alves,76776576656,R+ Clínica 2026
+1271,Gustavo Mendes Lima,85296455201,Extensivo 2025
+1272,Rafaela Clara Andrade Silva,87275442230,Extensivo 2025
+1273,Gustavo Gabriel S. Souza,38640067254,Extensivo 2025
+1274,Marcelo Brandão,14303183933,Intensivo 2026
+1275,leonardo moreira ribeiro,84065488525,Extensivo 2025
+1276,Gustavo Goncalves,61514369714,R+ Clínica 2026
+1277,Carolina Fernanda Moreira Araujo,83871355606,Extensivo 2025
+1278,Carolina Fernanda Santos Moura,58641782516,Extensivo 2026
+1279,Vitória Vitória Alves,62469476219,Intensivo 2026
+1280,Felipe Eduardo Andrade,68517973657,Extensivo 2026
+1281,André  E. Marques Ferreira de Souza ,09520387231,Intensivo 2026
+1282,andre cardoso de carvalho,56244622051,Extensivo 2025
+1283,Pedro Gabriel Santana,35082432662,R+ Clínica 2026
+1284,Gabriela  Cristina Ferreira ,07559841462,Extensivo 2026
+1285,Eduardo Felipe Freitas Silva,50933280919,Extensivo 2025
+1286,gabriel santos de ribeiro martins,07718235342,Extensivo 2025
+1287,Lucas Jose Ribeiro de Nunes,72757355488,Extensivo 2026
+1288,Bruna Conceicao Mendes Machado,39392942770,Intensivo 2026
+1289,Carolina Fernanda Santos Moura,33906279889,R+ Clínica 2026
+1290,Pedro Felipe Santos,39129903701,Extensivo 2026
+1291,Caio Luiz Machado Alves,14211622036,R+ Clínica 2026
+1292,Eduardo Andrade,36436444352,Extensivo 2025
+1293,Henrique  Felipe Mendes Brandão ,07227683552,Extensivo 2025
+1294,Fernanda Cristina Carvalho,78571093308,R+ Clínica 2026
+1295,Patrícia Nunes da Costa Pereira,58677546518,Extensivo 2025
+1296,Camila Andrade,03446332426,R+ Clínica 2026
+1297,Patrícia Carolina Moura Almeida,15463517537,Intensivo 2026
+1298,juliana beatriz brandão,51769659519,Extensivo 2025
+1299,Rodrigo Paulo Assunçã oBarbosa,29648421099,Intensivo 2026
+1300,Matheus Gabriel Monteiro,55795372307,Extensivo 2025
+1301,Maria  Helena Lima Cavalcanti ,97081372289,Intensivo 2026
+1302,Juliana Cristina Cardoso,24392295051,R+ Clínica 2026
+1303,Marcelo Henrique Pereira Moreira Mendes,95390878314,Extensivo 2025
+1304,thiago mendes,78244666649,R+ Clínica 2026
+1305,Henrique Felipe Freitas,94386825048,R+ Clínica 2026
+1306,Bruno Paulo Batista Magalhães,66923257237,Intensivo 2026
+1307,Natália Beatriz Teixeira Machado,27047233474,Extensivo 2025
+1308,Thiago Assuncao,49618068632,Extensivo 2025
+1309,Rafaela Aparecida Nunes dos Santos,24494039581,Extensivo 2025
+1310,Gabriel  Almeida da Assuncao ,88331838081,Extensivo 2025
+1311,Eduardo Luiz Gomes de Barbosa,37793980112,Intensivo 2026
+1312,Fernanda  Carolina Barbosa ,23915231313,Extensivo 2025
+1313,lucas vinicius marques de rodrigues,12702318996,Extensivo 2025
+1314,fábio batista lima,03177569080,Extensivo 2026
+1315,Isabela Batista,17653244843,R+ Clínica 2026
+1316,rodrigo gabriel araújo nunes,54746911740,Extensivo 2025
+1317,Fernanda  Gomes de Alves ,93808349192,Intensivo 2026
+1318,Gabriela  Mendes Almeida ,93241832582,Extensivo 2025
+1319,Henrique  Lima ,21311679554,Intensivo 2026
+1320,Natália Ramos,70116781166,Extensivo 2025
+1321,Marcelo Silva Machado Assuncao,15386426713,Extensivo 2026
+1322,Vinicius  Brandao ,53040531938,R+ Clínica 2026
+1323,Luiza Carolna Mendes,84677037854,Extensivo 2025
+1324,Daniel Costa Magalhães,30764405873,R+ Clínica 2026
+1325,Vinícius Felipe Nunes de Andrade,97328290118,Intensivo 2026
+1326,Ana Araujo Guimaraes Ramos,63680199065,Extensivo 2026
+1327,Rafael Henrique AAndrade,11706485779,Extensivo 2025
+1328,Pedro Lima Magalhães,12407904408,Extensivo 2026
+1329,vinicius antonio brandao araujo,45676776189,R+ Clínica 2026
+1330,Marcelo  Luiz Soares ,09217645117,Extensivo 2025
+1331,Marcelo Mendes dos Santos,34782772573,Intensivo 2026
+1332,Bruna Andradee Marques,89873587217,Intensivo 2026
+1333,pedro gomes santos,57024093978,Extensivo 2025
+1334,Juliana Beatriz Cardoso Dias de Ribeiro,44273983506,R+ Clínica 2026
+1335,Felipe José Batista Magallhães,27353340672,Extensivo 2026
+1336,carolina fernanda machado guimaraes,21563452613,Extensivo 2025
+1337,Fernanda Cristina Oliveira de Barbosa Ribeiro,04445514344,R+ Clínica 2026
+1338,Fabio Soares Ribeiro,95742188492,R+ Clínica 2026
+1339,Beatriz Carolina Batista Andrade,64792464219,Extensivo 2025
+1340,Vinicius Gabriel Magalhaes de Lopes Fernandes,75915300715,Extensivo 2026
+1341,André Augusto Magalhães,34792305728,Intensivo 2026
+1342,Isabela  Marques Ribeiro ,81246437856,Intensivo 2026
+1343,Larissa Vitória Alves de Teixeira Monteiro,06696106916,Intensivo 2026
+1344,juliana conceição de souza,18790650621,R+ Clínica 2026
+1345,fabi ohenrique santos de cardoso,16004027218,Extensivo 2025
+1346,eduardo teixeira de moreira almeida,08614984205,Extensivo 2026
+1347,Letícia Ramos,78420014144,R+ Clínica 2026
+1348,Beatriz Lima Martins,72386159502,R+ Clínica 2026
+1349,Henrique Antônio Mendes Rodrigues,63798293015,R+ Clínica 2026
+1350,Marcelo Dias Andrade,83676074150,R+ Clínica 2026
+1351,Pedro Augusto Soares Gomes Dias,39035602875,Extensivo 2025
+1352,Vitoria Beatriz Brandao Ribeiro Freitas,47607512120,Extensivo 2026
+1353,Fabio Eduardo Ribeiro Goncalves Gomes,18024594068,R+ Clínica 2026
+1354,André José Oliveira,35243779560,Extensivo 2025
+1355,Gabriel Guimaraes Ramos Lopes,37485251262,R+ Clínica 2026
+1356,Eduardo Vinícius Ramos,90175227992,R+ Clínica 2026
+1357,matheus eduardo barbosa de lima,67499902083,R+ Clínica 2026
+1358,Mariana Cristina aCvalcanti Rodrigues Moreira,42695753885,Extensivo 2026
+1359,Thiago Vinícius Pereira de Mendes Assunção,29461426210,R+ Clínica 2026
+1360,DeboraC osta,61189787367,Intensivo 2026
+1361,André José Costa da Rocha,38041917126,Extensivo 2026
+1362,Gustavo Gabriel Barbosa Batista,54418436680,Intensivo 2026
+1363,Caio Antonio Martins Oliveira,02109367637,Extensivo 2025
+1364,Isabela Carolina Gomes Andrade,55459034891,R+ Clínica 2026
+1365,Rafael José Marques,11026939535,Intensivo 2026
+1366,Gabriel Conceicao Teixeira,35148550730,Intensivo 2026
+1367,isabela clara oliveira,06741514468,Extensivo 2025
+1368,Maria Rodrigues Cavalcanti,48342797320,Intensivo 2026
+1369,Gabriela Gomes,25202358973,Extensivo 2025
+1370,Joao Eduardo Alves de Ramos,89199495156,R+ Clínica 2026
+1371,Rafaela Cristina Cavalcanti,46452390084,Extensivo 2026
+1372,Henrique Felipe Marques de Brandão,67855470178,Extensivo 2025
+1373,Daniel  Lima ,46709367285,Extensivo 2026
+1374,Amanda  Rocha ,41770734670,Intensivo 2026
+1375,Caio  Lima Goncalves ,79921645725,Intensivo 2026
+1376,Débora Clara Moura Brandão,28678515066,Extensivo 2025
+1377,Gabriela Eduarda Rodrigues,15566166879,R+ Clínica 2026
+1378,Felipe Brandão Carvalho,64605955196,Extensivo 2026
+1379,Marcelo Andrade,32245182526,Extensivo 2025
+1380,Rafael Ferreira de Lopes,48697848759,Extensivo 2025
+1381,leticia fernanda soares dias,43692259156,R+ Clínica 2026
+1382,Vinicius Ramos Almeida,01763191918,Extensivo 2025
+1383,Marcelo José Rocha Ribeiro Freitas,60622306345,Extensivo 2025
+1384,Rafaela Vitória Assunção Andrade Ribeiro,29841040063,Intensivo 2026
+1385,Pedro Eduardo Guimaraes,82746352315,Extensivo 2025
+1386,Daniel Augusto Ramos,38069586201,R+ Clínica 2026
+1387,Amanda  Nunes ,11281779013,Extensivo 2025
+1388,Carolina Goncalves Moreira,94728132685,R+ Clínica 2026
+1389,joão eduardo assunção pereira dias,94037535371,Intensivo 2026
+1390,Felipe Magalhães de Batista Rodrigues,67195030586,Extensivo 2025
+1391,Ana Aparecida Moura Alvs Rocha,48918529853,Intensivo 2026
+1392,Viníius José Cavalcanti Rocha,91361657615,Intensivo 2026
+1393,Felipe Araújo de Pereira de Andrade,95490294854,R+ Clínica 2026
+1394,Gabriel José Santana Batista Costa,66138865570,Extensivo 2026
+1395,gabriel paulo nunes,56783239559,Intensivo 2026
+1396,gustavo batista lopes,12706618513,Extensivo 2025
+1397,lucas antônio s. vieira,33881120979,Extensivo 2025
+1398,Bruno Eduardo Moura Cavalcanti,73448365657,Extensivo 2026
+1399,Felipe Antonio Lopes de Soares,74396770574,Extensivo 2025
+1400,Mariana Goncalves Pereira,90954688703,Extensivo 2026
+1401,pedro cardoso monteiro barbosa,31292662504,Extensivo 2025
+1402,Beatriz Eduarda Ramos de Moura,14615970060,Extensivo 2026
+1403,Carolina Soares,73885467324,Extensivo 2025
+1404,Natália Barbosa Moura,90894131988,R+ Clínica 2026
+1405,bruno souza,13054284215,Extensivo 2026
+1406,João  Paulo Gonçalves ,59409429471,Intensivo 2026
+1407,juliana aparecida cavalcanti batista de martins,23887676610,Extensivo 2025
+1408,Matheus Luiz Nunes,13403997853,Extensivo 2025
+1409,gabriela vitoria araujo silva,32939702666,Intensivo 2026
+1410,Juliana  Ribeiro de Martins ,51331178690,R+ Clínica 2026
+1411,Débora Fernanda Brandão,92889203082,Extensivo 2025
+1412,patrícia alves de  mendes,03606778791,Intensivo 2026
+1413,Letícia Araújo Oliveira,55713649647,R+ Clínica 2026
+1414,Lucas Assuncao Ramos,75257448832,R+ Clínica 2026
+1415,Rafael Almeida Carvalho,01851115657,Intensivo 2026
+1416,Juliana Fernandes Oliveira,64670506820,Intensivo 2026
+1417,Luiza  Vitoria RamosT eixeira ,75860345683,Intensivo 2026
+1418,Isabela Cristina Guimaraes Mendes,24570515517,Intensivo 2026
+1419,matheus ramos,24271618622,Extensivo 2025
+1420,Patrícia Aparecida Monteiro Martins,37038547837,Intensivo 2026
+1421,Patricia Nascimento Santana,19229412302,Extensivo 2026
+1422,Rafaela Brandao de Araujo,18545541839,Intensivo 2026
+1423,vinícius luiz moreira ferreira brandão,03563032852,Extensivo 2025
+1424,Maria Cristina Dias Nascimento,86571689612,Extensivo 2026
+1425,Joao Felipe Nunes Martins Rodrigues,68564347670,Intensivo 2026
+1426,larissa aparecida conceição vieira,46736316343,Extensivo 2026
+1427,isabela beatriz andrade,62803364930,R+ Clínica 2026
+1428,Eduardo  Magalhães Alves ,16343031061,Extensivo 2025
+1429,Amanda Aparecida Teixeira Nunes,55414085729,Extensivo 2025
+1430,Caio Dias Vieira,10848610636,Extensivo 2026
+1431,gabriel lopes,04690174915,Intensivo 2026
+1432,matheus eduardo carvalho,62441066708,R+ Clínica 2026
+1433,André Carvalho Nunes,21650242358,Intensivo 2026
+1434,rafaela  eduarda ferreira barbosa cavalcanti ,07298502350,R+ Clínica 2026
+1435,Luíza Luísa Fernandes,14853331731,R+ Clínica 2026
+1436,camila clara magalhães de nascimento dias,82492202868,Extensivo 2026
+1437,debora cristina soarres de ribeiro,68012696245,Extensivo 2026
+1438,Bruno Andrade,24913943093,Intensivo 2026
+1439,camila pereira,62383844003,Extensivo 2025
+1440,Rafaela Cardoso,42858033068,Extensivo 2025
+1441,Matheus Alves Carvalho,32908505024,Extensivo 2025
+1442,matheus augusto silva,82377210990,Extensivo 2025
+1443,eduardo  gabriel freitas de fernandes ,17400345638,R+ Clínica 2026
+1444,Thiago Felipe Guimarães de Freitas,49666072316,Extensivo 2025
+1445,Fábio Vinícius Santana Moreira,81803689308,Intensivo 2026
+1446,Lucas Eduardo Assunção,94043935186,Extensivo 2026
+1447,Pedro Henrique Dias,75266848093,Extensivo 2026
+1448,caio augusto assunção de guimarães,81353764229,Intensivo 2026
+1449,Camila Beatriz Conceicao,53952608805,Intensivo 2026
+1450,Isabela Eduarda Gonçalves Araújo,11499747544,Extensivo 2025
+1451,André Gabriel Magalhães Fernandes,90967819465,Extensivo 2025
+1452,Camila  Fernanda Almeida Brandão ,03405736879,Extensivo 2026
+1453,caio cavalcanti de marques brandao,56943072178,Extensivo 2025
+1454,Gabriela Conceição Alves,99165872316,Intensivo 2026
+1455,André Batista de Ferreira,67126572891,Intensivo 2026
+1456,Juliana Aparecida Silva Guimarães Dias,88524991906,Extensivo 2026
+1457,Joao Ribeiro Guimaraes,85537304347,Extensivo 2025
+1458,Patrícia Guimarães Cavalcanti Vieira,16944814420,Extensivo 2026
+1459,rodrigo paulo lima g. freitas,10640797269,Extensivo 2025
+1460,Eduardo Eduardo Araújo Oliveira,42734497919,Intensivo 2026
+1461,Pedro Paulo Rodrigues de Monteiro,66547587823,Extensivo 2025
+1462,Fernanda Beatriz Ramos Assuncao,25906771805,Intensivo 2026
+1463,Amanda  Fernanda Cavalcanti Rodrigues ,02560041381,Extensivo 2025
+1464,Rafaela Helena Alves,07127971746,Intensivo 2026
+1465,Carolina Carolina Cardoso Moura Lima,72990438831,Extensivo 2025
+1466,larissa carolina guimarães pereira,02543163961,R+ Clínica 2026
+1467,Caio  Vinícius Moura Martins ,46782036900,Extensivo 2025
+1468,rafael ferreira guimarães dias,61340973152,Intensivo 2026
+1469,Gabriel Augusto Assunção,67665405332,R+ Clínica 2026
+1470,pedro soares guimarães,94353286117,Extensivo 2026
+1471,Rodrigo Araújo Cardoso,05732136758,Extensivo 2025
+1472,Rafaela  Cristina Lopes de Cardoso de Marques ,05570529560,Extensivo 2025
+1473,Larissa Carolina Moura Alves Silva,99896258689,Intensivo 2026
+1474,Camila Soares da Conceicao,51517975159,Intensivo 2026
+1475,Patrícia Souza,27344580139,Extensivo 2025
+1476,bruna helena goncalves,16461526553,Intensivo 2026
+1477,Beatriz Beatriz Lima Ferreira Rocha,81014812917,Extensivo 2026
+1478,Beatriz Helena Freiitas Moura,48126817913,Extensivo 2026
+1479,Vitória  Vitória Dias de Brandão Soouza ,80814033460,R+ Clínica 2026
+1480,Lucas Alves Machado Andrade,35869902103,Extensivo 2026
+1481,Natália Barbosa Silva,21246764248,Extensivo 2026
+1482,Pedro Moreira Magalhães,36207498854,R+ Clínica 2026
+1483,Daniel Teixeira Freitas,20331465625,Extensivo 2025
+1484,Camila Fernanda Freitas Rodrigues de Ferreira,81304995004,Intensivo 2026
+1485,Rafael José Santos,16450862925,Intensivo 2026
+1486,Isabela Eduarda Santana Brandao Andrade,48764126193,R+ Clínica 2026
+1487,Larissa Ribeiro Costa,86180583953,R+ Clínica 2026
+1488,Eduardo Vieira Costa,78859881992,Extensivo 2026
+1489,Camila Rocha Batista Santana,62762236803,Extensivo 2026
+1490,Marcelo Eduardo Soares de Ferreira,95578022870,Extensivo 2026
+1491,Leonardo  Rodrigues Magalhães ,29450269464,Extensivo 2025
+1492,Andre Jose Monteiro Goncalves,39103231806,Extensivo 2025
+1493,Lucas Soares Cavalcanti,67477201140,R+ Clínica 2026
+1494,Bruna C. Lopes de Vieira,18777953314,Intensivo 2026
+1495,Daniel Moura,24257772717,R+ Clínica 2026
+1496,Rafaela  Clara Lopes Carvalho Moura,11484603663,Intensivo 2026
+1497,Juliana Luísa Carvalho Moura,20475983558,R+ Clínica 2026
+1498,Camila Eduarda Vieira,39285320235,R+ Clínica 2026
+1499,Felipe José Rodrigues,79467781819,Extensivo 2025
+1500,Gustavo Antônio Marques Batista,45921185712,Intensivo 2026
+1501,Daniel Luiz Guimaraes Rodrigues,79626389675,R+ Clínica 2026
+1502,Carolina  Brandão de Guimarães ,78220081030,Extensivo 2026
+1503,Rodrigo José Barbosa de Nunes,51575951419,Extensivo 2026
+1504,henrique cardoso moreira,08004587204,Intensivo 2026
+1505,Caio José Oliveira,96652948310,R+ Clínica 2026
+1506,Eduardo Souza,12343353617,R+ Clínica 2026
+1507,Caio Paulo Moreira Santos,26587503160,R+ Clínica 2026
+1508,Henrique Oliveira Assunção,77128061969,Extensivo 2026
+1509,Vinicius Machado Silva,69747217152,R+ Clínica 2026
+1510,Juliana Vitória Rocha Santos Conceição,03253695275,R+ Clínica 2026
+1511,Beatriz  Monteiro Oliveira Ribeiro ,81072839467,Extensivo 2025
+1512,Débora Eduarda Marques,12614993613,Extensivo 2026
+1513,André Henrique Martins de Vieira,43909519566,Extensivo 2025
+1514,Rodrigo Augusto Rocha Guimaraes,05164078730,R+ Clínica 2026
+1515,mariana assunção cavalcanti,53739652792,R+ Clínica 2026
+1516,thiago vinícius rodrigues almeida moreira,89907129996,Extensivo 2026
+1517,Bruna  Clara Pereira Andrade ,29331326819,Intensivo 2026
+1518,Camlia Cardoso da Silva,15771291814,Intensivo 2026
+1519,mariana lima,61765589222,Intensivo 2026
+1520,Bruna Carolina Ribeiro Teixeira Assunção,63022829353,R+ Clínica 2026
+1521,natália cristina andrade vieira de araújo,35964726884,Extensivo 2025
+1522,Andre  Gabriel Goncalves ,28310185028,Extensivo 2026
+1523,Fabio Santos Moreira Oliveira,05810580120,Extensivo 2025
+1524,Gabriel Paulo Ferreira,61937886633,Extensivo 2025
+1525,Ana Santana Assuncao,33477496353,Extensivo 2025
+1526,carolina fernanda nascimento,62819150213,Extensivo 2025
+1527,Larissa  Beatriz Fernandes Marques Soares ,21940504782,Extensivo 2025
+1528,vinícius   carvalho ,59773660958,R+ Clínica 2026
+1529,juliana eduarda costa,73665397848,R+ Clínica 2026
+1530,Luíza Rodrigues Andrade,55713198454,R+ Clínica 2026
+1531,Vitoria Santana Ribeiro Soares,52574777433,Extensivo 2025
+1532,Daniel Cardoso Almeida,19189875577,Intensivo 2026
+1533,camila  gomes de martins ,90545173615,R+ Clínica 2026
+1534,Camila Brandao,44246271293,Intensivo 2026
+1535,Vitoria Eduarda Rocha Andrae de Brandao,59759809692,Intensivo 2026
+1536,Debora Moura de Machado de Moreira,57882737663,Extensivo 2026
+1537,Fábio Vinícius Barbosa,83666097917,R+ Clínica 2026
+1538,Eduardo Antônio Martins,44507296269,Extensivo 2026
+1539,Daniel Luiz Brandão,52782546380,R+ Clínica 2026
+1540,Rodrigo Martins Gomes,11775398712,R+ Clínica 2026
+1541,Débora Helena Ferreira de Andrade,70884075593,Extensivo 2026
+1542,rafael vinícius souza conceição,95070513006,Extensivo 2025
+1543,Bruna Lima de Pereira,02785379882,Extensivo 2026
+1544,Rodrigo Gomes,37173063920,R+ Clínica 2026
+1545,Henrique Henrique Conceicao,83681672318,Extensivo 2025
+1546,Rafaela Vitóra Costa de Alves,57354105727,Intensivo 2026
+1547,henrique dias,89881085598,Extensivo 2025
+1548,João Gabriel Fernandes Gomes,08024104145,Extensivo 2026
+1549,Amanda Vitoria Ramos Ribeiro,08161155686,Extensivo 2026
+1550,Gabriel  Paulo Dias Ramos ,04584089222,Extensivo 2025
+1551,fábio luiz rochha,49493565860,Intensivo 2026
+1552,Fábio Antônio Dias Brandão Nunes,45581708323,R+ Clínica 2026
+1553,Leonardo Ribero,96639000415,Intensivo 2026
+1554,Gabriela Assuncao de Nascimento Ribeiro,88672514079,Extensivo 2025
+1555,Ana  Aparecida Andrade de Cardoso Monteiro ,09816688113,Extensivo 2026
+1556,Mariana Vitória Oliveira,28150164524,Extensivo 2025
+1557,Henrique Nunes Brandao Guimaraes,12769876262,R+ Clínica 2026
+1558,Beatriz Alves,74508098947,Extensivo 2026
+1559,Mariana  Beatriz Santos Lopes ,60426144701,Extensivo 2025
+1560,luiza rodrigues de moura,58296945401,Extensivo 2026
+1561,Vitória Luísa Alves Martins,62093837359,Extensivo 2025
+1562,Leonardo Gabriel Marques Cavalcanti,74146440236,Extensivo 2026
+1563,Maria Helena Ramos de Machado,26213841545,Extensivo 2026
+1564,Ana Aparecida Santos Ribeiro,27505688048,R+ Clínica 2026
+1565,thiago  eduardo mendes guimaraes ,63340293728,Extensivo 2026
+1566,Leticia Vitoria Mendes Andrade,62776746935,Extensivo 2026
+1567,Gabriel Martins Santos,77492944919,Intensivo 2026
+1568,Rafael Conceicao,72668490563,Extensivo 2025
+1569,Eduardo Oliveira Moura,20316131717,Extensivo 2026
+1570,Matheus Andrade,83331518001,Extensivo 2025
+1571,débora eduarda alves,28019388915,Intensivo 2026
+1572,Eduardo Eduardo S. Ramos Magalhães,15734159110,Extensivo 2025
+1573,Gabriela Oliveira Araujo,65046026212,R+ Clínica 2026
+1574,Fabio Gabriel Moreira Assuncao Araujo,18261350662,Extensivo 2026
+1575,Felipe Lui zSantana,97062981019,Extensivo 2025
+1576,Daniel Cavalcanti Magalhaes,65083681698,Intensivo 2026
+1577,Carolina de Andrade,14390390982,Extensivo 2026
+1578,gabriela moura santos costa,70247485769,Intensivo 2026
+1579,camilaferreira ribeiro,22932297275,R+ Clínica 2026
+1580,Gabriel Luiz A. Cardoso Souza,47543188634,R+ Clínica 2026
+1581,maria gonçalves,92463669813,Extensivo 2025
+1582,mariana carolina nunes souza pereira,58387500747,Extensivo 2026
+1583,letícia mendes pereira,35980433341,R+ Clínica 2026
+1584,Beatriz Helena Vieira,14601933512,Extensivo 2026
+1585,Mariana Eduarda Soares Ferreira Lima,31642663331,Extensivo 2025
+1586,caio m. alves dias,71994574065,Extensivo 2026
+1587,Gabriel Ferreira Souza Dias,05673526345,R+ Clínica 2026
+1588,Patrícia Magalhães Teixeira,13022867150,Extensivo 2025
+1589,lucas barbosa,23577741439,Extensivo 2026
+1590,Henrique Gabriel de Gomes,97526158738,Extensivo 2026
+1591,Vitoria Cristina Lima Barbosa,11142412468,R+ Clínica 2026
+1592,Lucas Henrique Ramos,13717419066,Extensivo 2025
+1593,Juliana Carolina Andrade da Rocha,03401176147,Extensivo 2026
+1594,Joao Moura Costa Guimaraes,83181720365,Extensivo 2025
+1595,amanda vitoria rodrigues ferreira costa,54260782471,Extensivo 2026
+1596,Fernanda Aparecida Santana de Magalhães,11475466234,Intensivo 2026
+1597,thiago  viniciu rodrigues rocha ,84603895115,Intensivo 2026
+1598,juliana santana de barbosa,46453316489,R+ Clínica 2026
+1599,henrique e. brandao de guimaraes,71346310708,Extensivo 2026
+1600,João Gabriel Martins,57601883064,Extensivo 2026
+1601,Maria Carolina Fernandes de Ferreira,73343597306,Extensivo 2025
+1602,Carolina Rodrigues Marues,53175040913,Extensivo 2025
+1603,Eduuardo Dias,74095290505,Extensivo 2026
+1604,Natália Santana,84726680623,Intensivo 2026
+1605,Vitoria Clara Araujo Teixeira Santana,62789088096,Intensivo 2026
+1606,Vitoria M. Souza Santana,28223312526,Extensivo 2025
+1607,Gabriel Moura Pereira,38561627134,Extensivo 2026
+1608,Natália Cristina Almeida,32357374221,R+ Clínica 2026
+1609,Vinícius Gabriel Rocha,15871994255,Extensivo 2026
+1610,Gabriel Souza,53095587739,Intensivo 2026
+1611,Matheus Vinicius Fernandes Oliveira Rodrigues,38161292193,R+ Clínica 2026
+1612,Caio Vieira Brandao Batista,75350246974,R+ Clínica 2026
+1613,Henrique Gabriel Ferreira Moura Alves,20873857019,R+ Clínica 2026
+1614,Henrique Henrique Almeida Cardoso Moreira,87837921301,Extensivo 2025
+1615,rodrigo barbosa,08099371591,Intensivo 2026
+1616,Gustavo AAlmeida,38037473851,Extensivo 2026
+1617,beatriz roodrigues de gomes,54077005315,R+ Clínica 2026
+1618,Bruna Helena Andrade Lima,18082938520,Intensivo 2026
+1619,Gabriel Gabriel Carvalho,82587537125,Extensivo 2025
+1620,Vitória Guimarães Nascimento da Assunção,70666706303,Extensivo 2026
+1621,Henrique H. Moreira Santos,53093731374,Extensivo 2026
+1622,gabriela alves santos,37930618932,Extensivo 2026
+1623,vinícius augusto almeida oliveira,16247424688,R+ Clínica 2026
+1624,Letícia Beatriz Batista de Gomes Mendes,52990536749,Extensivo 2026
+1625,Henrique Barbosa Moura,09578903555,Extensivo 2026
+1626,Thiago Moura,68445657811,Extensivo 2025
+1627,maria beatriz soares,05155674019,Intensivo 2026
+1628,Débora Araújo  Fernandes,30013414095,Extensivo 2026
+1629,Rafaela Clara Santana Ferreira de Alves,65484000044,Extensivo 2026
+1630,Bruna Rodrigues da Rocha,48752560448,Intensivo 2026
+1631,eduardo gabriel gomes vieira,80795118112,Extensivo 2026
+1632,rafael cavalcanti,08159590453,Extensivo 2026
+1633,Rodrigo de Cardoso,77631032311,Extensivo 2025
+1634,Camila Eduarda Oliveira Ramos,44696458942,R+ Clínica 2026
+1635,Lucas  Eduardo Brandao Silva ,13724479219,Extensivo 2025
+1636,Isabela Barbosa Lopes Carvalho,89400946558,R+ Clínica 2026
+1637,Debora Carolina Brandao,48878073776,Extensivo 2025
+1638,Daniel  Felipe Lima Costa ,34251918711,Extensivo 2025
+1639,Vinícius Felipe Martins Marques,60919193512,Extensivo 2025
+1640,Débora Cristina Gonçalves Freitas,97085675911,Extensivo 2026
+1641,Bruna Eduarda Andrade,96704477721,R+ Clínica 2026
+1642,bruno ribeiro de mendes,01554494019,R+ Clínica 2026
+1643,Joao Dias,37448455507,Extensivo 2025
+1644,Eduardo Araujo de Oliveira,20509530712,Extensivo 2025
+1645,Lucas Gabriel Mendes da Silva,95887089412,Extensivo 2025
+1646,Matheus Vinicius Monteiro,98027644862,R+ Clínica 2026
+1647,Leonardo Paulo Vieira de Alves AAlmeida,37778424791,Extensivo 2025
+1648,Thiago Euardo Conceicao Rocha da Assuncao,07259250106,Extensivo 2026
+1649,Camila Clara Andrade de Souza Guimarães,70081334900,Intensivo 2026
+1650,Amanda Silva,69249418011,Extensivo 2025
+1651,thiago antônio teixeira carvalho,94640311832,Extensivo 2025
+1652,Larissa Gomes Silva,95112033990,R+ Clínica 2026
+1653,Carolina Mendes de Ferreira Cavalcanti,94383754238,R+ Clínica 2026
+1654,Gabriel Paulo Pereira Vieira,03027721719,Intensivo 2026
+1655,Pedro Nunes de Gonçalves,67992448367,Intensivo 2026
+1656,Camila Luísa Almeida,93889491208,Extensivo 2025
+1657,Daniel Eduardo Machado Brandão da Costa,10407629659,Extensivo 2025
+1658,Natália Moura Brandão,73180204054,Extensivo 2026
+1659,Felipe Lopes Moreira,37026578104,Extensivo 2025
+1660,leticia  clara arvalho barbosa assuncao ,15845673183,Extensivo 2025
+1661,Larissa V. Mendes Santana Lima,31756073072,Extensivo 2026
+1662,Ana Aparecida Guimarães Lopes Barbosa,97010149296,Intensivo 2026
+1663,Caio Vinícius Ferreeira,40061386534,Extensivo 2025
+1664,Daniel Teixeira Santana,04711800425,Extensivo 2026
+1665,Fabio  Guimaraes Santos ,19596027659,Intensivo 2026
+1666,Larissa Vitória Gomes,77966054815,Extensivo 2025
+1667,eduardo alves,24640694866,Extensivo 2026
+1668,natalia cristina araujo teixeira,77114881660,R+ Clínica 2026
+1669,Leonardo Souza Lima,70826786580,R+ Clínica 2026
+1670,Lucas Antônio Costa de Teixeira,42670880560,Extensivo 2026
+1671,Lucas Marques Souza Martins,26849704254,Extensivo 2026
+1672,Daniel Eduardo Santana Assuncao de Mendes,76817006851,R+ Clínica 2026
+1673,Daniel Magalhaes Dias,39766105431,Extensivo 2025
+1674,debora assuncao,01751800767,R+ Clínica 2026
+1675,gustavo paulo ribeiro de martins,77066721912,Intensivo 2026
+1676,Eduardo Luiz Barbosa Ferreira,92152725947,Intensivo 2026
+1677,Rafaela  Beatriz Guimarães Moura ,89120599484,Extensivo 2025
+1678,Matheus Carvalho de Rodrigues,12256208316,Extensivo 2026
+1679,Luiza Aparecida Lopes Ribeiro de Freitas,16206370315,R+ Clínica 2026
+1680,Fernanda Marques Teixeira,67616629675,Extensivo 2025
+1681,Bruno Barbosa Conceição,25368732019,Intensivo 2026
+1682,Amanda Fernanda Rocha Moreira,69409787308,Extensivo 2025
+1683,Vinicius Marques Costa Gomes,00066584834,Intensivo 2026
+1684,leonardo  luiz mendes de oliveira de almeida ,60356089740,Extensivo 2025
+1685,Marcelo  José Vieira de Magalhães ,47905830417,Extensivo 2026
+1686,Thiago Vinicius Gomes Teixeira Brandao,13005019885,Extensivo 2025
+1687,Carolina Rocha Mendes,08427406288,Intensivo 2026
+1688,Gustavo  Jose Lima Ribeiro ,28515501375,Intensivo 2026
+1689,Maria Lima Fernandes,75051391864,Extensivo 2026
+1690,natalia aparecida monteiro de nunes,07404515629,Intensivo 2026
+1691,bruna eduarda mendes ribeiro,89947387983,Extensivo 2026
+1692,Patricia Santos Goncalves,90605636047,Extensivo 2026
+1693,Vinicius Gabriel Nascimento Soares,91258193656,R+ Clínica 2026
+1694,Rodrigo Vieira,31459456891,R+ Clínica 2026
+1695,thiago oliveira ferrnandes,31879897653,Intensivo 2026
+1696,larissa ribeiro de moreira andrade,33883196012,R+ Clínica 2026
+1697,brua silva,38666847047,Intensivo 2026
+1698,Thiago Silva Araújo,89663680513,Extensivo 2025
+1699,beatriz lopes magalhães,19982477097,R+ Clínica 2026
+1700,André Batista A. FFernandes,63678281698,Extensivo 2025
+1701,André Machado de Lopes Cardoso,12790425258,R+ Clínica 2026
+1702,pedro josé ferreira,17922419937,Extensivo 2025
+1703,Natalia Moreira de Vieira Machado,54487890498,Intensivo 2026
+1704,Rodrigo Brandão Martins,72602131840,Extensivo 2025
+1705,Bruno Mendes Rodrigues Conceicao,97430878013,Extensivo 2025
+1706,Carolina Alves Nascimento Andrade,12688704135,R+ Clínica 2026
+1707,Caio Henrique Assunção de Nunes Guimarães,42175624719,R+ Clínica 2026
+1708,Bruno Gabriel Mendes Lopes,30597662088,R+ Clínica 2026
+1709,Rodrigo Paulo Freitas de Barbosa Monteiro,01577466241,Extensivo 2025
+1710,Gabriela Aparecida Brandao,55424586627,Intensivo 2026
+1711,henrique eduardo vieira,26794060115,R+ Clínica 2026
+1712,Isabela Luísa Nascimento Mendes,88339238958,Extensivo 2025
+1713,Bruna Vitória Andrade Costa,96610356537,R+ Clínica 2026
+1714,letícia luísa moura araújo,92627350660,Extensivo 2026
+1715,Thiago Cavalcanti de Nascimento,09614909190,Extensivo 2026
+1716,Luíza Beatriz Cavalcanti Santana Vieira,43001784622,Extensivo 2025
+1717,Gustavo Moreira,05225898723,Extensivo 2026
+1718,André José Batista Assunção,69107086111,Extensivo 2025
+1719,Vitória Santos,50064227604,Intensivo 2026
+1720,Carolina Helena Rocha Rodrigues Silva,50534774191,Extensivo 2025
+1721,Gustavo José Andrde,88755987559,Intensivo 2026
+1722,Leonardo Macahdo,82301643053,Intensivo 2026
+1723,Juliana Clara Carvalho Lima Nascimento,29457867460,R+ Clínica 2026
+1724,Eduardo Felipe Pereira Nunes,49728341970,Extensivo 2025
+1725,Rafael  Gonçalves Rocha ,09978442908,Intensivo 2026
+1726,Leticia Clara Araujo,12826585917,Extensivo 2026
+1727,rafaela conceição freitas,10557999165,R+ Clínica 2026
+1728,Henrique Paulo Marques Teixeira,34344070820,Extensivo 2025
+1729,Joao Jose Oliveira,59435784569,Extensivo 2026
+1730,Rafaela Eduarda Lima,28211126462,Extensivo 2026
+1731,Pedro Teixeira de Lopes,93770705047,Extensivo 2026
+1732,Vitória Guimarães Machado,26327624312,Extensivo 2025
+1733,Beatriz Beatriz Freitas,80470789347,Extensivo 2025
+1734,Amanda Carolina Lima,99963691894,R+ Clínica 2026
+1735,Thiago Santana Fernandes,38579282642,Extensivo 2026
+1736,Larissa Vieira Ferreira,95274787165,R+ Clínica 2026
+1737,Rafael Antonio Moura,79313475611,Extensivo 2025
+1738,gabriel lima de nunes magalhães,00278649965,Extensivo 2025
+1739,buno pereira souza,80631905317,Extensivo 2025
+1740,Debora Fernanda Rodrigues,92746226879,Extensivo 2025
+1741,Beatriz Cristina Ferreira Batista,87207579311,R+ Clínica 2026
+1742,Vinicius Henrique Oliveira da Silva,96459624308,R+ Clínica 2026
+1743,Débora Gomees,15736850710,R+ Clínica 2026
+1744,Vitoria Beatriz Cavalcanti Machado,31867207549,Extensivo 2026
+1745,Thiago Paulo Monteiro Barbosa Cardoso,67601504314,Extensivo 2026
+1746,larissa eduarda lopes,57647566517,Intensivo 2026
+1747,isabela  aparecida cavalcanti gomes ,06859023320,R+ Clínica 2026
+1748,Leonardo Machado de Alves,61653730553,R+ Clínica 2026
+1749,Eduardo Augusto Oliveira,16293096145,Extensivo 2026
+1750,matheus augusto assuncao nnues lima,70590411779,Extensivo 2025
+1751,João Cardoso Mendes,46709960897,R+ Clínica 2026
+1752,Gabriela Clara Guimarães,83087884767,Intensivo 2026
+1753,Débora Cristina Cavalcanti Oliveira Magalhães,62748230019,Extensivo 2025
+1754,Gabriel Henrique A. Teixeira,33672115687,Extensivo 2026
+1755,Joao Luiz Guimaraes Rocha,49137165079,R+ Clínica 2026
+1756,Pedro Pereira Moura,15963781321,Extensivo 2026
+1757,marcelo alves batista,90047904634,R+ Clínica 2026
+1758,Carolina Beatriz Cardoso,15193942778,Extensivo 2026
+1759,Thiago Eduardo Martins,26890098630,Extensivo 2025
+1760,Rafael  Paulo Teixeira Rocha Alves ,66117729452,Extensivo 2026
+1761,Vtória Clara Silva Magalhães,24049779557,Intensivo 2026
+1762,Pedo Batista Souza,17598962264,R+ Clínica 2026
+1763,Rodrigo Henrique Freitas Dias,58325199071,Extensivo 2026
+1764,Carolina Santos Araújo,92277708539,R+ Clínica 2026
+1765,Vinicius Santana,55434482113,Extensivo 2026
+1766,Luiza Guimaraes Brandao,94151398555,Intensivo 2026
+1767,Eduardo Paulo Brandao Barbosa Santos,31752523214,Intensivo 2026
+1768,Matheus Felipe Moura Marques Conceição,96562807343,R+ Clínica 2026
+1769,Matheus Gabriel B. Teixeira,48294078258,Extensivo 2025
+1770,Bruno Felipe Ramos,93706258703,Extensivo 2025
+1771,cmila mendes,62316750181,R+ Clínica 2026
+1772,Juliana Luísa Brandão Marques,41477568846,Intensivo 2026
+1773,Letícia Carolina Pereira,53828981212,Intensivo 2026
+1774,Isabela Carolina Conceição de Teixeira,37644512556,Intensivo 2026
+1775,Pedro Gonçalves de Araújo,64429961328,Extensivo 2026
+1776,Carolina Ramos Cardoso,69939945190,Extensivo 2025
+1777,Fernanda Aparecida Lopes,21629860442,Extensivo 2025
+1778,vitoria clara souza de rodrigues,30569562510,Extensivo 2025
+1779,Larissa Helena Freitas,88990888620,Extensivo 2026
+1780,Mariana V. Costa Rodrigues,60368085868,R+ Clínica 2026
+1781,Vinícius Nunes,21326776398,Intensivo 2026
+1782,Maria Helena Monteiro,80438430917,Extensivo 2025
+1783,Maria Lima Gonçalves,21818018794,Extensivo 2025
+1784,Carolina Conceicao Magalhaes,11265974660,Intensivo 2026
+1785,Eduardo V. Oliveiar Brandão,32758881118,R+ Clínica 2026
+1786,Thiago  Jose Pereira ,41652726138,Extensivo 2026
+1787,Patricia  Aparecida M. Andrade ,92513622398,Extensivo 2026
+1788,Pedro Jose Nascmiento,81940146986,Extensivo 2026
+1789,Caio Henrique Almeida Santana,20450980613,R+ Clínica 2026
+1790,Patricia Vitoria Lopes Magalhaes,25104946107,Intensivo 2026
+1791,lucas felipe g. de alves,20967309204,Extensivo 2026
+1792,Patricia Andrade Costa,66533903663,R+ Clínica 2026
+1793,Carolina Carolina Dias,80008416236,Extensivo 2025
+1794,marcelo jose de araujo,00394558416,R+ Clínica 2026
+1795,Maria Beatriz Gomes Santana,20165198879,Extensivo 2026
+1796,Gustavo Luiz Assunção Gomes,51926775064,Extensivo 2025
+1797,Letícia Pereira B. Nunes,43965688792,Extensivo 2026
+1798,Debora Soares Silva,53476414452,Extensivo 2025
+1799,Eduardo Gabriel Batista,53145955098,Extensivo 2026
+1800,Gustavo Augusto Conceição de  Batista,56427294396,Extensivo 2026
+1801,maria c. de almeida,46470236067,R+ Clínica 2026
+1802,Juliana Fernanda Brandao,52553134177,Extensivo 2025
+1803,fernanda luisa mends alves,01637905834,Intensivo 2026
+1804,Rafael Machado Carvalho,96910829605,Extensivo 2025
+1805,Carolina DiasRibeiro Ramos,76478562520,R+ Clínica 2026
+1806,Felipe Barbosa Silva,99925709982,Extensivo 2025
+1807,Fabio Conceicao,14382552003,Intensivo 2026
+1808,Carolina Cristina Freitas Guimarães Nunes,81980528379,Extensivo 2026
+1809,vinicius vinicius araujo,30830388450,Extensivo 2026
+1810,débora araújo gonçalves de martins,19105071907,Extensivo 2026
+1811,Fernanda Batista Brandão,45406914318,Extensivo 2025
+1812,felipe luiz conceicao batista de alves,55676959789,Intensivo 2026
+1813,Daniel Lima Rocha,73243703911,Extensivo 2026
+1814,Vitória Andrade Mendes,14134307688,Intensivo 2026
+1815,Letícia Lima,81605191770,Intensivo 2026
+1816,Eduardo Moreira,74373801381,R+ Clínica 2026
+1817,Rodrigo Gabriel Assuncao,16826111417,Extensivo 2025
+1818,Eduardo Batista Vieira de Freitas,35414556417,Intensivo 2026
+1819,eduardo a. brandao ferreira,70088943853,Extensivo 2026
+1820,Luíza Beatriz Nunes Moreira Machado,56088041819,Extensivo 2026
+1821,Débora Fernanda Fernandes,28826173496,Extensivo 2026
+1822,André Vinícius Barbosa de Brandão,49318137212,Intensivo 2026
+1823,Luíza  Cavalcanti Alves ,30834911674,Extensivo 2025
+1824,Lucas José Ramos,68133722718,Extensivo 2026
+1825,juliana cristina ramos de moura,83021367106,Extensivo 2026
+1826,Larissa Carolina Costa Batista,60287490702,Extensivo 2025
+1827,Fabio  Almeida Fernandes Machado ,91678128813,Extensivo 2025
+1828,Joao Felipe Nascimento Barbosa,08227814699,R+ Clínica 2026
+1829,Maria Rodrigues Carvalho,82320724836,Extensivo 2026
+1830,Bruna Carvalho Almeida,30678019476,Extensivo 2025
+1831,feranda marques dias,04471208336,Intensivo 2026
+1832,Isabela Eduarda Gonçalves Dias Souza,86173277670,Extensivo 2025
+1833,Caio Felipe Freitas Guimarães,68990657471,Extensivo 2025
+1834,Leonardo Vinícius Dias Moreira,37561845375,Extensivo 2025
+1835,patricia vitoria almeida de souza santana,58361883794,R+ Clínica 2026
+1836,Marcelo Lima de Dias,42445025657,Extensivo 2026
+1837,Leticia Santana de Magalhaes Barbosa,88161037613,Intensivo 2026
+1838,thiago de machado de moreira,98086551078,Extensivo 2025
+1839,Maria Freitas,07839313299,R+ Clínica 2026
+1840,Leonardo  Felipe Monteiro de Soares ,65755574826,Intensivo 2026
+1841,Mariana Araújo,70560557388,R+ Clínica 2026
+1842,Lettícia Eduarda Oliveira Fernandes,15317660224,R+ Clínica 2026
+1843,Maria Luísa Soares da Assunção Santos,36975755476,Extensivo 2026
+1844,Vinicius Paulo Nascimento,05338824959,Extensivo 2025
+1845,Rodrigo EEduardo Carvalho de Gonçalves,41403634887,R+ Clínica 2026
+1846,Natalia Fernandes de Araujo,79022930924,R+ Clínica 2026
+1847,gabriela alves lima de oliveira,55799900742,R+ Clínica 2026
+1848,joão eduardo cardoso moura,63657837115,Extensivo 2026
+1849,Juliana Gomes Ribeiro Cardoso,79593224916,Extensivo 2025
+1850,Isabela Eduarda Marques,79120945480,Intensivo 2026
+1851,Rafaela Guimarães,38826976964,Extensivo 2026
+1852,Felipe Guimaraes Souza,86899690817,Extensivo 2025
+1853,Fernanda Carolina Freitas,83590949014,R+ Clínica 2026
+1854,Lucas Assunção Gomes Rodrigues,27861095417,Intensivo 2026
+1855,larissa cristina guimaraes,19391460397,Intensivo 2026
+1856,Vinícius Henrique Moneiro de Moura,08587770715,Extensivo 2026
+1857,Vitória Nascimento Santos,92567974623,Extensivo 2026
+1858,fernanda vitória conceição martins fernandes,78616338623,Extensivo 2026
+1859,pedro paulo araújo rocha fernandes,98640946625,R+ Clínica 2026
+1860,Marcelo Antonio Freitas Cardoso,34954121756,Intensivo 2026
+1861,Isabela C. Carvalho Guimarães de Cardoso,82800920573,Extensivo 2025
+1862,Eduardo Guimarães Rocha Freitas,01923315244,Extensivo 2026
+1863,Gabriela Clara Vieira de Brandao Teixeira,42768612777,Intensivo 2026
+1864,Eduardo Ferreira de Gonçalves Pereira,20184457676,Extensivo 2026
+1865,Gabriel Augusto Ribeiro Mendes de Vieira,50641031834,Extensivo 2026
+1866,Leonardo Costa de Monteiro,52346554671,Intensivo 2026
+1867,Luíza Martins de Gomes,72644019889,Intensivo 2026
+1868,Patrícia Carolina Ribeiro,35354256218,Extensivo 2025
+1869,Caio Martins Dias,13847513440,Extensivo 2025
+1870,patrícia fernandes almeida soares,82405546531,Intensivo 2026
+1871,Thiago Augusto Martisn,95973725340,Intensivo 2026
+1872,Mariana Fernandes,94428054020,Intensivo 2026
+1873,Beatriz  Vitória Brandão Alves ,78730539040,Intensivo 2026
+1874,leonardo gabriel araujo rodrigues,62055556218,R+ Clínica 2026
+1875,Beatriz Batista de Moura,39399431019,R+ Clínica 2026
+1876,gustavo gabriel ramos da costa ribeiro,09572839718,Intensivo 2026
+1877,Ana Dias Santaan,98460745662,R+ Clínica 2026
+1878,Leticia Souza,27188758705,Extensivo 2026
+1879,Henrique nAtônio Gonçalves Nascimento Batista,20469074359,Extensivo 2026
+1880,Beatriz Gomes,73920244430,Extensivo 2025
+1881,Patrícia Carolina Teixeira Almeida,01120367259,Extensivo 2026
+1882,João Luiz Moura,61666471087,Intensivo 2026
+1883,Eduardo Marques Cavalcanti,08313001681,Intensivo 2026
+1884,juliana luísa lima oliveira,41664308670,R+ Clínica 2026
+1885,Letícia Santana Rocha,23246447120,Extensivo 2025
+1886,Débora Beatri zMachado,78892141801,Extensivo 2026
+1887,Camila B. Moreira de Preira,01170564736,R+ Clínica 2026
+1888,luíza eduarda lima de alves santos,36759479130,Intensivo 2026
+1889,Natália Fernanda Gomes de Alves,30804533453,Extensivo 2026
+1890,Rodrigo  Eduardo Gomes Ribeiro ,26755475319,Extensivo 2025
+1891,luíza souza,82511723073,R+ Clínica 2026
+1892,Vinicius Nascimento,63308048018,Extensivo 2025
+1893,Rodrigo Vinícius de Araújo Nunes,30657721172,Extensivo 2025
+1894,Juliana Carolina Moura Araújo Santana,76635215296,Extensivo 2025
+1895,pedro  augusto cardoso ,06868646471,R+ Clínica 2026
+1896,Lucas Henrique Oliveira Cardoso,37425257796,Extensivo 2025
+1897,Isabela Ramos Moreira de Nascimento,60323701440,R+ Clínica 2026
+1898,Vitória Beatriz Andrade de Ribeiro Mendes,19963230417,Extensivo 2025
+1899,Thiago Paulo Souza Cavalcanti,95338416229,Extensivo 2026
+1900,Natália  Cavalcanti Oliveira ,66030980501,Intensivo 2026
+1901,Daniel Guimaraes de Cardoso Lima,08779347214,R+ Clínica 2026
+1902,Rodrigo Augusto M. Conceição Barbosa,09647429352,Extensivo 2025
+1903,Rafaela  Almeida Rocha ,29516289018,R+ Clínica 2026
+1904,Lucas Augusto Batista Cavalcanti,12581287656,Intensivo 2026
+1905,Henrique Luiz Oliveira Conceição Moreira,76522469638,R+ Clínica 2026
+1906,Leonardo Paulo Souza Lima,35284547005,Extensivo 2026
+1907,Gabriel Goncalves da Costa,07664878401,Intensivo 2026
+1908,vinicius jose andrade,78335948232,R+ Clínica 2026
+1909,Matheus Gabriel Oliveira de Magalhães,03534176544,Extensivo 2025
+1910,maria beatriz teixeira,10147391299,Intensivo 2026
+1911,Carolina  Eduarda Moreira de Guimarães Cardoso ,12771277105,Extensivo 2025
+1912,ana carolina barbosa de guimarães lopes,74479408023,Extensivo 2026
+1913,gabriela cristina gonçalves oliveira,06419965874,Extensivo 2026
+1914,patricia luisa almeida souza de cavalcanti,58728023836,R+ Clínica 2026
+1915,Feernanda  Aparecida Lima de Vieira ,18880030075,Intensivo 2026
+1916,Rodrigo Costa,72203071028,Extensivo 2026
+1917,André Conceição de Machado Ferreira,76621541581,Extensivo 2026
+1918,Gustavo Vinícius Cavalcanti,29294286365,Intensivo 2026
+1919,Natalia Cristina Machado Marques,87495591009,Intensivo 2026
+1920,Vitoria Vitoria Nascimento Rodrigues,72834638961,Extensivo 2025
+1921,Gabriela Soares Assunção,87530296164,Extensivo 2026
+1922,Débora Rocha Ramos da Assunção,95202798911,R+ Clínica 2026
+1923,Rafael Oliveira,89172845834,Extensivo 2025
+1924,daniel henrique teixeira cardoso,86580720038,Extensivo 2026
+1925,vinícius mendes,43575292565,R+ Clínica 2026
+1926,fábio paulo pereira,46900158142,Intensivo 2026
+1927,Luiza Araujo Guimaraes Ramos,70025190607,Intensivo 2026
+1928,Rafaela Batista,57724877457,Extensivo 2025
+1929,beatriz beatriz freitas,35728909190,Extensivo 2026
+1930,Natália Eduarda Nunes de Oliveira,18042022320,R+ Clínica 2026
+1931,Luíza Batista Moreira,36828765715,R+ Clínica 2026
+1932,Debora Cristina Nunes Gomes,06648782624,Extensivo 2025
+1933,Camila de Ferreira,33479852914,R+ Clínica 2026
+1934,Leonardo Luiz Goncalves,45056337066,R+ Clínica 2026
+1935,Beatriz Dias Freitas,13875955994,Intensivo 2026
+1936,Juliana Cristina Barbosa Dias,41997711830,Extensivo 2026
+1937,Isabela Monteiro Alves,36048909865,Intensivo 2026
+1938,Beatriz Carolina Machado Ferreira,93476889338,Extensivo 2025
+1939,Natália L. Ferreira Pereira de Ribeiro,58084319655,Intensivo 2026
+1940,rafaela rocha gomes silva,53126055744,Extensivo 2026
+1941,Caio Magalhães Costa,45958769565,Extensivo 2026
+1942,vitória  vitória mendes ,83731835914,Extensivo 2026
+1943,Rafaela Luisa Marques Gomes,25802455711,Extensivo 2026
+1944,Bruno Vinícius Carvalho de Teixeira Guimarães,49286327032,Intensivo 2026
+1945,Marcelo  Souza ,81060763434,Intensivo 2026
+1946,caio mendes,63356416249,Extensivo 2025
+1947,Beariz Costa,14351723628,R+ Clínica 2026
+1948,Pedro Luiz Siilva,60235472234,Extensivo 2026
+1949,Rafaela Magalhães Ferreira,30611390024,R+ Clínica 2026
+1950,Larissa Ferreira Goncalves Mendes,08705683385,R+ Clínica 2026
+1951,luíza beatriz assunção de fernandes,84399748699,Extensivo 2026
+1952,Luíza Costa de Mendes,80792660944,Extensivo 2026
+1953,Larissa Vitoria Gomes Rocha Ribeiro,56655899016,R+ Clínica 2026
+1954,Gabriela Aparecida Vieira Soares,23242043050,Extensivo 2025
+1955,Camila Gomes Alves,13635911432,Extensivo 2026
+1956,bruna fernanda ribeiro de barbosa,61402454282,R+ Clínica 2026
+1957,Daniel Augusto Batista Dias,00013278962,Intensivo 2026
+1958,isabela pereira fernandes,79135329566,Extensivo 2026
+1959,Isabela Moura Cavalcanti de Araújo,46764089797,R+ Clínica 2026
+1960,isabela  luísab randão andrade ribeiro ,33602731516,Extensivo 2025
+1961,marcelo nascimento barbosa,36292459879,Extensivo 2025
+1962,carolina carolina fernandes ferreira,82146292262,Intensivo 2026
+1963,daniel augusto almeida,13852235970,Extensivo 2025
+1964,Pedro José Costa de Vieira,01441245222,Intensivo 2026
+1965,Isabela Vitoria Batista Nascimento de Barbosa,39350462953,Intensivo 2026
+1966,Rafaela Ribeiro de Cardoso Moreira,33878959189,Extensivo 2026
+1967,Débora Cavalcanti de Teixeira,95082572382,Intensivo 2026
+1968,Vinícius  Conceiçoã ,69484674755,Intensivo 2026
+1969,Felipe de Mendes,86922702542,R+ Clínica 2026
+1970,caio eduardo vieira de martins,05562412676,Extensivo 2025
+1971,pedro teixeira oliveira,94059647053,Intensivo 2026
+1972,Rodrigo Luiz Nunes,53206543256,Extensivo 2026
+1973,Felipe Eduardo Assuncao,37152431059,Extensivo 2026
+1974,Amanda Fernanda Ferreira da Costa,53122526479,Extensivo 2025
+1975,Larissa Beatriz  Barbosa Brandão,86307078110,Extensivo 2026
+1976,Letícia Cristina Cavalcanti Pereira,56942118724,Extensivo 2026
+1977,Débora  Vitória R. Costa Santos ,23149204919,Intensivo 2026
+1978,Marcelo Pereir Vieira,07043105550,Intensivo 2026
+1979,Juliana Silva,06606751461,R+ Clínica 2026
+1980,bruno cardoso brandao,95142770241,R+ Clínica 2026
+1981,amanda  helena alves oliveira ,62714359304,Extensivo 2026
+1982,Pedro A. Costa Assuncao,72553107387,Extensivo 2026
+1983,Juliana Silva Pereira,24088609639,Intensivo 2026
+1984,André Pereira Fernandes,10999319174,Extensivo 2026
+1985,Gabriel Felipe Nuens,19228874135,R+ Clínica 2026
+1986,Amanda Gomes de Lima,26642738699,Extensivo 2025
+1987,Gabriela Brandão Ferreira,05129272443,Extensivo 2026
+1988,Mariana Dias Pereira Cardoso,81070824018,Intensivo 2026
+1989,Natalia Beatriz Silva,31579208213,Extensivo 2025
+1990,Caio Cardoso Mendes,17295126670,Extensivo 2025
+1991,Felipe Augusto Freitas Barbosa da Costa,03909276793,Extensivo 2025
+1992,Caio Montiro,99506667680,R+ Clínica 2026
+1993,caolina marques brandão ramos,83069250938,Extensivo 2026
+1994,Daniel Moura de Batista,99412436126,Extensivo 2026
+1995,André Augusto Ferreira Vieira,76191814918,Intensivo 2026
+1996,Leonardo  Felipe Lopes de Nunes ,74911767565,Extensivo 2026
+1997,Bruno Eduardo Rodrigues Nunes Cavalcanti,31575229580,Intensivo 2026
+1998,Gustavo Costa Brandao,03674867516,Extensivo 2025
+1999,leticia carolina machado brandao,47439270811,Intensivo 2026
+2000,Carolina Brandão Tiexeira,81010320892,Intensivo 2026

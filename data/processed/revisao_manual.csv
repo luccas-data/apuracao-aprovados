@@ -1,0 +1,228 @@
+instituicao,inscricao,nome,especialidade,classificacao,cpf_parcial,id_aluno,score,candidatos,status,motivo,nome_no_cadastro,turma
+IRP,800783,LETICIA SANTANA DA SILVA,ANESTESIOLOGIA,1,,1136,85.0,1136 (85),revisao,"nome parecido, mas não igual",Luiza Santana Silva,Intensivo 2026
+IRP,564557,DEBORA VITORIA VIEIRA NASCIMENTO,ANESTESIOLOGIA,17,,146,85.71428571428572,146 (86),revisao,"nome parecido, mas não igual",Debora Vieiar Nascimento,Intensivo 2026
+IRP,759459,RAFAELA ARAUJO FERNANDES,ANESTESIOLOGIA,40,,1846,87.5,1846 (88),revisao,"nome parecido, mas não igual",Natalia Fernandes de Araujo,R+ Clínica 2026
+IRP,769083,CAMILA CLARA BATISTA OLIVEIRA DE LOPES,ANESTESIOLOGIA,50,,794,87.87878787878788,794 (88),revisao,"nome parecido, mas não igual",camila c. batista oliveira lopes,Intensivo 2026
+IRP,897248,NATALIA CRISTINA CARVALHO CONCEICAO,ANESTESIOLOGIA,53,,481,86.95652173913044,481 (87),revisao,"nome parecido, mas não igual",Natalia Cristina Andrade Conceicao,R+ Clínica 2026
+IRP,410281,EDUARDO LUIZ LOPES MENDES,ANESTESIOLOGIA,57,,995,86.36363636363636,995 (86),revisao,"nome parecido, mas não igual",Eduardo Luiz Mendes,R+ Clínica 2026
+IRP,100480,LUIZA LUISA SILVA SANTANA,ANESTESIOLOGIA,63,,1136,86.36363636363636,1136 (86),revisao,"nome parecido, mas não igual",Luiza Santana Silva,Intensivo 2026
+IRP,627689,BRUNA VITORIA GUIMARAES,ANESTESIOLOGIA,70,,1262,89.36170212765957,"1262 (89), 1237 (85)",revisao,"nome parecido, mas não igual",Debora  Vitoria Guimaraes ,Extensivo 2025
+IRP,847874,GABRIEL VINICIUS COSTA DOS SANTOS DE RAMOS,ANESTESIOLOGIA,71,,797,92.3076923076923,797 (92),revisao,"nome parecido, mas não igual",Gabriel Vinícius Costa dos S. de Ramos,Intensivo 2026
+IRP,304158,LETICIA FERNANDES,ANESTESIOLOGIA,87,,815,85.71428571428572,815 (86),revisao,"nome parecido, mas não igual",Patrícia Fernandes,Extensivo 2025
+IRP,396476,LETICIA CRISTINA MONTEIRO MAGALHAES,ANESTESIOLOGIA,95,,745,88.88888888888889,745 (89),revisao,"nome parecido, mas não igual",Leticia C. Monteiro Magalhaes,R+ Clínica 2026
+IRP,820774,PATRICIA FERNANDA MENDES,CIRURGIA GERAL,5,,815,85.71428571428572,"815 (86), 397 (85)",revisao,"nome parecido, mas não igual",Patrícia Fernandes,Extensivo 2025
+IRP,113784,GUSTAVO MOURA,CIRURGIA GERAL,18,,1717,85.71428571428572,1717 (86),revisao,"nome parecido, mas não igual",Gustavo Moreira,Extensivo 2026
+IRP,850213,CAROLINA CAROLINA CARDOSO MOURA LIMA,CIRURGIA GERAL,42,,939,100.0,"939 (100), 1465 (100)",revisao,mais de um aluno com esse nome,Carolina Carolina Cardoso Moura Lima,Extensivo 2026
+IRP,983399,RAFAELA HELENA DIAS,CIRURGIA GERAL,58,,1464,87.17948717948718,1464 (87),revisao,"nome parecido, mas não igual",Rafaela Helena Alves,Intensivo 2026
+IRP,481632,LEONARDO MOREIRA,CIRURGIA GERAL,63,,783,86.66666666666667,"783 (87), 505 (86)",revisao,"nome parecido, mas não igual",Leonardo Moura,Extensivo 2025
+IRP,737054,FERNANDA FREITAS,CIRURGIA GERAL,79,,1190,93.75,1190 (94),revisao,"nome parecido, mas não igual",Fernanad Freitas,R+ Clínica 2026
+IRP,820990,VITORIA FERNANDA MAGALHAES GUIMARAES,CIRURGIA GERAL,87,,676,85.71428571428572,676 (86),revisao,"nome parecido, mas não igual",Vitória Magalhães Guimarães,Extensivo 2026
+IRP,556139,GABRIELA FERNANDA SANTANA,CIRURGIA GERAL,91,,1181,94.11764705882352,1181 (94),revisao,"nome parecido, mas não igual",gabriela  santana de fernandes ,Intensivo 2026
+IRP,314861,LUIZA CLARA TEIXEIRA RAMOS,CIRURGIA GERAL,108,,772,91.66666666666666,772 (92),revisao,"nome parecido, mas não igual",Luíza C. Teixeira Ramos,Extensivo 2026
+IRP,533761,CAMILA CRISTINA BARBOSA DE FERREIRA,CIRURGIA GERAL,110,,1264,89.65517241379311,1264 (90),revisao,"nome parecido, mas não igual",Camila Cristina B. de Ferreira,Extensivo 2025
+IRP,248846,CAIO EDUARDO ASSUNCAO BRANDAO,CIRURGIA GERAL,120,,957,87.27272727272728,957 (87),revisao,"nome parecido, mas não igual",Eduardo A. Brandao Assuncao,R+ Clínica 2026
+IRP,494267,PEDRO PAULO TEIXEIRA DE MAGALHAES,CLINICA MEDICA,6,,109,86.15384615384616,109 (86),revisao,"nome parecido, mas não igual",pedro paulo vieira soares magalhães,R+ Clínica 2026
+IRP,936580,PEDRO GABRIEL RAMOS,CLINICA MEDICA,11,,418,86.36363636363636,418 (86),revisao,"nome parecido, mas não igual",pedro gabriel lopes de ramos,R+ Clínica 2026
+IRP,867156,CAROLINA MARTINS DE VIEIRA NUNES,CLINICA MEDICA,35,,670,86.27450980392157,670 (86),revisao,"nome parecido, mas não igual",Carolina Martins de Nunes,R+ Clínica 2026
+IRP,920460,CAIO LUIZ MARTINS BRANDAO,CLINICA MEDICA,52,,416,85.71428571428572,416 (86),revisao,"nome parecido, mas não igual",Carolina Brandao Martins,Extensivo 2026
+IRP,445523,LARISSA HELENA ALVES NASCIMENTO,CLINICA MEDICA,76,,1213,87.27272727272728,1213 (87),revisao,"nome parecido, mas não igual",Larissa  Alves Nascimento ,R+ Clínica 2026
+IRP,369550,GUSTAVO GABRIEL MOURA,CLINICA MEDICA,79,,1273,86.36363636363636,1273 (86),revisao,"nome parecido, mas não igual",Gustavo Gabriel S. Souza,Extensivo 2025
+IRP,728845,HENRIQUE LUIZ CARDOSO MAGALHAES,CLINICA MEDICA,85,,1015,86.66666666666667,1015 (87),revisao,"nome parecido, mas não igual",Daniel Luiz Cardoso Magalhaes,R+ Clínica 2026
+IRP,666380,VINICIUS VINICIUS BRANDAO,DERMATOLOGIA,6,,1809,85.71428571428572,1809 (86),revisao,"nome parecido, mas não igual",vinicius vinicius araujo,Extensivo 2026
+IRP,403770,BEATRIZ LUISA TEIXEIRA,DERMATOLOGIA,20,,1910,86.36363636363636,1910 (86),revisao,"nome parecido, mas não igual",maria beatriz teixeira,Intensivo 2026
+IRP,412219,VINICIUS GABRIEL BRANDAO DIAS,DERMATOLOGIA,23,,241,88.46153846153845,241 (88),revisao,"nome parecido, mas não igual",vinícius  g. brandão dias ,Extensivo 2025
+IRP,163060,GABRIEL PAULO CAVALCANTI DE TEIXEIRA,DERMATOLOGIA,30,,28,90.32258064516128,28 (90),revisao,"nome parecido, mas não igual",Gabrie lP. Cavalcanti de Teixeira,Intensivo 2026
+IRP,978508,CAROLINA GUIMARAES DE ARAUJO,DERMATOLOGIA,31,,1502,86.27450980392157,1502 (86),revisao,"nome parecido, mas não igual",Carolina  Brandão de Guimarães ,Extensivo 2026
+IRP,327094,CAROLINA MONTEIRO BRANDAO,DERMATOLOGIA,65,,1013,85.1063829787234,1013 (85),revisao,"nome parecido, mas não igual",Luíza Brandão Monteiro,R+ Clínica 2026
+IRP,436353,GABRIEL FERNANDES DOS SANTOS,DERMATOLOGIA,72,,1181,88.0,1181 (88),revisao,"nome parecido, mas não igual",gabriela  santana de fernandes ,Intensivo 2026
+IRP,566277,CAMILA GONCALVES CONCEICAO,DERMATOLOGIA,74,,1474,85.71428571428572,1474 (86),revisao,"nome parecido, mas não igual",Camila Soares da Conceicao,Intensivo 2026
+IRP,278414,RODRIGO PAULO LIMA GONCALVES FREITAS,DERMATOLOGIA,86,,1459,87.5,1459 (88),revisao,"nome parecido, mas não igual",rodrigo paulo lima g. freitas,Extensivo 2025
+IRP,348312,GABRIEL JOSE COSTA BATISTA,DERMATOLOGIA,90,,1394,86.66666666666667,1394 (87),revisao,"nome parecido, mas não igual",Gabriel José Santana Batista Costa,Extensivo 2026
+IRP,833739,AMANDA VIEIRA DOS SANTOS,DERMATOLOGIA,97,,351,87.8048780487805,351 (88),revisao,"nome parecido, mas não igual",Mariana  Santos de Vieira ,Extensivo 2025
+IRP,333640,NATALIA CAROLINA FREITAS SANTANA,GINECOLOGIA E OBSTETRICIA,27,,885,87.5,885 (88),revisao,"nome parecido, mas não igual",juliana carolina freitas de santana,R+ Clínica 2026
+IRP,126892,NATALIA APARECIDA FERNANDES DE MAGALHAES,GINECOLOGIA E OBSTETRICIA,30,,1596,87.67123287671232,1596 (88),revisao,"nome parecido, mas não igual",Fernanda Aparecida Santana de Magalhães,Intensivo 2026
+IRP,304141,MARCELO SANTOS NASCIMENTO,GINECOLOGIA E OBSTETRICIA,31,,862,85.71428571428572,862 (86),revisao,"nome parecido, mas não igual",daniel nascimento santos,Intensivo 2026
+IRP,586452,LETICIA LUISA FREITAS MOURA ARAUJO,GINECOLOGIA E OBSTETRICIA,36,,1714,86.66666666666667,1714 (87),revisao,"nome parecido, mas não igual",letícia luísa moura araújo,Extensivo 2026
+IRP,863198,LARISSA MOREIRA,GINECOLOGIA E OBSTETRICIA,46,,820,85.71428571428572,820 (86),revisao,"nome parecido, mas não igual",Maria Moreira,Extensivo 2026
+IRP,137322,LUCAS SOARES DE RIBEIRO,GINECOLOGIA E OBSTETRICIA,49,,23,85.71428571428572,23 (86),revisao,"nome parecido, mas não igual",Luiza  A. Ribeiro Soares ,R+ Clínica 2026
+IRP,812453,ISABELA CLARA TEIXEIRA,GINECOLOGIA E OBSTETRICIA,72,,1367,86.36363636363636,1367 (86),revisao,"nome parecido, mas não igual",isabela clara oliveira,Extensivo 2025
+IRP,114297,NATALIA COSTA DE MENDES,GINECOLOGIA E OBSTETRICIA,94,,112,85.71428571428572,112 (86),revisao,"nome parecido, mas não igual",Natalia Mendes Batista,R+ Clínica 2026
+IRP,117676,NATALIA CRISTINA RIBEIRO ANDRADE CONCEICAO,GINECOLOGIA E OBSTETRICIA,103,,481,89.47368421052632,481 (89),revisao,"nome parecido, mas não igual",Natalia Cristina Andrade Conceicao,R+ Clínica 2026
+IRP,284343,FERNANDA APARECIDA GOMES,MEDICINA DE FAMILIA E COMUNIDADE,19,,1777,91.66666666666666,1777 (92),revisao,"nome parecido, mas não igual",Fernanda Aparecida Lopes,Extensivo 2025
+IRP,301251,FELIPE JOSE FREITAS GUIMARAES,MEDICINA DE FAMILIA E COMUNIDADE,34,,1444,86.66666666666667,1444 (87),revisao,"nome parecido, mas não igual",Thiago Felipe Guimarães de Freitas,Extensivo 2025
+IRP,204667,CAROLINA CAROLINA CARDOSO MOURA LIMA,MEDICINA DE FAMILIA E COMUNIDADE,47,,939,100.0,"939 (100), 1465 (100)",revisao,mais de um aluno com esse nome,Carolina Carolina Cardoso Moura Lima,Extensivo 2026
+IRP,823265,FERNANDA ALVES NASCIMENTO,MEDICINA DE FAMILIA E COMUNIDADE,51,,132,85.1063829787234,132 (85),revisao,"nome parecido, mas não igual",André Nascimento de Alves,Extensivo 2025
+IRP,530023,LEONARDO EDUARDO CONCEICAO SILVA DE RODRIGUES,MEDICINA DE FAMILIA E COMUNIDADE,59,,1247,89.47368421052632,1247 (89),revisao,"nome parecido, mas não igual",Leonardo Eduardo C. Silva de Rodrigues,Intensivo 2026
+IRP,663457,GABRIELA NASCIMENTO ASSUNCAO,MEDICINA DE FAMILIA E COMUNIDADE,88,,1554,87.5,1554 (88),revisao,"nome parecido, mas não igual",Gabriela Assuncao de Nascimento Ribeiro,Extensivo 2025
+IRP,298302,DEBORA SILVA BARBOSA,MEDICINA DE FAMILIA E COMUNIDADE,92,,80,100.0,"80 (100), 150 (98)",revisao,mais de um aluno com esse nome,Débora  Silva Barbosa ,Extensivo 2026
+IRP,972275,THIAGO DIAS CONCEICAO,MEDICINA DE FAMILIA E COMUNIDADE,103,,703,86.48648648648648,703 (86),revisao,"nome parecido, mas não igual",Thiago Conceição,Intensivo 2026
+IRP,320887,DEBORA FERNANDA MACHADO RODRIGUES,MEDICINA DE FAMILIA E COMUNIDADE,104,,1740,86.20689655172413,1740 (86),revisao,"nome parecido, mas não igual",Debora Fernanda Rodrigues,Extensivo 2025
+IRP,358801,CAROLINA MOREIRA GOMES,MEDICINA DE FAMILIA E COMUNIDADE,112,,1388,87.5,1388 (88),revisao,"nome parecido, mas não igual",Carolina Goncalves Moreira,R+ Clínica 2026
+IRP,499657,CAROLINA CAROLINA SOARES,MEDICINA DE FAMILIA E COMUNIDADE,118,,1793,86.95652173913044,"1793 (87), 155 (85)",revisao,"nome parecido, mas não igual",Carolina Carolina Dias,Extensivo 2025
+IRP,690467,FERNANDA BARBOSA FERNANDES,MEDICINA DE FAMILIA E COMUNIDADE,120,,1821,86.27450980392157,1821 (86),revisao,"nome parecido, mas não igual",Débora Fernanda Fernandes,Extensivo 2026
+IRP,214405,AMANDA HELENA OLIVEIRA,MEDICINA DE FAMILIA E COMUNIDADE,122,,1981,88.0,1981 (88),revisao,"nome parecido, mas não igual",amanda  helena alves oliveira ,Extensivo 2026
+IRP,886715,GABRIELA VIEIRA DE DIAS,MEDICINA DE FAMILIA E COMUNIDADE,127,,1006,87.8048780487805,1006 (88),revisao,"nome parecido, mas não igual",Gabriela Dias Ribeiro,Extensivo 2025
+IRP,216437,FABIO ROCHA NUNES BATISTA,OFTALMOLOGIA,8,,729,86.36363636363636,729 (86),revisao,"nome parecido, mas não igual",Fábio Nunes Batista,Extensivo 2026
+IRP,494682,NATALIA FERNANDA RIBEIRO,OFTALMOLOGIA,14,,226,85.1063829787234,226 (85),revisao,"nome parecido, mas não igual",Natália  Andrade Ribeiro ,R+ Clínica 2026
+IRP,626810,RAFAEL CONCEICAO,OFTALMOLOGIA,28,,1568,100.0,"1568 (100), 1120 (97)",revisao,mais de um aluno com esse nome,Rafael Conceicao,Extensivo 2025
+IRP,210406,LETICIA PEREIRA BARBOSA NUNES,OFTALMOLOGIA,31,,1797,88.46153846153845,1797 (88),revisao,"nome parecido, mas não igual",Letícia Pereira B. Nunes,Extensivo 2026
+IRP,134294,CAROLINA FERNANDA SANTOS MOURA,OFTALMOLOGIA,40,,1278,100.0,"1278 (100), 1289 (100)",revisao,mais de um aluno com esse nome,Carolina Fernanda Santos Moura,Extensivo 2026
+IRP,804858,VITORIA ALVES MACHADO GUIMARAES,OFTALMOLOGIA,51,,1732,89.28571428571429,1732 (89),revisao,"nome parecido, mas não igual",Vitória Guimarães Machado,Extensivo 2025
+IRP,509095,FELIPE PAULO LOPES MOREIRA,OFTALMOLOGIA,58,,1659,86.95652173913044,1659 (87),revisao,"nome parecido, mas não igual",Felipe Lopes Moreira,Extensivo 2025
+IRP,602425,LUIZA NASCIMENTO,OFTALMOLOGIA,77,,933,100.0,"933 (100), 979 (100)",revisao,mais de um aluno com esse nome,Luíza de Nascimento,Extensivo 2026
+IRP,565546,JOAO MARQUES DE GUIMARAES COSTA,ORTOPEDIA E TRAUMATOLOGIA,1,,1594,85.18518518518519,1594 (85),revisao,"nome parecido, mas não igual",Joao Moura Costa Guimaraes,Extensivo 2025
+IRP,509125,DANIEL BRANDAO SOUZA,ORTOPEDIA E TRAUMATOLOGIA,15,,1539,87.17948717948718,1539 (87),revisao,"nome parecido, mas não igual",Daniel Luiz Brandão,R+ Clínica 2026
+IRP,483004,ANDRE EDUARDO ALMEIDA VIEIRA COSTA,ORTOPEDIA E TRAUMATOLOGIA,20,,837,92.06349206349206,837 (92),revisao,"nome parecido, mas não igual",André Eduardo Almeida V. Costa,R+ Clínica 2026
+IRP,555151,NATALIA APARECIDA BATISTA SOARES,ORTOPEDIA E TRAUMATOLOGIA,22,,796,85.71428571428572,796 (86),revisao,"nome parecido, mas não igual",Natalia Aparecida Soares,Extensivo 2026
+IRP,758567,EDUARDO EDUARDO SILVA RODRIGUES,ORTOPEDIA E TRAUMATOLOGIA,29,,1247,89.23076923076923,1247 (89),revisao,"nome parecido, mas não igual",Leonardo Eduardo C. Silva de Rodrigues,Intensivo 2026
+IRP,291445,ANDRE EDUARDO MENDES MACHADO GONCALVES,ORTOPEDIA E TRAUMATOLOGIA,33,,340,88.23529411764706,340 (88),revisao,"nome parecido, mas não igual",André Eduardo Mendes Gonçalves,Extensivo 2026
+IRP,314573,CAMILA LUISA GOMES ALVES,ORTOPEDIA E TRAUMATOLOGIA,42,,1955,85.71428571428572,1955 (86),revisao,"nome parecido, mas não igual",Camila Gomes Alves,Extensivo 2026
+IRP,237167,JULIANA BEATRIZ FERREIRA,ORTOPEDIA E TRAUMATOLOGIA,63,,739,85.1063829787234,739 (85),revisao,"nome parecido, mas não igual",Beatriz Helena Ferreira,Intensivo 2026
+IRP,856967,DEBORA VITORIA RODRIGUES COSTA SANTOS,ORTOPEDIA E TRAUMATOLOGIA,76,,1977,87.87878787878788,1977 (88),revisao,"nome parecido, mas não igual",Débora  Vitória R. Costa Santos ,Intensivo 2026
+IRP,312346,CAROLINA APARECIDA MOREIRA,ORTOPEDIA E TRAUMATOLOGIA,80,,776,85.71428571428572,776 (86),revisao,"nome parecido, mas não igual",Amanda Carolina Moreira,Extensivo 2025
+IRP,927268,LETICIA CAROLINA GUIMARAES PEREIRA,ORTOPEDIA E TRAUMATOLOGIA,95,,1466,88.23529411764706,1466 (88),revisao,"nome parecido, mas não igual",larissa carolina guimarães pereira,R+ Clínica 2026
+IRP,187863,NATALIA EDUARDA VIEIRA,PEDIATRIA,47,,249,91.30434782608697,"249 (91), 287 (91)",revisao,"nome parecido, mas não igual",Natália Eduarda Oliveira,R+ Clínica 2026
+IRP,527265,MARIANA VITORIA COSTA RODRIGUES,PEDIATRIA,66,,1780,89.28571428571429,1780 (89),revisao,"nome parecido, mas não igual",Mariana V. Costa Rodrigues,R+ Clínica 2026
+IRP,936422,GABRIEL GABRIEL CARVALHO,PEDIATRIA,101,,630,100.0,"630 (100), 1619 (100), 67 (85)",revisao,mais de um aluno com esse nome,gabriel gabriel carvalho,R+ Clínica 2026
+IRP,104786,MATHEUS TEIXEIRA,PSIQUIATRIA,11,,867,86.66666666666667,867 (87),revisao,"nome parecido, mas não igual",Matheus Vieira,Extensivo 2025
+IRP,661449,FERNANDA CAROLINA FERREIRA BARBOSA,PSIQUIATRIA,15,,1962,85.71428571428572,1962 (86),revisao,"nome parecido, mas não igual",carolina carolina fernandes ferreira,Intensivo 2026
+IRP,609096,ANDRE EDUARDO MARQUES FERREIRA DE SOUZA,PSIQUIATRIA,27,,1281,87.5,1281 (88),revisao,"nome parecido, mas não igual",André  E. Marques Ferreira de Souza ,Intensivo 2026
+IRP,292597,GABRIELA MARTINS,PSIQUIATRIA,29,,1600,88.88888888888889,1600 (89),revisao,"nome parecido, mas não igual",João Gabriel Martins,Extensivo 2026
+IRP,602709,MATHEUS VINICIUS SANTOS MONTEIRO,PSIQUIATRIA,31,,1646,87.71929824561404,1646 (88),revisao,"nome parecido, mas não igual",Matheus Vinicius Monteiro,R+ Clínica 2026
+IRP,983831,EDUARDO ANTONIO BRANDAO ASSUNCAO,PSIQUIATRIA,37,,957,89.65517241379311,957 (90),revisao,"nome parecido, mas não igual",Eduardo A. Brandao Assuncao,R+ Clínica 2026
+IRP,998991,MATHEUS LUIZ SILVA DE BATISTA,PSIQUIATRIA,42,,387,85.18518518518519,387 (85),revisao,"nome parecido, mas não igual",Matheus Luiz Santana Batista,Intensivo 2026
+IRP,784676,ANDRE SANTOS BATISTA,PSIQUIATRIA,52,,1101,89.47368421052632,1101 (89),revisao,"nome parecido, mas não igual",ana  santos batista ,Extensivo 2025
+IRP,963584,JOAO JOSE ALVES,PSIQUIATRIA,62,,451,86.66666666666667,451 (87),revisao,"nome parecido, mas não igual",Caio Jose Alves,R+ Clínica 2026
+IRP,158382,LEONARDO AUGUSTO DIAS,PSIQUIATRIA,70,,1077,88.88888888888889,1077 (89),revisao,"nome parecido, mas não igual",Leonardo August ode Dias,Extensivo 2026
+IRP,122791,FERNANDA GOMES DE DIAS,PSIQUIATRIA,89,,1317,87.17948717948718,1317 (87),revisao,"nome parecido, mas não igual",Fernanda  Gomes de Alves ,Intensivo 2026
+IRP,223607,RAFAEL JOSE RAMOS DE MARTINS,PSIQUIATRIA,96,,178,88.46153846153845,178 (88),revisao,"nome parecido, mas não igual",Rafael Araújo Martins Ramos,Extensivo 2026
+IRP,213378,MARIA CLARA ALMEIDA,PSIQUIATRIA,111,,1801,88.23529411764706,1801 (88),revisao,"nome parecido, mas não igual",maria c. de almeida,R+ Clínica 2026
+IRP,917850,MARIA SANTOS GONCALVES,RADIOLOGIA,3,,1692,89.36170212765957,1692 (89),revisao,"nome parecido, mas não igual",Patricia Santos Goncalves,Extensivo 2026
+IRP,334237,RAFAELA LOPES GONCALVES,RADIOLOGIA,5,,775,85.0,775 (85),revisao,"nome parecido, mas não igual",Rafaela  Gonçalves,Extensivo 2026
+IRP,991467,MARCELO JOSE ROCHA RIBEIRO FREITAS,RADIOLOGIA,6,,117,100.0,"117 (100), 1383 (100)",revisao,mais de um aluno com esse nome,marcelo josé rocha ribeiro freitas,R+ Clínica 2026
+IRP,960845,CAMILA ALMEIDA ASSUNCAO,RADIOLOGIA,9,,1310,85.1063829787234,1310 (85),revisao,"nome parecido, mas não igual",Gabriel  Almeida da Assuncao ,Extensivo 2025
+IRP,851543,EDUARDO ANTONIO BRANDAO FERREIRA,RADIOLOGIA,11,,1819,89.65517241379311,1819 (90),revisao,"nome parecido, mas não igual",eduardo a. brandao ferreira,Extensivo 2026
+IRP,458090,LARISSA CAROLINA DIAS,RADIOLOGIA,28,,492,90.0,492 (90),revisao,"nome parecido, mas não igual",carolina luisa dias,Intensivo 2026
+IRP,212684,BEATRIZ CLARA BATISTA,RADIOLOGIA,44,,1875,85.71428571428572,1875 (86),revisao,"nome parecido, mas não igual",Beatriz Batista de Moura,R+ Clínica 2026
+IRP,630832,GABRIELA CLARA PEREIRA ASSUNCAO,RADIOLOGIA,52,,855,89.28571428571429,855 (89),revisao,"nome parecido, mas não igual",gabriela clara p. assuncao,Intensivo 2026
+IRP,307233,AMANDA FERNANDA CAVALCANTI FERNANDES RODRIGUES,RADIOLOGIA,63,,1463,87.8048780487805,1463 (88),revisao,"nome parecido, mas não igual",Amanda  Fernanda Cavalcanti Rodrigues ,Extensivo 2025
+IRP,682779,MARCELO LUIZ MENDES DOS SANTOS,RADIOLOGIA,81,,1331,89.36170212765957,1331 (89),revisao,"nome parecido, mas não igual",Marcelo Mendes dos Santos,Intensivo 2026
+IRP,683162,RAFAELA NUNES DA CONCEICAO,RADIOLOGIA,91,,1120,85.0,1120 (85),revisao,"nome parecido, mas não igual",Rafaela Conceicao,Intensivo 2026
+ENU,230423,Luíza Monteiro,ANESTESIOLOGIA,11,,288,92.85714285714286,288 (93),revisao,"nome parecido, mas não igual",Luíza Monetiro,Extensivo 2026
+ENU,980576,Leonardo Ramos Pereira,ANESTESIOLOGIA,23,,129,88.88888888888889,129 (89),revisao,"nome parecido, mas não igual",Leonardo Santos Pereira,Intensivo 2026
+ENU,842870,Gabriela Beatriz Conceição de Soares,ANESTESIOLOGIA,30,,1070,86.20689655172413,1070 (86),revisao,"nome parecido, mas não igual",Gabriela  Beatriz C. de Soares ,Extensivo 2026
+ENU,782633,Felipe Gabriel Barbosa Lima,ANESTESIOLOGIA,40,,502,85.71428571428572,502 (86),revisao,"nome parecido, mas não igual",Felipe Gabriel Mendes Barbosa,Intensivo 2026
+ENU,259886,Fábio Eduardo Gomes da Rocha,ANESTESIOLOGIA,46,,316,86.36363636363636,316 (86),revisao,"nome parecido, mas não igual",Fábio Eduardo da Rocha,Extensivo 2025
+ENU,274399,Beatriz Vitória Almeida,ANESTESIOLOGIA,58,,629,100.0,"629 (100), 660 (100)",revisao,mais de um aluno com esse nome,vitória beatriz almeida,Extensivo 2026
+ENU,961807,Daniel Teixeira Pereira Santana,ANESTESIOLOGIA,60,,1664,85.18518518518519,1664 (85),revisao,"nome parecido, mas não igual",Daniel Teixeira Santana,Extensivo 2026
+ENU,262831,Eduardo Monteiro,ANESTESIOLOGIA,77,,1178,86.48648648648648,1178 (86),revisao,"nome parecido, mas não igual",eduardo  luiz monteiro ,R+ Clínica 2026
+ENU,849621,Gabriel Luiz Cavalcanti Teixeira,ANESTESIOLOGIA,88,,28,91.80327868852459,28 (92),revisao,"nome parecido, mas não igual",Gabrie lP. Cavalcanti de Teixeira,Intensivo 2026
+ENU,201792,André Luiz Andrade Moreira Ramos,ANESTESIOLOGIA,98,,370,89.65517241379311,370 (90),revisao,"nome parecido, mas não igual",André Luiz A. Moreira Ramos,R+ Clínica 2026
+ENU,184662,Fernanda Aparecida Moreira Oliveira,ANESTESIOLOGIA,105,,404,85.71428571428572,404 (86),revisao,"nome parecido, mas não igual",Fernanda Aparecida Pereira Teixeira,Extensivo 2026
+ENU,497110,Fábio Luiz Pereira Alves,ANESTESIOLOGIA,118,,627,93.33333333333333,627 (93),revisao,"nome parecido, mas não igual",Fabio L. Pereira Alves,R+ Clínica 2026
+ENU,940603,Felipe Eduardo Araújo Martins,CIRURGIA GERAL,4,,603,86.27450980392157,603 (86),revisao,"nome parecido, mas não igual",Felipe  Eduardo Martins ,Intensivo 2026
+ENU,562546,Henrique Eduardo Brandão de Guimarães,CIRURGIA GERAL,29,,1599,86.66666666666667,1599 (87),revisao,"nome parecido, mas não igual",henrique e. brandao de guimaraes,Extensivo 2026
+ENU,558704,Pedro Pereira Lopes,CIRURGIA GERAL,35,,232,89.47368421052632,"232 (89), 1731 (87)",revisao,"nome parecido, mas não igual",pedro alves de pereira,R+ Clínica 2026
+ENU,467406,Carolina Fernanda Martins,CIRURGIA GERAL,45,,1065,85.71428571428572,1065 (86),revisao,"nome parecido, mas não igual",Fernanda Barbosa Martins,Extensivo 2026
+ENU,433449,Ana Lopes,CIRURGIA GERAL,57,,260,85.71428571428572,260 (86),revisao,"nome parecido, mas não igual",Amanda Lopes,Extensivo 2025
+ENU,886147,Mariana Mendes,CIRURGIA GERAL,63,,464,92.3076923076923,464 (92),revisao,"nome parecido, mas não igual",Maria Mendes,Intensivo 2026
+ENU,151951,Bruna Luísa Freitas de Souza,CIRURGIA GERAL,74,,398,90.19607843137256,398 (90),revisao,"nome parecido, mas não igual",Bruna  Luísa Freitas Soares ,R+ Clínica 2026
+ENU,284554,Vinícius Augusto Moura de Martins,CIRURGIA GERAL,78,,1467,87.71929824561404,1467 (88),revisao,"nome parecido, mas não igual",Caio  Vinícius Moura Martins ,Extensivo 2025
+ENU,497391,Mariana Luísa Guimarães,CIRURGIA GERAL,86,,1092,88.37209302325581,"1092 (88), 894 (85)",revisao,"nome parecido, mas não igual",Maria Guimaraes Lima,Extensivo 2025
+ENU,650237,Leonardo Augusto Gomes Lima,CIRURGIA GERAL,88,,836,88.0,836 (88),revisao,"nome parecido, mas não igual",Leonarrdo Augusto Gomes,R+ Clínica 2026
+ENU,441802,Vinícius José Mendes Conceição,CIRURGIA GERAL,103,,216,90.9090909090909,"216 (91), 708 (91)",revisao,"nome parecido, mas não igual",vinícius mendes conceição,Extensivo 2026
+ENU,202956,Isabela Cristina Gomes de Mendes,CIRURGIA GERAL,124,,1418,90.32258064516128,1418 (90),revisao,"nome parecido, mas não igual",Isabela Cristina Guimaraes Mendes,Intensivo 2026
+ENU,807282,Ana Carolina Lopes de Guimarães,CIRURGIA GERAL,125,,1912,87.5,1912 (88),revisao,"nome parecido, mas não igual",ana carolina barbosa de guimarães lopes,Extensivo 2026
+ENU,941635,Débora Vitória Rodrigues Costa Santos,CLINICA MEDICA,17,,1977,87.87878787878788,1977 (88),revisao,"nome parecido, mas não igual",Débora  Vitória R. Costa Santos ,Intensivo 2026
+ENU,448521,Vinícius Henrique Lima Batista,CLINICA MEDICA,25,,988,90.9090909090909,988 (91),revisao,"nome parecido, mas não igual",Vinícius Henrique Batista,Extensivo 2026
+ENU,669589,Isabela Monteiro Alves,CLINICA MEDICA,50,,704,100.0,"704 (100), 1937 (100)",revisao,mais de um aluno com esse nome,Isabela Monteiro Alves,R+ Clínica 2026
+ENU,189250,Rodrigo Paulo Lima Gonçalves Freitas,CLINICA MEDICA,52,,1459,87.5,1459 (88),revisao,"nome parecido, mas não igual",rodrigo paulo lima g. freitas,Extensivo 2025
+ENU,944552,Pedro Antônio Costa Assunção,CLINICA MEDICA,68,,1982,88.0,1982 (88),revisao,"nome parecido, mas não igual",Pedro A. Costa Assuncao,Extensivo 2026
+ENU,355091,Mariana Cristina Nascimento,CLINICA MEDICA,69,,1424,87.71929824561404,1424 (88),revisao,"nome parecido, mas não igual",Maria Cristina Dias Nascimento,Extensivo 2026
+ENU,218672,Vitória Teixeira Moreira,CLINICA MEDICA,86,,393,89.79591836734694,393 (90),revisao,"nome parecido, mas não igual",Vitória Teixeira Oliveira,Extensivo 2025
+ENU,438653,Bruno Andrade de Marques,CLINICA MEDICA,96,,206,93.02325581395348,"206 (93), 1332 (93)",revisao,"nome parecido, mas não igual",Bruna Andrade Marqques,R+ Clínica 2026
+ENU,799716,Eduardo Mendes Vieira Costa,CLINICA MEDICA,114,,1488,85.1063829787234,1488 (85),revisao,"nome parecido, mas não igual",Eduardo Vieira Costa,Extensivo 2026
+ENU,999638,Larissa Marques de Guimarães,CLINICA MEDICA,121,,286,86.95652173913044,286 (87),revisao,"nome parecido, mas não igual",Larissa Marques Gomes,Extensivo 2026
+ENU,982410,Camila Eduarda Moreira,CLINICA MEDICA,123,,1498,88.37209302325581,1498 (88),revisao,"nome parecido, mas não igual",Camila Eduarda Vieira,R+ Clínica 2026
+ENU,592507,Camila Alves de Soares de Batista,CLINICA MEDICA,139,,1215,87.5,1215 (88),revisao,"nome parecido, mas não igual",Camila de Soares de Batista,R+ Clínica 2026
+ENU,438487,Larissa Vitória Ferreira,DERMATOLOGIA,18,,1736,89.36170212765957,1736 (89),revisao,"nome parecido, mas não igual",Larissa Vieira Ferreira,R+ Clínica 2026
+ENU,429500,Leonardo Rodrigues de Almeida,DERMATOLOGIA,37,,1220,86.66666666666667,1220 (87),revisao,"nome parecido, mas não igual",leonardo antônio rodrigues almeida,R+ Clínica 2026
+ENU,444737,Letícia Pereira Barbosa Nunes,DERMATOLOGIA,56,,1797,88.46153846153845,1797 (88),revisao,"nome parecido, mas não igual",Letícia Pereira B. Nunes,Extensivo 2026
+ENU,800192,Patrícia Cristina Ribeiro,DERMATOLOGIA,61,,1868,88.0,"1868 (88), 151 (86)",revisao,"nome parecido, mas não igual",Patrícia Carolina Ribeiro,Extensivo 2025
+ENU,895111,Vitória Ribeiro Teixeira,DERMATOLOGIA,92,,393,85.71428571428572,393 (86),revisao,"nome parecido, mas não igual",Vitória Teixeira Oliveira,Extensivo 2025
+ENU,958096,Fábio Vinícius Barbosa de Soares,DERMATOLOGIA,94,,1537,86.27450980392157,1537 (86),revisao,"nome parecido, mas não igual",Fábio Vinícius Barbosa,R+ Clínica 2026
+ENU,296443,Ana Vitória Soares,DERMATOLOGIA,100,,830,87.5,830 (88),revisao,"nome parecido, mas não igual",Vitoria Soares,R+ Clínica 2026
+ENU,674640,Mariana Lima Magalhães,DERMATOLOGIA,107,,495,86.95652173913044,495 (87),revisao,"nome parecido, mas não igual",mariana helena magalhães,Extensivo 2026
+ENU,686297,Luíza Gonçalves Oliveira,DERMATOLOGIA,126,,597,88.37209302325581,597 (88),revisao,"nome parecido, mas não igual",Luza Oliveira Alves,Intensivo 2026
+ENU,132910,Felipe Antônio Moura Soares,GINECOLOGIA E OBSTETRICIA,13,,1399,85.18518518518519,1399 (85),revisao,"nome parecido, mas não igual",Felipe Antonio Lopes de Soares,Extensivo 2025
+ENU,917447,Gabriel Vinícius Costa dos Santos de Ramos,GINECOLOGIA E OBSTETRICIA,21,,797,92.3076923076923,797 (92),revisao,"nome parecido, mas não igual",Gabriel Vinícius Costa dos S. de Ramos,Intensivo 2026
+ENU,261551,Rafael Lopes Guimarães,GINECOLOGIA E OBSTETRICIA,24,,917,88.37209302325581,917 (88),revisao,"nome parecido, mas não igual",rafael josé guimarães,R+ Clínica 2026
+ENU,209942,Henrique Ferreira de Araújo Souza,GINECOLOGIA E OBSTETRICIA,32,,605,86.20689655172413,605 (86),revisao,"nome parecido, mas não igual",Henrique Felipe Souza Araújo,Extensivo 2025
+ENU,535670,Camila Moreira Pereira,GINECOLOGIA E OBSTETRICIA,55,,1887,93.33333333333333,1887 (93),revisao,"nome parecido, mas não igual",Camila B. Moreira de Preira,R+ Clínica 2026
+ENU,719754,Gabriela Fernanda Andrade Ribeiro,GINECOLOGIA E OBSTETRICIA,56,,839,86.20689655172413,839 (86),revisao,"nome parecido, mas não igual",gabriela fernanda ribeiro,Extensivo 2026
+ENU,856536,Eduardo Antônio Brandão Assunção,GINECOLOGIA E OBSTETRICIA,88,,957,89.65517241379311,957 (90),revisao,"nome parecido, mas não igual",Eduardo A. Brandao Assuncao,R+ Clínica 2026
+ENU,305293,Vitória Alves Teixeira,GINECOLOGIA E OBSTETRICIA,96,,393,85.1063829787234,393 (85),revisao,"nome parecido, mas não igual",Vitória Teixeira Oliveira,Extensivo 2025
+ENU,998535,Vinícius Gabriel Brandão Dias,GINECOLOGIA E OBSTETRICIA,109,,241,88.46153846153845,241 (88),revisao,"nome parecido, mas não igual",vinícius  g. brandão dias ,Extensivo 2025
+ENU,902915,Felipe Paulo Lopes Moreira,GINECOLOGIA E OBSTETRICIA,123,,1659,86.95652173913044,1659 (87),revisao,"nome parecido, mas não igual",Felipe Lopes Moreira,Extensivo 2025
+ENU,742595,Mariana Fernandes Rocha,GINECOLOGIA E OBSTETRICIA,125,,1872,85.0,1872 (85),revisao,"nome parecido, mas não igual",Mariana Fernandes,Intensivo 2026
+ENU,983365,Gabriela Eduarda Costa,GINECOLOGIA E OBSTETRICIA,127,,101,88.37209302325581,101 (88),revisao,"nome parecido, mas não igual",Isabela Eduarda Costa,R+ Clínica 2026
+ENU,287129,Eduardo Silva Brandão,MEDICINA DE FAMILIA E COMUNIDADE,3,,1635,87.5,1635 (88),revisao,"nome parecido, mas não igual",Lucas  Eduardo Brandao Silva ,Extensivo 2025
+ENU,410012,Gabriela Freitas Ribeiro,MEDICINA DE FAMILIA E COMUNIDADE,23,,1006,88.88888888888889,1006 (89),revisao,"nome parecido, mas não igual",Gabriela Dias Ribeiro,Extensivo 2025
+ENU,230256,Rafael Eduardo Andrade,MEDICINA DE FAMILIA E COMUNIDADE,54,,1280,86.36363636363636,1280 (86),revisao,"nome parecido, mas não igual",Felipe Eduardo Andrade,Extensivo 2026
+ENU,465837,Lucas Gabriel Fernandes,MEDICINA DE FAMILIA E COMUNIDADE,63,,572,85.1063829787234,572 (85),revisao,"nome parecido, mas não igual",gabriela lopes fernandes,Extensivo 2025
+ENU,127805,Caio Silva,MEDICINA DE FAMILIA E COMUNIDADE,70,,427,85.71428571428572,427 (86),revisao,"nome parecido, mas não igual",fábio silva,Extensivo 2026
+ENU,767587,Carolina Carolina Machado de Guimarães,MEDICINA DE FAMILIA E COMUNIDADE,95,,1336,85.71428571428572,1336 (86),revisao,"nome parecido, mas não igual",carolina fernanda machado guimaraes,Extensivo 2025
+ENU,142714,André Assunção Santana,MEDICINA DE FAMILIA E COMUNIDADE,112,,1525,90.47619047619048,1525 (90),revisao,"nome parecido, mas não igual",Ana Santana Assuncao,Extensivo 2025
+ENU,441677,Patrícia Rocha Fernandes,MEDICINA DE FAMILIA E COMUNIDADE,127,,815,85.71428571428572,"815 (86), 1200 (86)",revisao,"nome parecido, mas não igual",Patrícia Fernandes,Extensivo 2025
+ENU,885415,Rafael Felipe Gomes Santana,OFTALMOLOGIA,8,,305,89.65517241379311,305 (90),revisao,"nome parecido, mas não igual",Rafael Felipe Gonçalves Santana,R+ Clínica 2026
+ENU,641171,Bruna Clara Lopes de Vieira,OFTALMOLOGIA,20,,1494,90.9090909090909,1494 (91),revisao,"nome parecido, mas não igual",Bruna C. Lopes de Vieira,Intensivo 2026
+ENU,791121,Larissa Aparecida Carvalho Barbosa Machado,OFTALMOLOGIA,21,,30,88.0,30 (88),revisao,"nome parecido, mas não igual",Larissa Aparecida Barbosa Machado,Intensivo 2026
+ENU,900211,Gabriel Henrique Alves Teixeira,OFTALMOLOGIA,23,,1754,93.10344827586206,1754 (93),revisao,"nome parecido, mas não igual",Gabriel Henrique A. Teixeira,Extensivo 2026
+ENU,912729,Bruno José Barbosa Conceição,OFTALMOLOGIA,27,,1681,90.19607843137256,"1681 (90), 314 (86)",revisao,"nome parecido, mas não igual",Bruno Barbosa Conceição,Intensivo 2026
+ENU,605940,Eduardo Barbosa Oliveira,OFTALMOLOGIA,39,,1644,85.1063829787234,1644 (85),revisao,"nome parecido, mas não igual",Eduardo Araujo de Oliveira,Extensivo 2025
+ENU,533454,Daniel Eduardo Souza,OFTALMOLOGIA,52,,488,87.17948717948718,488 (87),revisao,"nome parecido, mas não igual",Andre  Eduardo Souza ,R+ Clínica 2026
+ENU,290828,João Vinícius Monteiro de Lopes,OFTALMOLOGIA,56,,373,88.13559322033898,373 (88),revisao,"nome parecido, mas não igual",vinicius monteiro lopes cardoso,Intensivo 2026
+ENU,115105,Felipe Vinícius Martins de Cardoso de Marques,OFTALMOLOGIA,87,,1639,88.57142857142857,1639 (89),revisao,"nome parecido, mas não igual",Vinícius Felipe Martins Marques,Extensivo 2025
+ENU,202645,Larissa Beatriz Silva Nunes,OFTALMOLOGIA,107,,624,92.0,624 (92),revisao,"nome parecido, mas não igual",Larissa Beatriz S. Nunes,Intensivo 2026
+ENU,926576,Rodrigo Augusto Mendes Conceição Barbosa,OFTALMOLOGIA,118,,1902,93.33333333333333,1902 (93),revisao,"nome parecido, mas não igual",Rodrigo Augusto M. Conceição Barbosa,Extensivo 2025
+ENU,217606,Maria Helena Machado,OFTALMOLOGIA,119,,1563,86.95652173913044,1563 (87),revisao,"nome parecido, mas não igual",Maria Helena Ramos de Machado,Extensivo 2026
+ENU,839751,Débora Cristina Gonçalves,ORTOPEDIA E TRAUMATOLOGIA,3,,1640,86.20689655172413,1640 (86),revisao,"nome parecido, mas não igual",Débora Cristina Gonçalves Freitas,Extensivo 2026
+ENU,394688,Isabela Clara Carvalho Guimarães de Cardoso,ORTOPEDIA E TRAUMATOLOGIA,15,,1861,89.47368421052632,1861 (89),revisao,"nome parecido, mas não igual",Isabela C. Carvalho Guimarães de Cardoso,Extensivo 2025
+ENU,180461,Gabriela Ribeiro,ORTOPEDIA E TRAUMATOLOGIA,16,,1006,86.48648648648648,1006 (86),revisao,"nome parecido, mas não igual",Gabriela Dias Ribeiro,Extensivo 2025
+ENU,338207,Bruna Andrade Marques,ORTOPEDIA E TRAUMATOLOGIA,19,,206,97.67441860465115,"206 (98), 1332 (98)",revisao,mais de um aluno com esse nome,Bruna Andrade Marqques,R+ Clínica 2026
+ENU,120352,Gabriel Henrique Alves Teixeira,ORTOPEDIA E TRAUMATOLOGIA,56,,1754,93.10344827586206,1754 (93),revisao,"nome parecido, mas não igual",Gabriel Henrique A. Teixeira,Extensivo 2026
+ENU,349480,Ana Nunes,ORTOPEDIA E TRAUMATOLOGIA,67,,1387,85.71428571428572,1387 (86),revisao,"nome parecido, mas não igual",Amanda  Nunes ,Extensivo 2025
+ENU,218447,Mariana Cristina Cavalcanti,ORTOPEDIA E TRAUMATOLOGIA,71,,1371,85.18518518518519,1371 (85),revisao,"nome parecido, mas não igual",Rafaela Cristina Cavalcanti,Extensivo 2026
+ENU,229905,Camila Eduarda Santos Oliveira Ramos,ORTOPEDIA E TRAUMATOLOGIA,89,,1634,89.23076923076923,1634 (89),revisao,"nome parecido, mas não igual",Camila Eduarda Oliveira Ramos,R+ Clínica 2026
+ENU,117998,Gabriel Vinícius Machado,ORTOPEDIA E TRAUMATOLOGIA,114,,728,86.95652173913044,"728 (87), 1609 (87)",revisao,"nome parecido, mas não igual",Vinícius Gabriel Rocha,Extensivo 2026
+ENU,136028,Patrícia Fernanda Assunção,ORTOPEDIA E TRAUMATOLOGIA,122,,44,86.27450980392157,44 (86),revisao,"nome parecido, mas não igual",Larissa Fernanda Assunção,Intensivo 2026
+ENU,544627,Marcelo José Freitas de Guimarães,ORTOPEDIA E TRAUMATOLOGIA,127,,582,91.80327868852459,582 (92),revisao,"nome parecido, mas não igual",Marcelo José Ferreira Guimarães,R+ Clínica 2026
+ENU,718448,Lucas Soares de Moura,PEDIATRIA,3,,1043,94.44444444444444,1043 (94),revisao,"nome parecido, mas não igual",Lucas Soarse de Moura,R+ Clínica 2026
+ENU,987814,Luíza Clara Batista,PEDIATRIA,33,,6,86.48648648648648,6 (86),revisao,"nome parecido, mas não igual",luiza lima batista,Extensivo 2025
+ENU,388551,Vinícius Gabriel Rocha,PEDIATRIA,49,,728,100.0,"728 (100), 1609 (100)",revisao,mais de um aluno com esse nome,Vinícius Gabriel Rocha,Extensivo 2026
+ENU,963985,Gabriel Oliveira,PEDIATRIA,57,,1184,86.48648648648648,1184 (86),revisao,"nome parecido, mas não igual",João Gabriel Oliveira,Intensivo 2026
+ENU,473192,Amanda Clara Marques,PEDIATRIA,58,,60,87.17948717948718,60 (87),revisao,"nome parecido, mas não igual",Amanda Clara Soares,Intensivo 2026
+ENU,192097,Rodrigo Augusto Santos de Rodrigues,PEDIATRIA,69,,696,88.52459016393442,696 (89),revisao,"nome parecido, mas não igual",Rodrigo Rodrigues Dias Santos,R+ Clínica 2026
+ENU,254908,Carolina Ramos Silva,PEDIATRIA,73,,68,85.0,68 (85),revisao,"nome parecido, mas não igual",Maria Carolina Silva,R+ Clínica 2026
+ENU,421599,Beatriz Fernanda Gomes Assunção,PEDIATRIA,75,,1462,90.32258064516128,"1462 (90), 335 (86)",revisao,"nome parecido, mas não igual",Fernanda Beatriz Ramos Assuncao,Intensivo 2026
+ENU,500004,Natália Cristina Ribeiro Andrade Conceição,PEDIATRIA,79,,481,89.47368421052632,481 (89),revisao,"nome parecido, mas não igual",Natalia Cristina Andrade Conceicao,R+ Clínica 2026
+ENU,130026,Ana Silva,PEDIATRIA,90,,1650,85.71428571428572,1650 (86),revisao,"nome parecido, mas não igual",Amanda Silva,Extensivo 2025
+ENU,399579,Vinícius Vieira,PEDIATRIA,104,,1176,93.33333333333333,1176 (93),revisao,"nome parecido, mas não igual",vinicius vieria,Extensivo 2026
+ENU,836525,Rodrigo Eduardo Ferreira Gonçalves,PEDIATRIA,133,,1864,85.29411764705883,1864 (85),revisao,"nome parecido, mas não igual",Eduardo Ferreira de Gonçalves Pereira,Extensivo 2026
+ENU,840909,Gustavo Eduardo Batista,PSIQUIATRIA,19,,1003,86.36363636363636,1003 (86),revisao,"nome parecido, mas não igual",Gustavo Eduardo Costa,Extensivo 2026
+ENU,620412,Rafaela Conceição,PSIQUIATRIA,29,,1120,100.0,"1120 (100), 1568 (97)",revisao,mais de um aluno com esse nome,Rafaela Conceicao,Intensivo 2026
+ENU,238288,Caio Paulo Teixeira Oliveira Andrade,PSIQUIATRIA,59,,384,89.23076923076923,384 (89),revisao,"nome parecido, mas não igual",Caio Paulo Teixeira O. Andrade,Intensivo 2026
+ENU,482202,Pedro Andrade,PSIQUIATRIA,60,,1292,85.71428571428572,1292 (86),revisao,"nome parecido, mas não igual",Eduardo Andrade,Extensivo 2025
+ENU,591043,Fernanda Carolina Guimarães,PSIQUIATRIA,70,,1336,87.09677419354838,1336 (87),revisao,"nome parecido, mas não igual",carolina fernanda machado guimaraes,Extensivo 2025
+ENU,128459,Rafael José Costa Soares,PSIQUIATRIA,73,,366,86.36363636363636,366 (86),revisao,"nome parecido, mas não igual",Rafaela Costa Soares,Intensivo 2026
+ENU,376642,Maria Carolina Alves,PSIQUIATRIA,98,,869,86.36363636363636,"869 (86), 341 (85)",revisao,"nome parecido, mas não igual",Natália Carolina M. Alves,Intensivo 2026
+ENU,944512,Larissa Moura Vieira Conceição,PSIQUIATRIA,99,,562,85.71428571428572,562 (86),revisao,"nome parecido, mas não igual",Larissa Vieira da Costa Moura,Extensivo 2025
+ENU,252164,Vitória Clara Gomes,RADIOLOGIA,21,,761,89.47368421052632,761 (89),revisao,"nome parecido, mas não igual",Vitória Clara Lopes,Intensivo 2026
+ENU,755703,Fábio Ribeiro,RADIOLOGIA,25,,1211,92.3076923076923,1211 (92),revisao,"nome parecido, mas não igual",fábio riebiro,Extensivo 2025
+ENU,399466,Leonardo José Ribeiro,RADIOLOGIA,33,,1024,85.71428571428572,1024 (86),revisao,"nome parecido, mas não igual",Leonardo Dias Ribeiro,Intensivo 2026
+ENU,700802,Beatriz Pereira,RADIOLOGIA,46,,106,90.32258064516128,106 (90),revisao,"nome parecido, mas não igual",Beatriz Ferreira,Extensivo 2025
+ENU,972059,Vinícius Henrique Lopes da Silva,RADIOLOGIA,90,,1742,85.24590163934427,1742 (85),revisao,"nome parecido, mas não igual",Vinicius Henrique Oliveira da Silva,R+ Clínica 2026
+ENU,762767,Lucas Eduardo Brandão Freitas Silva,RADIOLOGIA,91,,1635,87.09677419354838,1635 (87),revisao,"nome parecido, mas não igual",Lucas  Eduardo Brandao Silva ,Extensivo 2025
+ENU,393225,Felipe Antônio Fernandes Teixeira,RADIOLOGIA,105,,544,90.0,544 (90),revisao,"nome parecido, mas não igual",Felipe  A. Fernandes Teixeira ,Extensivo 2026
+ENU,797642,Isabela Beatriz Conceição Silva,RADIOLOGIA,131,,1104,89.28571428571429,1104 (89),revisao,"nome parecido, mas não igual",Isabela Beatriz Conceição,Intensivo 2026
+ENU,610787,Natália Carolina Martins Alves,RADIOLOGIA,132,,869,88.88888888888889,869 (89),revisao,"nome parecido, mas não igual",Natália Carolina M. Alves,Intensivo 2026
