@@ -131,10 +131,6 @@ revisão por motivo.
 - `token_sort_ratio` é uma medida simples. Um próximo passo seria combinar medidas ou dar mais peso
   ao primeiro e ao último nome.
 
-## Uso de IA
-
-Código desenvolvido com auxílio de IA (Claude) e revisado pelo autor.
-
 ## Autor
 
 Luccas Nunes · [github.com/luccas-data](https://github.com/luccas-data)
